@@ -17,7 +17,7 @@ For each part, there are 4 sections:
 	
 *	Introduction to classics
 
-	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. The students are required to submit a reading report for one book she chooses.
+	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. Each student is required to submit a reading report for one book she chooses.
 	
 *	Writing skill
 
