@@ -476,7 +476,7 @@ Acceptance testing is an inherent part of custom systems development.
 
 *	codec (coder + decoder)
 
-*	transeiver (transmitter + receiver)
+*	transceiver (transmitter + receiver)
 
 *	syscall (system + call)
 
