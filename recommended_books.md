@@ -39,7 +39,9 @@ What others in the trenches say about The Pragmatic Programmer
 
 "If I'm putting together a project, it's the authors of this book that I want...And failing that I'd settle for people who've read their book."
 
---Ward Cunningham Straight from the programming trenches, 
+--Ward Cunningham Straight 
+
+From the programming trenches
 
 The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you'll learn how to 
 
