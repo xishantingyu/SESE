@@ -1,15 +1,12 @@
-SESE
-====
+# Specialized English for Software Engineering(SESE)
 
-Specialized English for Software Engineering
+The course is divided into 8 units, corresponding to 8\-day classes. 
 
-The course is divided into 8 parts, corresponding to 8 days. 
-
-For each part, there are 4 sections:
+For each unit, there are 4 sections:
 
 *	Reading comprehension
 	
-	An article in software field is provided in advance. On the class, the instructor will explain the key points of the article. And an interactive session including discussion by the students on it.
+	An article in software field is provided in advance. On the class, the instructor will explain the key points of the article. And an interactive session including discussion by the students on it will be conducted.
 	
 *	Specialized English in software engineering
 
@@ -21,8 +18,11 @@ For each part, there are 4 sections:
 	
 *	Writing skill
 
-	Like email, meeting minutes, weekly report, requirement doc, test plan, test report, resume, abstract of master thesis. Students are required to submit writting exercises.
+	How to write in the daily life of a software engineer? like email, meeting minutes, weekly report, requirement doc, test plan, test report, resume, abstract of master thesis. Students are required to submit writting exercises for each unit as assignments.
 	
-	 
-There will be no final exam for this course. The score will depend on attendence and homework and the reading report.
+There will be __NO__ final exam for this course. Grading will base on:
+
+*	class attendence and performance, 16%;
+*	writting assignments, 64%;
+*	reading report, 20%.
 
