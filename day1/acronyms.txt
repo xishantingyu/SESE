@@ -1,0 +1,514 @@
+ABC Activity Based Costing 基于活动的成本核算 
+
+ABM Activity Based Management 基于活动的管理 
+
+ACWP Actual Cost of Work Performed 已完成工作实际成本 
+
+ADM Arrow Diagram Method 箭线图方法 
+
+ADP Automated Data Processing 自动化数据处理 
+
+ADR Alternative Dispute Resolution 替代争议解决方案 
+
+AF Actual Finish Date 实际完成日期 
+
+AFE Application for Expenditure 支出申请 
+
+AFE Authority for Expenditure 开支权 
+
+ALAP As-Late-As-Possible 尽可能晚 
+
+AMR Advanced Material Release 材料提前发布 
+
+AOA Activity on Arc 弧线表示活动双代号网络 
+
+AOA Activity on Arrow 箭线表示活动双代号网络 
+
+AON Activity on Node 节点表示活动单代号网络 
+
+AOQ Average Outgoing Quality 平均出厂质量 
+
+AOQL Average Outgoing Quality Limit 平均出厂质量限度 
+
+APMA Area of Project Management Application 项目管理的应用领域 
+
+APR Acquisition Plan Review 采购计划评审 
+
+AQL Acceptable Quality Level 可接受质量水平 
+
+AS Actual Start Date 实际开始日期 
+
+ASAP As-Soon-As-Possible 尽快 
+
+ATP Acceptance Test Procedure 验收测试过程 
+
+AUW Authorized Unpriced Work 批准的未定价工作 
+
+BAC Budget at Completion 完工预算 
+
+BAC Baseline at Completion 完成/完工基线 
+
+BATNA Best Alternative to Negotiated Agreement 协议外最佳方案 
+
+BCM Business Change Manager 商业变更经理 
+
+BCWP Budgeted Cost of Work Performed 已完工作预算成本 
+
+BCWS Budgeted Cost of Work Scheduled 计划工作的预算成本 
+
+BEC Elapsed Cost 计划工作的预算成本 
+
+BOOT Build, Own, Operate, Transfer 建造拥有经营转让 
+
+BPA Blanket Purchase Agreement 一揽子采购协议 
+
+BSA Balanced Scorecard Approach 平衡记分卡方法 
+
+C/SCSC Cost/Schedule Control System Criteria 成本控制系统标准? 
+
+C/SSR Cost/Schedule Status Report 成本/进度状态报告 
+
+CA Control Account 控制帐目 
+
+CAD Computer Aided Drafting/Design 计算机辅助制图/设计 
+
+CAM Cost Account Manager 成本帐目经理 
+
+CAM Computer Aided Manufacturing 计算机辅助制造 
+
+CAM Control Account Manager 控制帐目经理 
+
+CAP Cost Account Plan 成本帐目计划 
+
+CAP Control Account Plan 控制帐目计划 
+
+CAR Capital Appropriation Request 资本划拨请求 
+
+CBD Component-Based Development 基于构件的开发 
+
+CBS Cost Breakdown Structure 成本分解结构 
+
+CCB Change Control Board 变更管理委员会 
+
+CCDR Contractor Cost Data Report 承包商成本数据报告 
+
+CDR Critical Design Review 关键设计评审 
+
+CI Configuration Item 配置项 
+
+CM Configuration Management/Construction Management 配置管理/施工管理 
+
+CPFFC Cost Plus Fixed Fee Contract 成本加固定费用合同 
+
+CPI Cost Performance Index 成本绩效指数 
+
+CPI Cost Performance Indicator 成本绩效指数 
+
+CPIFC Cost Plus Incentive Fee Contract 成本加奖励费用合同 
+
+CPM Critical Path Method 关键路径法 
+
+CPN Critical Path Network 关键路径网络图 
+
+CPPC Cost Plus Percentage of Cost Contract 成本加成本百分比合同 
+
+CPR Cost Performance Ratio 成本绩效比率 
+
+CPR Cost Performance Report 成本绩效报告 
+
+CPU Central Processing Unit 中央处理单元 
+
+CR Change Request 变更请求 
+
+CSCI Computer Software Configuration Item 计算机软件配置 
+
+CSF Critical Success Factors 关键的成功因素 
+
+CTC Contract Target Cost 合同目标成本 
+
+CTP Contract Target Price 合同目标价格 
+
+CTR Cost-Time Resource Sheet 成本时间资源表 
+
+CV Cost Variance 成本偏差 
+
+CWBS Contract Work Breakdown Structure 合同工作分解结构 
+
+DBA Database Administrator 数据库管理员 
+
+DBM Dynamic Baseline Model 动态基线模型 
+
+DBMS Database Management System 数据库管理系统 
+
+DCE Distributed Computing Environment 分布式计算环境 
+
+DCF Discounted Cash Flow 折现现金流 
+
+DD Data Date 数据日期 
+
+DID Data Item Description 工作项描述 
+
+DRD documentation Requirements Description 文档要求说明 
+
+DU Duration 工期持续时间 
+
+EAC Estimated Actual at Completion 实际完工估算 
+
+ECC Estimated Cost to Complete 尚未完成的成本估算 
+
+ECP Engineering Change Proposal 工程变更建议书 
+
+EF Early Finish Date 最早完成日期 
+
+EFC Estimated Final Cost 估算的最终成本 
+
+EMR Expenditure Management Report 支出管理报告 
+
+EPS Enterprise Project Structure 企业项目结构 
+
+ERP Enterprise Resource Planning 企业资源规划 
+
+ERPS Enterprise Resource Planning Systems 企业资源规划系统 
+
+ES Early Start Date 最早开始日期 
+
+ESAR Extended Subsequent Applications Review 扩展后续应用评审 
+
+ETC Estimate To Complete 尚未完成/完工的估算 
+
+EV Expected value 期望值 
+
+EVMS Earned value Management System 挣值管理系统 
+
+FAC Forecast At Completion 完工预测 
+
+FF Free Float 自由浮动时间 
+
+FFP Firm Fixed Price Contract 严格固定价格合同 
+
+FIFO First In, First Out 先进先出 
+
+FM Functional Manager 职能经理 
+
+FP Fixed Price Contract 固定价格合同 
+
+FPPIF Fixed Price Plus Incentive Fee Contract 固定价格加激励酬 
+
+FTC Forecast to Completion 完工尚需预测 
+
+FTP File Transfer Protocol 文件传输协议 
+
+G&A General and Administrative Costs 综合行政管理成本 
+
+G&A General and Administrative 综合行政管理费 
+
+GAAP Generally Accepted Accounting Principles 公认会计原则 
+
+GERT Graphical Evaluation and Review Technique 图形评审技术 
+
+GUI Graphical User Interface 图形用户界面 
+
+HQ Headquarters 总部 
+
+HRM Human Resources Management 人力资源管理 
+
+HTML Hyper Text Markup Language 超文本标记语言 
+
+HTTP Hyper Text Transport Protocol 超文本传输协议 
+
+IAW In Accordance With 依照 
+
+IBR Integrated Baseline Review 集成基线的评审 
+
+IDC Interest-During-Construction 项目建造期间利息 
+
+IFB Invitation for Bid 投标邀请函 
+
+IFB Intention for Bid 投标意向书 
+
+ILS Integrated Logistics Support 集成物流支持 
+
+IP Internet Protocol 国际互联网协议 
+
+IPDT Integrated Product Development Team 集成产品开发团队 
+
+IRR Internal Rate of Return 内部收益率 
+
+ISP Internet Service Provider 互联网服务提供商 
+
+IT Information Technology 信息技术 
+
+JIT Just In Time 适时(存货管理) 准时制造/库存管理 
+
+KPI Key Performance Indicators 关键绩效指标 
+
+KSI Key Success Indicators 关键成功指标 
+
+LAN Local Area Network 局域网 
+
+LCC Life Cycle Cost 生命期成本 
+
+LF Late Finish 最晚完成时间 
+
+LFD Late Finish Date 最晚完成日期 
+
+LIFO Last In, First Out 后进先出法 
+
+LML Lowest Management Level 最低管理级别 
+
+LOA Limits of Authority 授权范围 
+
+LOB Line of Balance 平衡线 
+
+LOE Level of Effort 投入水平 
+
+LQ Limiting Quality 质量限制 
+
+LS Late Start 最晚开始时间 
+
+LSB Lowest Static Baseline 最低静态基线 
+
+LSD Late Start Date 最晚开始日期 
+
+MBM Management by Methods 方法管理 
+
+MBO Management by Objectives 目标管理 
+
+MBP Management by Politics 政策管理 
+
+MBR Management by Rules 规则管理 
+
+MBV Management by Values 价值管理 
+
+MBWA Management by Walking Around 走动管理 
+
+MIME Multipurpose Internet Mail Extension 多用Internet 邮件扩充协议 
+
+MIS Management Information System 管理信息系统 
+
+MOA Memorandum of Agreement 协议备忘录 
+
+MOBP Managing Organizations by Projects 按项目管理组织 
+
+MOF Published Model 已发布的模型 
+
+MOU Memorandum of Understanding 谅解备忘录 
+
+MPM Modern Project Management 现代项目管理 
+
+MR Management Reserve 管理储备 
+
+MRP Material Requirements Planning 材料需求计划编制 
+
+MSA Mid-Stage Assessment 中期评估 
+
+MTBF Mean Time Between Failures 平均故障间隔时间 
+
+N/A Not Applicable 不适用 
+
+NIH Not Invented Here 禁止意见发表 
+
+NPV Net Present value 净现值 
+
+NTE Not to Exceed 不得超过后面的两段 
+
+O&M Operations and Maintenance 运营和维护 
+
+OBS Organizational Breakdown Structure 组织分解结构 
+
+ODC Other Direct Costs 其它直接成本 
+
+OJT On-the-job Training 在职培训 
+
+OTB Over Target Baseline 超目标基线计划 
+
+PAR Problem Analysis Report 问题分析报告 
+
+PAT Project Assurance Team 项目保证团队 
+
+PBR Program Benefits Review 项目群收益评审 
+
+PBS Product Breakdown Structure 产品分解结构 
+
+PC Percent Complete 完成比 
+
+PCA Physical Configuration Audit 物理配置审核 
+
+PDLC Project Development Life Cycle 项目开发生命周期 
+
+PDM Precedence Diagram Method 前导图法优先图法 
+
+PDS Program Definition Statement 项目群定义说明书 
+
+PERT Program Evaluation and Review Technique 计划评审技术 
+
+PF Planned Finish Date 计划完成日期 
+
+PGP Pretty Good Privacy 优秀密钥 
+
+PLS Project Life Span 项目生命跨度 
+
+PM Project Manager 项目经理 
+
+PM Project Management 项目管理 
+
+PMB Performance Measurement Baseline 绩效测量基线 
+
+PMBOK Project Management Body of Knowledge 项目管理知识体系 
+
+PMIS Project Management Information System 项目管理信息系统 
+
+PMO Project Management Office 项目管理办公室 
+
+PMP Project Management Professional 项目管理专业人员 
+
+PMS Portfolio Management System 项目组合管理系统 
+
+PMT Performance Measurement Techniques 绩效测量技术 
+
+PMT Performance Measurement Techniques 绩效测量技术 
+
+POC Point of Contact 联络点 
+
+PPL Project Products List 项目产品列表 
+
+PRD Product Requirements document 产品需求说明书 
+
+PRT Product Realization Team 产品实现团队 
+
+PS Planned Start Date 计划开始日期 
+
+PSA Professional Services Agreement 专业服务协议 
+
+PSO Program Support Office 项目群支持办公室 
+
+PSP Professional Services Provider 专业服务提供者 
+
+PV Price Variance 价格偏差 
+
+PVWA Planned value for Work Accomplished 已完成工作的计划价值 
+
+PVWS Planned value for Work Scheduled 计划工作的计划价值 
+
+QA Quality Assurance 质量保证 
+
+QAR Quality Assurance Representative 质量保证代表 
+
+QC Quality Control 质量控制 
+
+QPL Qualified Product List 合格产品清单 
+
+RAM Responsibility Assignment Matrix 责任分配矩阵 
+
+RAM Responsibility/Accountability Matrix 责任矩阵 
+
+RAMP Risk Analysis and Management for Projects 项目的风险分析和管理 
+
+RBS Resource Breakdown Structure 资源分解结构 
+
+RF Remaining Float 剩余浮动时间 
+
+RFA Request for Appropriation 经费申请 
+
+RFC Request for Change 变更申请 
+
+RFP Request for Proposal 建议书邀请函 
+
+RFQ Request for Quotation 报价邀请函 
+
+RMB Risk Management Budget 风险管理预算 
+
+ROI Return on Investment 投资回报 
+
+ROM Rough Order of Magnitude Estimate 粗数量级估计 
+
+RPWM Ranked Positional Weight Method 重要位置排序法 
+
+SAR Subsequent Application Review 跟踪应用评审 
+
+SC Scheduled Cost 计划成本 
+
+SCR System Concept Review 系统概念评审 
+
+SDL Software Development Library 软件开发库 
+
+SDR System Design Review 系统设计评审 
+
+SDWT Self Directed Work Teams 自我指导工作团队 
+
+SF Level Finish/Schedule 经平衡的结束时间/进度表 
+
+SF Scheduled Finish 计划完成点 
+
+SF Scheduled Finish Date 计划完成日期 
+
+SF Secondary Float 次要浮动时间 
+
+SLVAR Summary Level Variance Analysis Reporting 差异分析报告汇总 
+
+SOW Statement of Work 工作说明书 
+
+SPI Schedule Performance Index 进度绩效指数 
+
+SPR Scheduled Performance Ratio 进度绩效比 
+
+SRR System Requirements Review 系统需求评审 
+
+SS Scheduled Start 计划开始点 
+
+SSD Scheduled Start Date 计划开始日期 
+
+SV Schedule Variance 进度偏差 
+
+SWAG Scientific Wild Anatomical Guess 科学粗略剖析性猜测 
+
+T&E Test and Evaluation 测试和评估 
+
+T&M Time and Material Contract 时间和材料合同 
+
+TAB Total Allocated Budget 全部分配预算 
+
+TAE Total Anticipated Expenditures 全部预测支出 
+
+TBA To Be Advised 有待完善 
+
+TBD To Be Determined 有待确定 
+
+TC Target Completion Date 目标完成日期 
+
+TCCC Transfer of Care, Custody and Control 权责移交 
+
+TCPI To Complete Performance Index 待完成绩效指数 
+
+TF Total Float 总浮动时间 
+
+TOC Theory of Constraints 约束理论 
+
+ToR Terms of Reference 职责范围 
+
+TQM Total Quality Management 全面质量管理 
+
+TRR Test Readiness Review 测试准备情况评审 
+
+UB Undistributed Budget 未分配预算 
+
+UI User Interface 用户界面 
+
+UML Unified Modeling Language 统一建模语言 
+
+UP Unit Price Contract 单价合同 
+
+URL Uniform Resource Locator 统一资源定位符 
+
+VAC Variance at Completion 完成时的偏差 
+
+VE Value Engineering 价值工程 
+
+VM Value Management 价值管理 
+
+WBS Work Breakdown Structure 工作分解结构 
+
+WP Work Package 工作包 
+
+WYSIWYG What You See Is What You Get 所见即所得
+
