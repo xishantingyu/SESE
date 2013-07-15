@@ -14,7 +14,7 @@ For each unit, there are 4 sections:
 	
 *	Introduction to classics
 
-	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. Each student is required to submit a reading report for one book she chooses.
+	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. Each student is required to submit a reading report (no less than 500 words) for one book she chooses.
 	
 *	Writing skill
 
@@ -22,7 +22,7 @@ For each unit, there are 4 sections:
 	
 There will be __NO__ final exam for this course. Grading will base on:
 
-*	class attendence and performance, 16%;
-*	writting assignments, 64%;
+*	class attendence and performance, 16%, 2% each;
+*	writting assignments, 64%, 8% each;
 *	reading report, 20%.
 
