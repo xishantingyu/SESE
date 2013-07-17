@@ -1,5 +1,14 @@
 The follwing is a list of recommended books with descriptions from <http://www.amazon.com>.
 
+*	The Pragmatic Programmer
+*	Clean Code
+*	More Joel on Software
+*	Hackers and Painters
+*	The Cathedral and the Bazaar
+*	Peopleware
+*	Coders at Work
+*	The Mythical Man-Month
+
 
 # [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
 
