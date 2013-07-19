@@ -14,9 +14,9 @@ For each unit, there are 4 sections:
 	
 *	Specialized English in software engineering
 
-	Like Specialized vocabulary composition, complex sentences analysis, passive voice, translation, etc.
+	Like Specialized vocabulary composition, complex sentences analysis, passive voice, translation, general presentation, writing skill, etc.
 	
-*	Introduction to classics
+*	Introduction to recommeded books
 
 	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. Each student is required to submit a reading report (no less than 500 words) for one book she chooses.
 	
@@ -26,7 +26,7 @@ For each unit, there are 4 sections:
 	
 ## course outline
 
-### day1
+### day 1
 *	course introduction
 *	read and discuss **30 Years of Hello, World**
 *	how to write *email*
@@ -34,7 +34,7 @@ For each unit, there are 4 sections:
 *	introduction to **Coders at Work**
 *	assignment_1
 
-### day2
+### day 2
 *	read and discuss **Cloud Computing: The Future of IT**
 *	technology English characteristics
 *	how to write agenda & meeting minutes
@@ -42,42 +42,42 @@ For each unit, there are 4 sections:
 *	assignment_2
 
 
-### day3
+### day 3
 *	read and discuss **Data, Information, and Knowledge in Visualization**
 *	passive voice in technology English
 *	how to write *weekly report*
 *	introduction to **Hackers_and_Painters**
 *	assignment_3
 
-### day4
+### day 4
 *	read and discuss **NoSQL Databases**
 *	attributive clause in technology English
 *	how to write *requirement document*
 *	introduction to **The Pragmatic Programmer**
 *	assignment_4
 
-### day5
+### day 5
 *	read and discuss **On Designing and Deploying Internet-Scale Services**
 *	long sentence analysis
 *	how to write *test plan*
 *	introduction to **Clean Code**
 *	assignment_5
 
-### day6
+### day 6
 *	read and discuss **iOS Security**
 *	how to write *test report*
 *	translation_skill
 *	introduction to **The Cathedral and the Bazaar**
 *	assignment_6
 
-### day7
+### day 7
 *	introduction to **Peopleware**
 *	presentation skill
 *	read and discuss **Introduction to Embedded Linux**
 *	how to write *resume*
 *	assignment_7
 
-### day8
+### day 8
 *	read and discuss **AddressSanitizer - A Fast Address Sanity Checker**
 *	general writing skill
 *	how to write *abstract of thesis*
