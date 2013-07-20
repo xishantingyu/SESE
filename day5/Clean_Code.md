@@ -1,14 +1,14 @@
 # Introduction to 
 
-# <center> *Coders at Work*</center>
+# <center> *Clean Code*</center>
 
 ---
 
-# Coders at Work
+# Clean Code
 
-![](../pic/Coder_at_work.jpg)
+![](../pic/Clean_Code.jpg)
 
-published in 2009
+published in 2008
 
 ---
 
@@ -17,11 +17,11 @@ published in 2009
 # About the author
 
 
-![](../pic/PeterSeibel.jpg)
+![](../pic/Robert_C_Martin.jpg)
 
-*Peter Seibel* is either a writer turned programmer or programmer turned writer. After picking up an undergraduate degree in English and working briefly as a journalist, he was seduced by the web. In the early '90s he hacked Perl for Mother Jones magazine and Organic Online. He participated in the Java revolution as an early employee at WebLogic and later taught Java programming at UC Berkeley Extension. Peter is also one of the few second-generation Lisp programmers on the planet and was a childhood shareholder in Symbolics, Inc.
+*Robert Cecil Martin*, known colloquially as "Uncle Bob", is an American software consultant and author. Martin has been a software professional since 1970 and an international software consultant since 1990. In 2001, he initiated the meeting of the group that created agile software development from extreme programming techniques. He is also a leading member of the software craftsmanship movement. His video "code casts" on the Clean Coders website can be purchased on www.cleancoders.com. He founded Object Mentor Inc., a consulting firm that specializes in training their clients in C++, Java, OOP, patterns, UML, agile methodologies, and extreme programming. From 1996 to 1999 he was the editor-in-chief of the C++ Report. In 2002 he wrote Agile Software Development: Principles, Patterns, and Practices, which gives pragmatic advice on object-oriented design and development in an agile team.
 
-In 2003 he quit his job as the architect of a Java-based transactional messaging system to hack Lisp for a year. Instead he ended up spending two years writing a book, the Jolt Productivity Award winning Practical Common Lisp. His most recent book is Coders at Work, a collection of Q&A interviews with fifteen notable programmers and computer scientists.
 
-From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
+
+From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
