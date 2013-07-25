@@ -6,13 +6,10 @@
 
 ----
 
-# Email
+# Mailing list
 
-send an message to the lecturer
-
-*	student ID
-*	full name (Chinese/English)
-*	refer to assignment 1
+*	sese-2013@googlegroups.com
+*	join by invitation
 
 # Github
 

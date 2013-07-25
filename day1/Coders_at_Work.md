@@ -25,3 +25,43 @@ In 2003 he quit his job as the architect of a Java-based transactional messaging
 
 From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 
+----
+
+# Acknowledgments
+
+Interesting expressions
+
+----
+
+# Jamie Zawinski
+
+*	Lisp hacker, early Netscape developer, and nightclub owner
+*	worked in the Lisp and AI world for nearly a decade
+*	He worked at UC Berkeley for Peter Norvig
+*	at Lucid leading the development of Lucid Emacs, later renamed XEmacs
+*	In 1994 he joined Netscape as one of the original developers of the Unix version of the Netscape browser and later of the Netscape mail reader
+
+----
+
+# Jamie Zawinski
+
+*	debug GDB
+*	a lot on programming and languages
+*	Perl & C++
+*	"we’d had an impact on people’s lives"
+*	second-system syndrome?
+*	reminds me on netscape
+*	overengineering
+*	XScreenSaver
+*	how to debug
+*	testing
+*	maintaining
+*	code organization
+*	team organization
+*	recognize talent
+*	somewhere between craftsman and artist
+*	books
+
+----
+
+# Brad Fitzpatrick
