@@ -27,13 +27,21 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 
 ----
 
+# My Impression
+
+*	15 interviews
+*	a lot of oral
+*	
+
+----
+
 # Acknowledgments
 
 Interesting expressions
 
 ----
 
-# Jamie Zawinski
+# Jamie Zawinski's profile
 
 *	Lisp hacker, early Netscape developer, and nightclub owner
 *	worked in the Lisp and AI world for nearly a decade
@@ -43,7 +51,7 @@ Interesting expressions
 
 ----
 
-# Jamie Zawinski
+# Jamie Zawinski's topics
 
 *	debug GDB
 *	a lot on programming and languages
@@ -64,4 +72,16 @@ Interesting expressions
 
 ----
 
-# Brad Fitzpatrick
+# Brad Fitzpatrick's profile
+
+*	Born in 1980, learn to program at five
+*	start LiveJournal before college
+*	open source software, including memcached, Perlbal, and MogileFS
+
+----
+
+# Brad Fitzpatrick's topics
+
+*	CGI in Perl
+*	LiveJournal experience
+*	
