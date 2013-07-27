@@ -12,8 +12,6 @@ published in 2009
 
 ---
 
-
-
 # About the author
 
 
@@ -31,7 +29,6 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 
 *	15 interviews
 *	a lot of oral
-*	
 
 ----
 
@@ -83,5 +80,18 @@ Interesting expressions
 # Brad Fitzpatrick's topics
 
 *	CGI in Perl
-*	LiveJournal experience
-*	
+*	LiveJournal[http://www.livejournal.com/] experience
+*   "you never learn something until you have to write something in it"
+*   on C++
+*   Google's App Engine
+*   study in college
+*   how to design software
+*   advice for self-taught programmers
+*   read code
+*   pair programming
+*   how to hire people?
+*   debugging
+*   optimization
+*   books
+*   tools
+
