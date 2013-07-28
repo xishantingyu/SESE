@@ -54,7 +54,8 @@ Interesting expressions
 *	a lot on programming and languages
 *	Perl & C++
 *	"we’d had an impact on people’s lives"
-*	second-system syndrome?
+*	second-system syndrome
+	-	see <http://en.wikipedia.org/wiki/Second-system_effect>
 *	reminds me on netscape
 *	overengineering
 *	XScreenSaver
@@ -94,4 +95,42 @@ Interesting expressions
 *   optimization
 *   books
 *   tools
+*   more engineer
 
+----
+
+# Douglas Crockford's profile
+
+*	senior JavaScript Architect at Yahoo!
+*	combined computers with media at Atari, Lucasfilm, Electric Communities, and Yahoo!
+*	invented JSON
+*	critic of the proposed ECMAScript 4 (ES4) revision to the ECMAScript (JavaScript) language standard
+
+----
+
+# Douglas Crockford's topics
+
+*	start programming with Fortran at San Francisco State University
+*	work in Atari research laboratory in Sunnyvale, started by Alan Kay
+*	at Lucasfilm for eight years
+*	E scripting language
+*	controversy about ECMAScript 4
+*	“Moore’s law doesn’t apply to batteries.”
+*	code reading
+	-	“an hour of code reading is worth two weeks of QA”
+*	coding style
+*	six cycle code clean up \-- refactoring
+*	"One of the reasons that we’re in the mess that we’re in is that the Web is so poorly specified."
+*	second-system effect
+*	everybody should learn to program
+*	literate programming (Donald Knuth)
+*	read Knuth
+*	how design code?
+*	JSLint
+*	tools
+*	debugging
+*	testing, JsUnit
+*	a writer
+*	Lisp and Smalltalk
+*	How to hire programmers
+*	advice for self-taught programmers
