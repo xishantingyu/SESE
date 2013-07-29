@@ -134,3 +134,49 @@ Interesting expressions
 *	Lisp and Smalltalk
 *	How to hire programmers
 *	advice for self-taught programmers
+
+----
+
+# Brendan Eich's profile
+
+*	Creator of JavaScript
+*	CTO of the Mozilla Corporation
+*	convince Netscape to open-source its browser
+*	chief architect of mozilla.org
+
+----
+
+# Brendan Eich's topics
+
+*	learn to program on DEC TOPS-20 in the late ’70s, early ’80s
+*	C and assembly
+*	writing game knockoffs in Pascal
+*	parser generator/macro processor
+*	Kernel and networking code in SGI
+*	static analysis
+*	low\-level vs high\-level programming
+*	how the original JavaScript was implemented
+*	ES4, ECMAScript 4 proposal
+*	js and other languages
+*	programming languages design
+*	proofs
+*	"The worst bugs are the multithreaded ones."
+*	debuggers
+	-	Valgrind framework
+	-	Chronomancer
+	-	Replay
+	-	Helgrind
+*	As Oscar Wilde said of socialism, “It takes too many evenings.”
+*	how to design code?
+*	rewrite
+*	literate programming
+*	read code
+*	books
+*	how to recognize programming talent?
+*	Pirsig’s Zen and the Art of Motorcycle Maintenance, a book
+
+----
+
+
+
+	
