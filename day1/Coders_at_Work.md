@@ -177,6 +177,49 @@ Interesting expressions
 
 ----
 
+# Joshua Bloch's profile
 
+*	Chief Java Architect at Google
+*	Distinguished Engineer at Sun
+*	led the design and implementation of the Java Collections Framework introduced in Java 2
+*	PhD from Carnegie-Mellon
+*	Effective Java, coauthored Java Puzzlers and Java Concurrency in Practice
+*	a strong advocate of Java
+*	a strong advocate of treating programming as API design
 
+----
+
+# Joshua Bloch's topics
+	
+*	learned a little bit of Fortran from his father in 1971 on DECsystem-10
+*	programming in BASIC from about 1973 through 1976
+*	first interesting program，on July 4th, 1977，a version of the classic Twenty Questions game called “animals.”
+*	Java was the first object-oriented language used, in ’96 when he joined Sun
+*	books
+	-	Design Patterns
+	-	Elements of Style
+	-	Hacker’s Delight
+	-	The Art of Computer Programming
+	-	The Elements of Programming Style
+	-	The Mythical Man Month
+	-	Java Concurrency in Practice
+	-	Collegiate Dictionary, 11th Edition
+
+*	how to speed up the process of getting to fluency in a new language?
+*	Metcalfe’s law: the value of a network is proportional to the square of the number of users.
+*	math and programming
+*	process for designing software
+*	test-first programming and refactoring the APIs
+*	how to read a big program?	
+*	tools used to program
+	- 	Emacs
+	-	IntelliJ
+	
+*	debugging
+*	development of Java
+*	Scala/Python/Scheme
+*	Erlang/STM
+*	“buddy programming”
+*	The Psychology of Computer Programming
+	
 	
