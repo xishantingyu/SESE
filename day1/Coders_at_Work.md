@@ -221,5 +221,46 @@ Interesting expressions
 *	Erlang/STM
 *	“buddy programming”
 *	The Psychology of Computer Programming
+
+----
+
+# Joe Armstrong's profile
+
+*	creator of the programming language Erlang and the Open Telecom Platform (OTP)
+*	founding member of the British Robotics Association
+*	invented Erlang at the Ericsson Computer Science Lab
+
+----
+
+# Joe Armstrong's topics
+
+----
+
+*	started programming in Fortran at 17 on an IBM
+*	Honeywell DDP-516
+*	Machine Intelligence
+*	Donald Michie’s research assistant, Department of Machine Intelligence at Edinburgh
+*	physicist programmer for the EISCAT scientific association
+*	software reuse
+*	bottom-up coding style
+*	Erlang's birth
+*	languages influenced the design of Erlang
+*	Tony Hoare’s CSP, Communicating Sequential Processes
+*	debugging
+*	Joe’s Law of Debugging
+	-	all errors will be plus/minus three statements of the place you last changed the program
+*	pair programming
+*	how to design software?
+*	documentation
+*	programming languages
+*	Hamming’s advice to young researchers
+*	Platonic beauty
+*	how to find good programmers?
+*	three types of hardware parallelism
+
+----
+
+
+
 	
 	
