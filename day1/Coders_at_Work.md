@@ -66,7 +66,7 @@ Interesting expressions
 *	team organization
 *	recognize talent
 *	somewhere between craftsman and artist
-*	books
+*	books for programmers
 
 ----
 
@@ -93,7 +93,7 @@ Interesting expressions
 *   how to hire people?
 *   debugging
 *   optimization
-*   books
+*   books for programmers
 *   tools
 *   more engineer
 
@@ -171,7 +171,7 @@ Interesting expressions
 *	rewrite
 *	literate programming
 *	read code
-*	books
+*	books for programmers
 *	how to recognize programming talent?
 *	Pirsig’s Zen and the Art of Motorcycle Maintenance, a book
 
@@ -195,7 +195,7 @@ Interesting expressions
 *	programming in BASIC from about 1973 through 1976
 *	first interesting program，on July 4th, 1977，a version of the classic Twenty Questions game called “animals.”
 *	Java was the first object-oriented language used, in ’96 when he joined Sun
-*	books
+*	books for programmers
 	-	Design Patterns
 	-	Elements of Style
 	-	Hacker’s Delight
@@ -246,7 +246,7 @@ Interesting expressions
 *	Erlang's birth
 *	languages influenced the design of Erlang
 *	Tony Hoare’s CSP, Communicating Sequential Processes
-*	debugging
+*	debugging on 
 *	Joe’s Law of Debugging
 	-	all errors will be plus/minus three statements of the place you last changed the program
 *	pair programming
@@ -260,7 +260,55 @@ Interesting expressions
 
 ----
 
+# Simon Peyton Jones' profile
 
+*	Principal Researcher at Microsoft Research’s lab in Cambridge, England
+*	edited the Haskell 98 Revised Report
+*	architect and lead developer of the Glasgow Haskell Compiler (GHC)
+*	“Avoid success at all costs.”
+*	Fellow of Association for Computing Machinery
 
+----
+
+# Simon Peyton Jones' topics
+
+*	functional programming
+*	Software Transactional Memory
+*	started programming on an IBM schools computer at about 15, 1974, ’73
+*	Elliot 803, Algol
+*	Phoenix at university at Cambridge, BCPL
+*	built various computers with Thomas Clarke
+*	A program to extract 24-digit square roots using Newton-Raphson approximation
+*	PL/Z on a Z80 running Chromix
+*	John Washbrook, “Just start something, no matter how humble.”
+*	PhD or not?
+*	functional programming
+*	the proof of the pudding is in the eating
+*	course given by Arthur Norman
+*	David Turner’s papers on S-K combinators
+*	SKIM, the SKI Machine, by William Stoye and Thomas Clarke
+*	John Backus’s paper, “Can Programming Be Liberted from the von Neumann Style”,“Functional programming is the way of the future.” 
+*	Lazy evaluation
+*	John Hughes’s paper, “Why Functional Programming Matters.”
+*	typing
+*	designing software
+	-	QuickCheck, a Haskell library for generating random tests
+	-	debugging
+	-	specification
+*	concurrency
+	-	STM
+	-	locks and condition variables
+	-	starvation
 	
-	
+*	books for programmers
+	-	Jon Bentley’s Programming Pearls
+	-	Brian Hayes's chapter, “Writing Programs for ‘The Book’” in book Beautiful Code
+	-	The Art of Computer Programming
+	-	Chris Okasaki’s book Purely Functional Data Structures
+	-	Structure and Interpretation of Computer Programs
+	-	Andrew Appel’s Compiling with Continuations
+	-	A Discipline of Programming by Dijkstra. Dijkstra
+	-	Per Brinch Hansen’s book about writing concurrent operating systems.
+*	"The Secrets of the GHC Inliner"
+*	Fred Brooks’s paper, “The Computer Scientist as Toolsmith”
+*	beautiful code
