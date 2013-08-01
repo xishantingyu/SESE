@@ -425,6 +425,43 @@ Interesting expressions
 *	code beauty 
 	-	“The Story of Mel, a Real Programmer.” <http://en.wikipedia.org/wiki/The_Story_of_Mel>
 	-	code of TeX
-		
+
+----
+
+# Dan Ingalls's profile
+
+*	mother of Smalltalk
+*	involved in implementing seven generations of Smalltalk from the first prototype to the present-day open source implementation
+*	started programming with Fortran
+*	joined Kay’s Learning Research Group at Xerox PARC
+*	Distinguished Engineer at Sun Microsystems
+*	Association for Computing Machinery Grace Murray Hopper Award in 1984 and the ACM Software System Award in 1987 for his work on Smalltalk. 
+*	In 2002 he won the Dr. Dobb’s Excellence in Programming Award.
+
+----
+
+# Dan Ingalls's topics
+
+*	took programming in Fortran at Harvard
+*	took some computer-science courses at Stanford in double E
+*	a Fortran sampling profiler
+*	same profiler for COBOL
+*	Lively Kernel
+*	BitBlt
+*	Squeak
+*	testing
+*	books and papers
+	-	Val Schorre’s paper on META II
+	-	the LISP 1.5 book
+*	how to be a good technical leader?
+*	Alan Kay
+*	debugging
+	-	garbage-collection bug
+	-	“Determined Debugger Award”
+*	no C++
+*	code reading
+*	all of a scientist, an engineer, an artist, and a craftsman, the engineer is probably the least
+*	recommendations for people who want to be programmers
+*	reading about famous people
 
 ----
