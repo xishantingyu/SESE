@@ -465,3 +465,43 @@ Interesting expressions
 *	reading about famous people
 
 ----
+
+# L Peter Deutsch's profile
+
+*	started programming in the late ’50s, at age 11
+*	involved with Project Genie as a sophomore at UC Berkeley
+*	worked on the Interlisp system and on the Smalltalk virtual machine at Xerox PARC
+*	served as Chief Scientist at the PARC spin-off, ParcPlace
+*	Fellow at Sun Microsystems
+*	“Seven Fallacies of Distributed Computing”
+*	author of Ghostscript
+*	received the Association for Computing Machinery Software System Award, for their work on Interlisp
+*	elected a Fellow of the ACM in 1994
+
+----
+
+# L Peter Deutsch's topics
+
+*	started programming by accident at 11
+*	playing on the PDP-1s at MIT by 14
+*	did his Lisp implementation on the PDP-1
+*	intuition
+*	wrote pretty much the whole operating-system kernel at Project Genie
+*	Ghostscript
+*	data structures first. Rough division into modules
+*	important mentors
+	-	Calvin Mooers
+	-	Danny Bobrow
+	-	Jerry Elkind
+*	software developer
+*	XP
+*	software as expense vs. software as capital asset
+*	Gordian knot <http://en.wikipedia.org/wiki/Gordian_Knot>
+*	functional languages
+*	program correctness
+*	Python
+*	Language systems stand on a tripod: language, libraries, tools
+*	lost interest in software
+*	China shows that you can do it pretty effectively
+
+----
