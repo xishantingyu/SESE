@@ -29,6 +29,7 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 
 *	15 interviews
 *	a lot of oral
+*	really owewsome people
 
 ----
 
@@ -67,6 +68,10 @@ Interesting expressions
 *	recognize talent
 *	somewhere between craftsman and artist
 *	books for programmers
+	-	Structure and Interpretation of Computer Programs
+	-	book on debugging by someone from MS
+	-	Design Patterns
+	-	The Art of Computer Programming
 
 ----
 
@@ -94,6 +99,8 @@ Interesting expressions
 *   debugging
 *   optimization
 *   books for programmers
+	-	MJD’s Higher-Order Perl
+	-	The Art of Computer Programming
 *   tools
 *   more engineer
 
@@ -357,7 +364,67 @@ Interesting expressions
 *	reading code
 *	craftsman
 *	how to recognize a great programmer
-*	
 
+----
+
+# Guy Steele's profile
+
+*	a true programming polyglot, the main ones: COBOL, Fortran, IBM 1130 assembly, PDP-10 machine language, APL, C, C++, Bliss, GNAL, Common Lisp, Scheme, Maclisp, S-1 Lisp, *Lisp, C*, Java, JavaScript, Tcl, Haskell, FOCAL, BASIC, TECO, and TeX
+*	had a hand in the creation of Common Lisp and Scheme
+*	served on the standards bodies that defined Common Lisp, Fortran, C, ECMAScript, and Scheme
+*	recruited by Bill Joy to help write the official language specification for Java
+*	designing Fortress, a new language for high-performance scientific computing
+*	AB from Harvard and an SM and PhD from MIT
+*	collaborated with Gerald Sussman on “The Lambda Papers”, which included the original definition of the Scheme programming language
+*	a chronicler of hacker culture: one of the original compilers and editor of **The Hacker’s Dictionary**
+*	played an important role in the birth of Emacs 
+*	one of the first programmers to port Donald Knuth’s program TeX
+*	a Fellow of the Association for Computing Machinery and the American Academy of Arts and Sciences and a member of the U.S. National Academy of Engineering
+*	won the ACM’s Grace Murray Hopper Award in 1988 and Dr. Dobb’s Excellence in Programming Award in 2005
+
+----
+
+# Guy Steele's topics
+
+*	IBM 1130 minicomputer in the basement of the Boston Latin School
+*	taught himself Fortran over Thanksgiving weekend 1968
+*	involved at MIT in the spring of 1969 in the High School Studies Program
+*	first interesting program, generate keyword-in-context indexes
+*	spent his senior year implementing his own Lisp for the IBM 1130
+*	hired by Bill Martin as Lisp programmer
+*	an employee of MIT all the time he was at Harvard
+*	books
+	-	The Art of Computer Programming
+	-	Aho, Hopcroft, and Ullman algorithms book
+	-	The Triple-I Lisp book edited by Berkeley and Bobrow
+	-	Communications of the ACM
+	-	Scientific American
+	-	The Psychology of Computer Programming by Gerald Weinberg
+	-	Mythical Man-Month
+*	reading code
+	-	TeX: The Program is so well documented and cross-referenced
+*	literate programming
+*	designing software
+	-	Maclisp
+	-	“Show me your interfaces and I won’t need your code because it’ll be redundant or irrelevant.”
+	-	interfaces, generality and orthogonality
+*	birth of Emacs
+*	language design
+	-	“growing a language”
+*	it’s a mistake to think that one language solves all problems better than any other language, or even equally well
+*	programming languages which don’t enjoy using
+	-	Perl
+	-	C++
+*	Python’s kind of nice in the way that it’s organized
+*	Haskell is a beautiful language
+*	White Knight in Through the Looking Glass
+*	writing prose vs writing code
+*	worst bug: parallel processes
+*	debugging
+*	Design by Contract
+*	code beauty 
+	-	“The Story of Mel, a Real Programmer.” <http://en.wikipedia.org/wiki/The_Story_of_Mel>
+	-	code of TeX
+		
 
 ----
