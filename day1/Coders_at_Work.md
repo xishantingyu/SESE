@@ -312,3 +312,52 @@ Interesting expressions
 *	"The Secrets of the GHC Inliner"
 *	Fred Brooks’s paper, “The Computer Scientist as Toolsmith”
 *	beautiful code
+
+----
+
+# Peter Norvig's profile
+
+*	Director of Research at Google
+*	Director of Search Quality
+*	head of the Computational Sciences Division at NASA Ames Research Center
+*	won the NASA Exceptional Achievement Award in 2001
+*	Fellow of the American Association for Artificial Intelligence and the Association for Computing Machinery
+
+----
+
+# Peter Norvig's topics
+
+*	started programming in high school (’72 or ’73) on a PDP-8 using BASIC
+*	Christopher Strachey <http://en.wikipedia.org/wiki/Christopher_Strachey>
+*	first interesting program, Game of Life, in BASIC
+*	industrial programming
+*	IBM master-programmer model is a dumb idea
+*	“Teach Yourself Programming in Ten Years” essay <http://norvig.com/21-days.html>
+*	academic computer science vs industrial programming
+*	mathematics for a competent programmer
+*	essential skill needed to be a good programmer
+	-	introspection
+*	books for programmers
+	-	on algorithm: Knuth; Cormen, Leiserson, and Rivest; Sally Goldman
+	-	on abstraction: Abelson and Sussman
+	-	Code Complete
+*	how to approach programming problems
+*	designing software
+	-	prototyping
+	-	using tests to drive design
+*	some saying in German about the perfect being the enemy of the good
+*	S-shaped curve
+*	“launch early and often” philosophy at Google
+*	formal design review at NASA
+*	differences between the “engineering” and “hacker” ethos
+*	worst bug
+	-	Mars program failures in ’98: foot\-pounds vs. newtons problem
+*	debugging
+*	literate programming
+*	reading code
+*	craftsman
+*	how to recognize a great programmer
+*	
+
+
+----
