@@ -30,6 +30,8 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 *	15 interviews
 *	a lot of oral
 *	really owewsome people
+*	most like lisp
+*	most don't like C++
 
 ----
 
@@ -477,6 +479,7 @@ Interesting expressions
 *	author of Ghostscript
 *	received the Association for Computing Machinery Software System Award, for their work on Interlisp
 *	elected a Fellow of the ACM in 1994
+*	music <http://www.major2nd.com/ae/music/>
 
 ----
 
@@ -503,5 +506,46 @@ Interesting expressions
 *	Language systems stand on a tripod: language, libraries, tools
 *	lost interest in software
 *	China shows that you can do it pretty effectively
+
+----
+
+#	Ken Thompson's profile
+
+*	work on the MULTICS project at Bell Labs
+*	invent Unix with Dennis Ritchie
+*	invented the B programming language
+*	building Belle, the first special-purpose chess computer and the strongest computerized chess player of its time
+*	devised UTF-8 Unicode encoding
+*	In 1983, Thompson and Ritchie received the Turing Award for their “development of generic operating systems theory and specifically for the implementation of the Unix operating system.”
+*	awarded the National Medal of Technology and the Institute of Electrical and Electronics Engineers Tsutomu Kanai Award, both for his work on Unix.
+
+----
+
+# Ken Thompson's topics
+
+*	G15, a drum computer
+*	Flexowriter
+*	NELIAC
+*	teaching
+*	program solving the pentaminos problem <http://en.wikipedia.org/wiki/Pentomino>
+*	BCPL
+*	how to design software
+	-	data structures before code
+	-	bottom-up
+*	Unix on PDP\-11
+	-	file system on a PDP-7
+*	worst bug
+ 	-	a hardware bug
+*	debugging
+*	optimization
+*	garbage collection
+*	identify talented programmers
+*	work at Google
+*	good or bad language
+*	development tools
+*	literate programming
+*	books
+*	Linux
+*	pair programming
 
 ----
