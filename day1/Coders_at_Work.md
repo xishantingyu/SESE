@@ -584,3 +584,39 @@ Interesting expressions
 *	working for IBM Research
 
 ----
+
+# Bernie Cosell's profile
+
+*	co-wrote the software running ARPANET IMP, Interface Message Processor, original Internet routers
+*	“czar of the PDP-1 timesharing system”
+*	wrote DOCTOR, a version of Joseph Weizenbaum’s ELIZA, based on Weizenbaum’s description in a journal article
+
+----
+
+# Bernie Cosell's topics
+
+*	programming in high school, mostly in 1620 assembler
+*	Research Lab of Electronics
+*	Project MAC
+*	BBN
+*	project with Massachusetts General Hospital
+*	MIT vs BBN
+*	books for programmers
+	-	The Art of Computer Programming
+*	IMP
+*	Frank Heart
+*	design review
+*	Doctor
+*	comments
+*	code layout style
+*	debugging
+*	reading code
+*	refactoring
+*	hire programmers
+*	combination of an artist and a craftsman
+*	beauty of code
+*	optimization
+*	C
+*	Java
+
+----
