@@ -647,6 +647,5 @@ Interesting expressions
 *	academic computer science and industrial practice
 *	“Utopia 84”
 *	reading source code
-*	
 
 ----
