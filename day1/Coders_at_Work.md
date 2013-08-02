@@ -620,3 +620,33 @@ Interesting expressions
 *	Java
 
 ----
+
+# Donald Knuth's profile
+
+*	The Art of Computer Programming
+*	popularized the use of asymptotic (a.k.a. Big-O) notation in analyzing algorithms
+*	invented LR parsing
+*	wrote the typesetting software TeX and METAFONT
+*	“literate programming”
+*	first Association for Computing Machinery Grace Murray Hopper Award (1971)
+*	Turing Award (1974)
+*	National Medal of Science (1979)
+
+----
+
+# Donald Knuth's topics
+
+*	IBM 650
+*	The Art of Computer Programming
+*	TeX
+*	literate programming
+*	“Premature optimization is the root of all evil.”
+*	black boxes
+*	pointers in the C language
+*	debugging
+*	academic computer science and industrial practice
+*	“Utopia 84”
+*	reading source code
+*	
+
+----
