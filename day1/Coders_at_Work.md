@@ -32,6 +32,7 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 *	really owewsome people
 *	most like lisp
 *	most don't like C++
+*	Fran Allen, the only female
 
 ----
 
@@ -547,5 +548,39 @@ Interesting expressions
 *	books
 *	Linux
 *	pair programming
+
+----
+
+# Fran Allen's profile
+
+*	teach resistive IBM scientists the newly invented language Fortran
+*	stayed at IBM for 45 years and worked on a series of compiler projects
+*	awarded the Turing Award for her “pioneering contributions to the theory and practice of optimizing compiler techniques” in 2002; first female recipient
+*	first female IBM Fellow
+*	fellow of the IEEE and the Association for Computing Machinery
+*	member of the National Academy of Engineering, the American Academy of Arts and Sciences, and the American Philosophical Society
+
+----
+
+# Fran Allen's topics
+
+*	took a course on computing at University of Michigan in 1957
+*	job at IBM Research
+*	Monitored Automatic Debugging system
+*	how to read code
+*	debugging
+*	Stretch project started in 1955
+*	Cleanroom processes after 360 project, the waterfall process
+*	PTRAN compiler project
+*	technical management
+*	hiring programmers
+*	C
+	-	overspecify the solution of problems
+	-	destroy computer science as a study
+*	high-performance computing
+*	computer scientist
+*	women in computer science
+	-	Edith Schonberg
+*	working for IBM Research
 
 ----
