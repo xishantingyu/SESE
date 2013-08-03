@@ -33,3 +33,30 @@ He was the manager for the development of the System/360 family of computers and
 
 From <http://en.wikipedia.org/wiki/Fred_Brooks>
 
+----
+
+# 1 The Tar Pit
+
+*	The Programming Systems Product
+*	The Joys of the Craft
+*	The Woes of the Craft
+
+----
+
+# 2 The Mythical Man-Month
+
+*	Optimism
+*	The'Man-Month
+*	Systems Test
+*	Gutless Estimating
+*	Regenerative Schedule Disaster
+*	Brooks's Law:
+	-	Adding manpower to a late software project makes it later.
+
+----
+
+# 3 The Surgical Team
+
+*	The Problem
+*	How It Works
+*	
