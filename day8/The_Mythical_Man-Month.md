@@ -118,6 +118,17 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 		-	The producer and the technical director may be the same man.
 		-	The producer may be boss, the director his right-hand man.
 		-	The director may be boss, and the producer his right-hand man.
-		
 	
+----
+
+# 8 Calling the Shot
+
+	programmer productivity
+
+*	Portman's Data
+*	Aron's Data
+*	Harr's Data
+*	OS/360 Data
+*	Corbato's Data
+
 ----
