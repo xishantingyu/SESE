@@ -132,3 +132,12 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	Corbato's Data
 
 ----
+
+# 9 Ten Pounds in a Five-Pound Sack
+
+*	Program Space as Cost
+*	Size Control
+*	Space Techniques
+*	Representation Is the Essence of Programming
+
+----
