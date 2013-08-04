@@ -94,6 +94,30 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	Multiple Implementations
 *	The Telephone Log
 *	Product Test
-*	
 
+----
+
+# 7 Why Did the Tower of Babel Fail?
+
+*	A Management Audit of the Babel Project
+	-	communication
+	-	organization
+*	Communication in the Large Programming Project
+	-	Informally
+	-	Meetings
+	-	Workbook
+*	The Project Workbook
+	-	What
+	-	Why
+	-	Mechanics
+	-	How would one do it today?
+*	Organization in the Large Programming Project
+	-	any org must have in order to be effective
+		1. a mission		2. a producer		3. a technical director or architect		4. a schedule		5. a division of labor		6. interface definitions among the parts
+	-	relationships between producer and director
+		-	The producer and the technical director may be the same man.
+		-	The producer may be boss, the director his right-hand man.
+		-	The director may be boss, and the producer his right-hand man.
+		
+	
 ----
