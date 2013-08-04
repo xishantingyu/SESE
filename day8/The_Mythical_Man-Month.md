@@ -75,3 +75,12 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	
 
 ----
+
+# 5 The Second-System Effect
+
+*	Interactive Discipline for the Architect
+*	Self-Discipline—The Second-System Effect
+	-	over-design the second system
+	
+
+----
