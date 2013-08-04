@@ -81,6 +81,19 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	Interactive Discipline for the Architect
 *	Self-Discipline—The Second-System Effect
 	-	over-design the second system
-	
+
+----
+
+# 6 Passing the Word
+	communication
+
+*	Written Specifications—the Manual
+*	Formal Definitions
+*	Direct Incorporation
+*	Conferences and Courts
+*	Multiple Implementations
+*	The Telephone Log
+*	Product Test
+*	
 
 ----
