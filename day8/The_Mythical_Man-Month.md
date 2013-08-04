@@ -59,4 +59,19 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 
 *	The Problem
 *	How It Works
+
+----
+
+# 4 Aristocracy, Democracy, and System Design
+
+*	Conceptual Integrity
+*	Achieving Conceptual Integrity
+	-	Simplicity and straightforwardness
+*	Aristocracy and Democracy
+	-	separation between architec- ture and implementation
+	-	structuring programming implementation
+	-	the cost-performance ratio of the product will depend most heavily on the implementer, just as ease of use depends most heavily on the architect
+*	What Does the Implementer Do While Waiting?
 *	
+
+----
