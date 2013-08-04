@@ -141,3 +141,29 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	Representation Is the Essence of Programming
 
 ----
+
+# 10 The Documentary Hypothesis
+
+*	Documents for a Computer Product
+	-	Objectives
+	-	Specifications
+	-	Schedule
+	-	Budget
+	-	Organization chart
+	-	Space allocations
+	
+*	Estimate, forecast, prices
+
+*	Documents for a University Department	
+	-	Objectives	-	Course descriptions	-	Degree requirements	-	Research proposals (hence plans, when funded) Class schedule and teaching assignments 	-	Budget	-	Space allocation	-	Assignment of staff and graduate students
+
+*	Documents for a Software Project
+	-	What: objectives
+	-	What: product specifications
+	-	When: schedule	-	How much: budget
+	-	Where: space allocation
+	-	Who: organization chart
+	
+*	Why Have Formal Documents?
+
+----
