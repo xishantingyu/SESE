@@ -167,3 +167,14 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	Why Have Formal Documents?
 
 ----
+
+# 11 Plan toThrow One Away
+
+*	Pilot Plants and Scaling Up
+*	The Only Constancy Is Change Itself
+*	Plan the System for Change
+*	Plan the Organization for Change
+*	Two Steps Forward and One step Back
+*	One Step Forward and One Step Back
+
+----
