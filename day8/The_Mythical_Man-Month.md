@@ -305,3 +305,55 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	Net on Bullets—Position Unchanged
 
 ----
+
+# 18 Propositions of The Mythical Man-Month: True or False?
+
+	a summary and key points of the book
+
+----
+
+# 19 The Mythical Man-Month after 20 Years
+
+*	The Central Argument: Conceptual Integrity and the Architect
+	-	Conceptual integrity
+	-	The architect
+	-	Separation of architecture from implementation and realization
+	-	Recursion of architects
+	-	Today I am more convinced than ever
+*	The Second-System Effect: Featuritis and Frequency-Guessing
+	-	Featuritis
+	-	Defining the user set
+	-	Frequencies
+	-	What about the "Second-System Effect"?
+*	The Triumph of the WIMP Interface
+	-	Conceptual integrity via a metaphor
+	-	Command utterances and the two-cursor problem
+	-	A brilliant solution
+	-	The fate of WIMP: Obsolescence
+	-	Don't Build One to Throw Away \- The Waterfall Model Is Wrong!
+	-	There has to be upstream movement
+*	An Incremental-Build Model Is Better \- Progressive Refinement
+*	Building an end-to-end skeleton system
+*	Parnas Families
+*	Microsoft's "Build Every Night" Approach
+*	Incremental Build and Rapid Prototyping
+*	Parnas Was Right, and I Was Wrong about Information Hiding
+*	How Mythical Is the Man-Month? Boehm's Model and Data
+	-	How true is Brooks's Law?
+	
+*	People Are Everything (Well, Almost Everything)
+	-	Peopleware
+	-	Moving projects
+*	The Power of Giving Up Power
+*	What's the Biggest New Surprise? Millions of Computers
+	-	The microcomputer revolution has changed how everybody builds software.
+*	Whole New Software Industry—Shrink-Wrapped Software
+	-	Operating system worlds have coalesced.
+	-	The shrink-wrapped industry
+*	Buy and Build—Shrink-Wrapped Packages As Components
+	-	Metaprogramming
+	-	This really does attack essence
+	-	So what is needed?
+*	The State and Future of Software Engineering
+
+----
