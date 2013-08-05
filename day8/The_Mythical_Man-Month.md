@@ -217,3 +217,13 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 	-	Quantize updates
 
 ----
+
+# 14 Hatching a Catastrophe
+
+*	Milestones or Millstones
+*	"The Other Piece Is Late, Anyway"
+*	Under the Rug
+	-	Reducing the role conflict
+	-	Yanking the rug off
+	
+----
