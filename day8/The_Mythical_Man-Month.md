@@ -243,3 +243,38 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 	----*	The Flow-Chart Curse*	Self-Documenting Programs
 	
 ----
+
+# 16 No Silver Bullet- Essence and Accident in Software Engineering
+
+*	Abstract
+
+	-	Suggestions:
+		-	Exploiting the mass market to avoid constructing what can be bought.
+		-	Using rapid prototyping as part of a planned iteration in es- tablishing software requirements.		-	Growing software organically, adding more and more func- tion to systems as they are run, used, and tested.		-	Identifying and developing the great conceptual designers of the rising generation.
+
+*	Introduction
+*	Does It Have to Be Hard?\—Essential Difficulties
+	-	Complexity
+	-	Conformity
+	-	Changeability
+	-	Invisibility
+*	Past Breakthroughs Solved Accidental Difficulties
+	-	Time-sharing
+	-	Unified programming environments
+*	Hopes for the Silver
+	-	Object-orientedprogramming
+	-	Artificial intelligence
+	-	Expert systems
+	-	"Automatic" programming
+	-	Graphical programming
+	-	Program verification
+	-	Environments and tools
+	-	Workstations
+*	Promising Attacks on the Conceptual Essence
+	-	Requirements refinement and rapid prototyping
+	-	Incremental development
+	-	Great designers
+	
+	A little retrospection shows that although many fine, useful software systems have been designed by committees and built by multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers. Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast with Cobol, PL/I, Algol, MVS/370, and MS-DOS.
+	
+----
