@@ -278,3 +278,30 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 	A little retrospection shows that although many fine, useful software systems have been designed by committees and built by multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers. Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast with Cobol, PL/I, Algol, MVS/370, and MS-DOS.
 	
 ----
+
+# 17 "No Silver Bullet" Refired
+
+*	On Werewolves and Other Legendary Terrors
+*	There is Too a Silver Bullet—AND HERE IT IS!
+*	Obscure Writing Will Be Misunderstood
+*	Complexity is by levels
+*	Harel's Analysis
+	-	Pessimism vs. optimism vs. realism
+	-	"Gloom" themes
+	-	Harel's thought experiment
+	-	AND HERE IT IS
+	-	Invisibility
+*	Jones's Point—Productivity Follows Quality
+*	So What Has Happened to Productivity?
+	-	Shrink-wrapped software—Buy; don't build
+	-	Power tools for the mind
+*	Object-Oriented Programming—Will a Brass Bullet Do?
+	-	Building with bigger pieces
+	-	Why has object-oriented technique grown slowly?
+	-	Front-loaded costs, down-stream benefits
+*	What About Reuse?
+	-	How does corporate-level reuse fare today?
+	-	Learning Large Vocabularies \- A Predictable but Unpredicted Problem for Software Reuse
+*	Net on Bullets—Position Unchanged
+
+----
