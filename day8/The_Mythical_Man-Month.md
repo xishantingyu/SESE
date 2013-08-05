@@ -227,3 +227,19 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 	-	Yanking the rug off
 	
 ----
+
+# 15 The Other Face
+
+*	What Documentation Is Required?
+	1. Purpose	2. Environment	3. Domain and range
+	4. Functions realized and algorithms used	5. Input-output formats	6. Operating instructions	7. Options	8. Running time	9. Accuracy and checking
+
+	----
+
+	-	To believe a program
+	-	To modify a program
+		-	components of such an overview			-	A flow chart or subprogram structure graph. More on this later.			-	Complete descriptions of the algorithms used, or else references to such descriptions in the literature.
+			-	An explanation of the layout of all files used.			-	An overview of the pass structure\—the sequence in which data or programs are brought from tape or disk—and what is accomplished on each pass.			-	A discussion of modifications contemplated in the original design, the nature and location of hooks and exits, and discursive discussion of the ideas of the original author about what modifications might be desirable and how one might proceed. His observations on hidden pitfalls are also useful.
+	----*	The Flow-Chart Curse*	Self-Documenting Programs
+	
+----
