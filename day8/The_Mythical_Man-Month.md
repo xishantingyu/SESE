@@ -196,3 +196,24 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 	-	Interactive programming
 
 ----
+
+# 13 The Whole and the Parts
+
+*	Designing the Bugs Out
+	-	Bug-proofing the definition
+	-	Testing the specification
+	-	Top-down design
+	-	Structured programming
+*	Component Debugging
+	-	On-machine debugging
+	-	Memorydumps
+	-	Snapshots
+	-	Interactive debugging
+*	System Debugging
+	-	Use debugged components
+	-	Build plenty of scaffolding
+	-	Control changes
+	-	Add one component at a time
+	-	Quantize updates
+
+----
