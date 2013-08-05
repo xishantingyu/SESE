@@ -178,3 +178,21 @@ From <http://en.wikipedia.org/wiki/Fred_Brooks>
 *	One Step Forward and One Step Back
 
 ----
+
+# 12 Sharp Tools
+
+*	Target Machines
+	-	vehicle machines
+	-	What kind of target facility?
+	-	Scheduling
+*	Vehicle Machines and Data Services
+	-	Compiler and assembler vehicles	
+	-	Program libraries and accounting
+	-	Program tools
+	-	Documentation system
+	-	Performance simulator
+*	High-Level Language and Interactive Programming
+	-	High-level language
+	-	Interactive programming
+
+----
