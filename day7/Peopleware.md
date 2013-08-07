@@ -14,7 +14,7 @@ published in 2013
 
 
 
-# About the author
+# About the authors
 
 
 ![](../pic/Tom_DeMarco.jpg)
@@ -28,3 +28,22 @@ From <http://en.wikipedia.org/wiki/Tom_DeMarco>
 *Tim Lister* (born 1949) is an American software engineer with specialty in design, software risk management, and human aspects of technological work. He is a Principal of The Atlantic Systems Guild Inc.
 
 From <http://en.wikipedia.org/wiki/Tim_Lister>
+
+----
+
+	Pay no attention to that man behind the curtain.
+	
+----
+
+# Chapter 1 SOMEWHERE TODAY, A PROJECT IS FAILING
+
+	there was not a single technological issue to explain the failure
+	
+*	The Name of the Game
+
+	The major problems of our work are not so much technological as sociological in nature.
+
+*	The High-Tech Illusion	
+
+
+----
