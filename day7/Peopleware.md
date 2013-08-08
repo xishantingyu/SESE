@@ -47,3 +47,13 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 
 ----
+
+# Chapter 2 MAKE A CHEESEBURGER, SELL A CHEESEBURGER
+
+*	A Quota for Errors
+*	Management: The Bozo Definition
+*	The People Store
+*	A Project in Steady State Is Dead
+*	We Haven't Got Time to Think About This Job, Only to Do It
+
+----
