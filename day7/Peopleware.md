@@ -96,3 +96,22 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	Organizational busy work tends to expand to fill the working day.
 
 ----
+
+# Chapter 6 LAETRILE
+
+*	Lose Fat While Sleeping
+*	The Seven Sirens
+	
+	SEVEN F ALSE HOPES OF SOFTW ARE MANAGEMENT
+	
+	-	There is some new trick you've missed that could send pro- ductivity soaring.
+	-	Other managers are getting gains of one hundred percent or two hundred percent or more!
+	-	Technology is moving so swiftly that you're being passed by.
+	-	Changing languages will give you huge gains.
+	-	Because of the backlog, you need to double productivity immediately.
+	-	You automate everything else; isn't it about time you automated away your software development staff?
+	-	Your people will work better if you put them under a lot of pressure.
+	
+*	This Is Management
+
+----
