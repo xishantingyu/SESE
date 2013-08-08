@@ -67,6 +67,19 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Productivity: Winning Battles and Losing Wars
 *	Reprise
 	-	People under time pressure don't work better; they Just work faster.
+
+----
+
+# Chapter 4 QUALITY—IF TIME PERMITS
+
+*	The Flight from Excellence
+	-	Quality, far beyond that required by the end user, is a means to higher productivity.
+	-	The trade-off between price and quality does not exist in Japan. Rather, the idea that high quality brings on cost reduction is widely accepted.
 	
+*	Quality Is Free, But ...
+	-	Quality Is free, but only to those who are willing to pay heavily for it.
+	
+*	Power of Veto
+*	
 
 ----
