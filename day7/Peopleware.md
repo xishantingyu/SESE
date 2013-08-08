@@ -115,3 +115,16 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	This Is Management
 
 ----
+
+# PART II THE OFFICE ENVIRONMENT
+
+	There are a million ways to lose a work day, but not even a single way to get one back.
+	
+----
+
+# Chapter 7 THE FURNITURE POLICE
+
+*	The Police Mentality
+*	The Uniform Plastic Basement
+
+----
