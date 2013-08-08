@@ -80,6 +80,19 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	-	Quality Is free, but only to those who are willing to pay heavily for it.
 	
 *	Power of Veto
-*	
+
+----
+
+#	Chapter 5 PARKINSON'S LAW REVISITED
+
+	Parkinson's Law:
+		work expands to fill the time allocated for it.
+				-- British author C. Northcote Parkinson, 1954
+			
+*	Parkinson's Law and Newton's Law
+*	You Wouldn't Be Saying This If You'd Ever Met Our Herb
+*	Some Data from the University of New South Wales
+
+	Organizational busy work tends to expand to fill the working day.
 
 ----
