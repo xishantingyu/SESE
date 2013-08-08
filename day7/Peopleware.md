@@ -57,3 +57,16 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	We Haven't Got Time to Think About This Job, Only to Do It
 
 ----
+
+# Chapter 3 VIENNA WAITS FOR YOU
+
+*	Spanish Theory Management
+*	And Now a Word from the Home Front
+*	There IS No Such Thing as Overtime
+*	Workaholics
+*	Productivity: Winning Battles and Losing Wars
+*	Reprise
+	-	People under time pressure don't work better; they Just work faster.
+	
+
+----
