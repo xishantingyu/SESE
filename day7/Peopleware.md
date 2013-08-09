@@ -128,3 +128,14 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	The Uniform Plastic Basement
 
 ----
+
+# Chapter 8 "YOU NEVER GET ANYTHING DONE AROUND HERE BETWEEN 9 AND 5"
+
+	"Overtime is a fact of life."
+	
+*	A Policy of Default
+*	Coding War Games: Observed Productivity Factors
+	-	Individual Differences
+	-	What Did We Prove?
+
+----
