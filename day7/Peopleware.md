@@ -159,3 +159,16 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Measuring with Your Eyes Closed
 
 ----
+
+# Chapter 10 BRAIN TIME VERSUS BODY TIME
+
+*	Flow
+	-	An Endless State of No-Flow
+	-	Time Accounting Based on Flow
+*	The E-Factor
+	Environmental Factor or E-Factor = Uninterrupted Hours / Body-Present Hours
+	
+*	A Garden of Bandannas
+*	Thinking on the Job
+
+----
