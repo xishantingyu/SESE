@@ -139,3 +139,23 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	-	What Did We Prove?
 
 ----
+
+# Chapter 9 SAVING MONEY ON SPACE
+
+*	A Plague Upon the Land
+*	We Interrupt This Diatribe to Bring You a Few Facts
+*	Workplace Quality and Product Quality
+*	A Discovery of Nobel Prize Significance
+*	Hiding Out
+
+----
+
+# INTERMEZZO
+
+*	Gilb's Law
+	Anything you need to quantify can be measured In some way that Is superior to not measuring it at all.
+	
+*	But You Can't Afford Not to Know
+*	Measuring with Your Eyes Closed
+
+----
