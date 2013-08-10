@@ -183,3 +183,13 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Don't Try This Yourself...
 
 ----
+
+# Chapter 12 BRING BACK THE DOOR
+
+*	The Show Isn't Over Till the Fat Lady Sings
+*	The Issue of Glitz
+*	Creative Space
+*	Vital Space
+*	Breaking the Corporate Mold
+
+----
