@@ -260,3 +260,21 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	Hawthorne Effect
 
 ----
+
+# PART IV GROWING PRODUCTIVE TEAMS
+
+
+----
+
+# Chapter 18 THE WHOLE IS GREATER THAN THE SUM OF THE PARTS
+
+*	Concept of the Jelled Team
+*	Management by Hysterical Optimism
+*	The Guns of Navarone
+	
+	The purpose of a team is not goal attainment but goal alignment.
+	
+*	Signs of a Jelled Team
+*	Teams and Cliques
+
+----
