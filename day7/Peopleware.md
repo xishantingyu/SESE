@@ -226,3 +226,12 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	SECOND THERMODYNAMIC LAW OF MANAGEMENT: Entropy is always increasing in the organization.
 
 ----
+
+# Chapter 15 HIRING A JUGGLER
+
+*	The Portfolio
+*	Aptitude Tests
+*	Holding an Audition
+*	
+
+----
