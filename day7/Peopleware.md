@@ -193,3 +193,18 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Breaking the Corporate Mold
 
 ----
+
+# Chapter 13 TAKING UMBRELLA STEPS
+
+**The Timeless Way ofBuilding**
+
+*	Alexander's Concept of Organic Order
+*	Patterns
+*	The First Pattern: Tailored Workspace from a Kit
+*	The Second Pattern; Windows
+*	The Third Pattern: Indoor and Outdoor Space
+*	The Fourth Pattern: Public Space
+*	The Pattern of the Patterns
+*	Return to Reality
+
+----
