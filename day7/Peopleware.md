@@ -196,7 +196,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 # Chapter 13 TAKING UMBRELLA STEPS
 
-**The Timeless Way ofBuilding**
+**The Timeless Way of Building**
 
 *	Alexander's Concept of Organic Order
 *	Patterns
@@ -206,5 +206,23 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	The Fourth Pattern: Public Space
 *	The Pattern of the Patterns
 *	Return to Reality
+
+----
+
+# PART III THE RIGHT PEOPLE
+
+*	get the right people*	make them happy so they don't want to leave *	turn them loose
+
+---
+
+# Chapter 14 THE HORNBLOWER FACTOR
+
+*	Born Versus Made
+*	The Uniform Plastic Person
+*	Standard Dress
+*	Code Word: Professional
+*	Corporate Entropy
+
+	SECOND THERMODYNAMIC LAW OF MANAGEMENT: Entropy is always increasing in the organization.
 
 ----
