@@ -242,6 +242,21 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Why People Leave
 *	A Special Pathology: The Company Move
 *	The Mentality of Permanence
-*	
+
+----
+
+# Chapter 17 THE SELF-HEALING SYSTEM
+
+*	Deterministic and Non-Deterministic
+*	The Covert Meaning of Methodology
+*	Methodology Madness
+	
+	Voluminous documentation Is part of the problem, not part of the solution.
+	
+*	The Issue of Malicious Compliance
+*	The Baby and the Bathwater
+*	The High-Tech Illusion Revisited
+
+	Hawthorne Effect
 
 ----
