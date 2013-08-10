@@ -232,6 +232,16 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	The Portfolio
 *	Aptitude Tests
 *	Holding an Audition
+
+----
+
+# Chapter 16 HAPPY TO BE HERE
+
+*	Turnover: The Obvious Costs
+*	The Hidden Costs of Turnover
+*	Why People Leave
+*	A Special Pathology: The Company Move
+*	The Mentality of Permanence
 *	
 
 ----
