@@ -172,3 +172,14 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Thinking on the Job
 
 ----
+
+# Chapter 11 THE TELEPHONE
+
+*	Visit to an Alternate Reality
+*	Tales from the Crypt
+*	A Modified Telephone Ethic
+	-	email
+	
+*	Don't Try This Yourself...
+
+----
