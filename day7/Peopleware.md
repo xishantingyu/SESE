@@ -309,3 +309,17 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	What's Been Going on Here?
 
 ----
+
+# Chapter 22 OPEN KIMONO
+
+	People and Project Management
+	
+*	Calling in Well
+*	The Getaway Ploy
+*	There Are Rules and We Do Break Them
+	-	PDP-11
+*	Chickens with Lips
+*	Who's in Charge Here?
+*	
+
+----
