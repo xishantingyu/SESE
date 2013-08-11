@@ -278,3 +278,11 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Teams and Cliques
 
 ----
+
+#	Chapter 19 THE BLACK TEAM
+
+*	The Stuff of Which Legends Are Made
+*	Earthlings, What Can Save You Now?
+
+----
+
