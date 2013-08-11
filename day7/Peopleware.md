@@ -286,3 +286,19 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 ----
 
+# Chapter 20 TEAMICIDE
+
+*	teamicide techniques
+	-	defensive management
+	-	bureaucracy	-	physical separation fragmentation of people' s time 	-	quality reduction of the product	-	phony deadlines	-	clique control
+
+*	Defensive Management
+*	Bureaucracy
+*	Physical Separation
+*	Fragmentation of Time
+*	The Quality-Reduced Product
+*	Phony Deadlines
+*	Clique Control
+*	Once More Over the Same Depressing Ground
+
+----
