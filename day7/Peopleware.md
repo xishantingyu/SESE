@@ -320,6 +320,20 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	-	PDP-11
 *	Chickens with Lips
 *	Who's in Charge Here?
-*	
+
+----
+
+# Chapter 23 CHEMISTRY FOR TEAM FORMATION
+
+list of the elements of a chemistry-building strategy for a healthy organization:
+
+	-	Make a cult of quality.	-	Provide lots of satisfying closure.	-	Build a sense of eliteness.	-	Allow and encourage heterogeneity.	-	Preserve and protect successful teams.	-	Provide strategic but not tactical direction.
+*	The Cult of Quality
+*	I Told Her I Loved Her When I Married Her
+*	The Elite Team
+*	On Not Breaking Up the Yankees
+*	A Network Model of Team Behavior
+*	Selections from a Chinese Menu
+*	Putting It All Together
 
 ----
