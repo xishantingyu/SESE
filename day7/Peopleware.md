@@ -395,3 +395,14 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Mixing Metaphors
 
 ----
+
+# Chapter 29 PROCESS IMPROVEMENT PROGRAMS
+
+*	A Short History (CMM)
+*	The Paradox of Process Improvement
+*	It's About the Benefit, Stupid
+*	A New Indoor/Outdoor World Record
+*	Process Improvement: Is It Turning Us to the Dark Side?
+*	The Great Process Improvement Contradiction
+
+----
