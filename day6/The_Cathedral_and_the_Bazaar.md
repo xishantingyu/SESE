@@ -13,7 +13,6 @@ published in 2001
 ---
 
 
-
 # About the author
 
 
@@ -24,3 +23,18 @@ published in 2001
 
 From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
+----
+
+# A Brief History of Hackerdom
+
+	http://www.tuxedo.org/jargon
+	
+*	Prologue: The Real Programmers
+*	The Early Hackers
+*	The Rise of Unix
+*	The End of Elder Days
+*	The Proprietary-Unix Era
+*	The Early Free Unixes
+*	The Great Web Explosion
+
+----
