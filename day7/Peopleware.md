@@ -456,3 +456,14 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Respecting Your Investment
 
 ----
+
+# Chapter 34 THE MAKING OF COMMUNITY
+
+*	Digression on Corporate Politics
+
+	"Politics, the Noble Science," as first described by Aristotle.
+	
+*	Why It Matters
+*	Pulling Off the Magic
+
+----
