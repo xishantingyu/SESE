@@ -372,3 +372,17 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Waking Up Holgar
 
 ----
+
+# PART VI SON OF PEOPLEWARE
+
+*	new in the second edition
+*	concerned with the design of entire organizations that include development work
+
+----
+
+# Chapter 27 TEAMICIDE REVISITED
+
+*	Those Damn Posters
+*	Overtime: An Unanticipated Side Effect
+
+----
