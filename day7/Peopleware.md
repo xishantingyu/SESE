@@ -434,3 +434,13 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Playing Up to Wall Street
 
 ----
+
+# Chapter 32 ORGANIZATIONAL LEARNING
+
+*	Experienceand Learning
+*	Redesign Example
+*	The Key Question About Organizational Learning
+*	The Management Team
+*	Danger in the White Space
+
+----
