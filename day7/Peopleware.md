@@ -337,3 +337,22 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Putting It All Together
 
 ----
+
+#	PART V ITS SUPPOSED TO BE FUN TO WORK HERE
+
+	If you enjoy doing some- thing, it isn't really work. If you enjoy it enough, it's probably sinful.
+	
+----
+
+# Chapter 24 CHAOS AND ORDER
+
+*	Progress Is Our Most Important Problem
+	
+	constructive reintroduction ofsmall amounts ofdisorder
+	
+*	Pilot Projects
+*	War Games
+*	Brainstorming
+*	Training, Trips, Conferences, Celebrations, and Retreats
+
+----
