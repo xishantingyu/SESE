@@ -444,3 +444,15 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Danger in the White Space
 
 ----
+￼￼
+# ￼￼￼￼The Ultimate Management Sin is …
+
+	wasting people's time.
+	
+*	For Instance
+*	Status Meetings Are About Status
+*	Early Overstaffing
+*	Fragmentation Again
+*	Respecting Your Investment
+
+----
