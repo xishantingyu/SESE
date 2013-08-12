@@ -406,3 +406,17 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	The Great Process Improvement Contradiction
 
 ----
+
+# Chapter 30 MAKING CHANGE POSSIBLE
+
+*	That's a Swell Idea, Boss. Pll Get Right On It.
+
+	MANTRA: The fundamental response to change is not logical, but emotional.
+	
+*	A Better Model of Change
+
+	Satir model
+	
+*	Safety First
+
+----
