@@ -356,3 +356,11 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Training, Trips, Conferences, Celebrations, and Retreats
 
 ----
+
+# Chapter 25 FREE ELECTRONS
+
+*	The Cottage Industry Phenomenon
+*	Fellows, Gurus, and Intrapreneurs
+*	No Parental Guidance
+
+----
