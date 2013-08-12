@@ -386,3 +386,12 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Overtime: An Unanticipated Side Effect
 
 ----
+
+# Chapter 28 COMPETITION
+
+*	Consider an Analogy
+*	Does It Matter? The Importance of Coaching
+*	Teamicide Re-revisited
+*	Mixing Metaphors
+
+----
