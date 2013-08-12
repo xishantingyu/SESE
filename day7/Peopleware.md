@@ -420,3 +420,17 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Safety First
 
 ----
+
+# Chapter 31 HUMAN CAPITAL
+
+	-	An expense is money that gets used up.
+	-	An investment is use of an asset to purchase another asset. The value has not been used up, but only converted from one form to another. 
+	-	When you treat an expenditure as an investment instead of as an expense, you are said to be capitalizing the expenditure.
+
+*	How About People?
+*	So Who Cares?
+*	Assessing the Investment in Human Capital
+*	What Is the Ramp-up Time for an Experienced Worker?
+*	Playing Up to Wall Street
+
+----
