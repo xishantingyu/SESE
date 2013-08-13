@@ -112,3 +112,26 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 * Epilog: Netscape Embraces the Bazaar
 
 ----
+
+# Homesteading the Noosphere
+
+*	An Introductory Contradiction
+*	The Varieties of Hacker Ideology
+*	Promiscuous Theory, Puritan Practice
+*	Ownership and Open Source
+*	Locke and Land Title
+
+	Lockean theory of property
+	
+*	The Hacker Milieu as Gift Culture
+	
+	Gift cultures are adaptations not to scarcity but to abundance.
+	
+*	The Joy of Hacking
+*	The Many Faces of Reputation
+*	Ownership Rights and Reputation Incentives
+*	The Problem of Ego
+*	The Value of Humility
+*	Global Implications of the Reputation-Game Model
+
+----
