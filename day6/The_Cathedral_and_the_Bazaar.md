@@ -271,3 +271,27 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	Afterword: Why Closing a Drivers Loses Its Vendor Money
 
 ----
+
+# Revenge of the Hackers
+
+*	Beyond Brooks’s Law
+*	Memes and Mythmaking
+*	The Road to Mountain View
+
+		Thomas Paine <http://en.wikipedia.org/wiki/Thomas_Paine>
+		
+*	The Origins of ‘Open Source’
+*	Key themes
+	1. Forget Bottom-Up; Work on Top-Down
+	2. Linux Is Our Best Demonstration Case
+	3. Capture the Fortune 500
+	4. Co-opt the Prestige Media that Serve the Fortune 500
+	5. Educate Hackers in Guerrilla Marketing Tactics
+	6. Use the Open Source Certification Mark to Keep Things Pure
+
+*	The Accidental Revolutionary
+*	Phases of the Campaign
+*	The Facts on the Ground
+*	Into the Future
+
+----
