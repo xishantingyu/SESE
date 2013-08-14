@@ -44,6 +44,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 * open source is much better than closed source
 * how to participant into open source
 * how to make money from open source
+* what the author did in open source
 
 ----
 
@@ -293,5 +294,52 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	Phases of the Campaign
 *	The Facts on the Ground
 *	Into the Future
+
+----
+
+# AFTERWORD Beyond Software?
+
+
+----
+
+# APPENDIX A How to Become a Hacker
+
+*	Why This Document?
+*	What Is a Hacker?
+*	The Hacker Attitude
+	1. The world Is Full of Fascinating Problems Wait- ing to Be Solved.
+	2. Nobody Should Ever Have to Solve a Problem Twice.
+	3. Boredom and Drudgery Are Evil.
+	4. Freedom Is Good.
+	5. Attitude Is No Substitute for Competence.
+	
+*	Basic Hacking Skills
+	1. Learn How to Program.
+	2. Get One of the Open-Source Unixes and Learn to Use and Run It.
+	3. Learn How to Use the World Wide Web and Write HTML.
+
+*	Status in the Hacker Culture
+	1. Write Open-Source Software
+	2. Help Test and Debug Open-Source Software
+	3. Publish Useful Information
+	4. Help Keep the Infrastructure Working
+	5. Serve the Hacker Culture Itself
+	
+*	The Hacker/Nerd Connection
+*	Points for Style
+*	Other Resources
+*	Frequently Asked Questions
+	-	HTML: The Definitive Guide (http://www.oreilly.com/catalog/html3/)
+
+----
+
+# APPENDIX B Statistical Trends in the Fetchmail Project’s Growth
+
+
+----
+
+# Notes, Bibliography, and Acknowledgments
+
+*	SNAFU principle 
 
 ----
