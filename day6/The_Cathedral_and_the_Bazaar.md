@@ -39,6 +39,14 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 ----
 
+# My Understanding
+
+* open source is much better than closed source
+* how to participant into open source
+* how to make money from open source
+
+----
+
 # The Cathedral and the Bazaar
 
 *	The Mail Must Get Through
@@ -147,7 +155,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	Noospheric Property and the Ethology of Territory
 *	Causes of Conflict
 	-	Who gets to make binding decisions about a project?	-	Who gets credit or blame for what?
-	-	How to reduce duplication of effort and prevent rogue ver- sions from complicating bug tracking?	-What is the Right Thing, technically speaking?	
+	-	How to reduce duplication of effort and prevent rogue versions from complicating bug tracking?	-What is the Right Thing, technically speaking?	
 *	Project Structures and Ownership
 *	Conflict and Conflict Resolution
 	
@@ -168,5 +176,98 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 	Malvern Protocol <http://www.laetusinpraesens.org/docs00s/gated.php>
 	
 *	Questions for Further Research
+
+----
+
+# The Magic Cauldron
+
+*	Indistinguishable from Magic
+
+		Ceridwen’s cauldron <http://en.wikipedia.org/wiki/Ceridwen>
+
+		ephemeralization, technology becoming both more effective and less expensive as the physical resources invested in early designs are replaced by more and more information content.
+
+			Buckminster Fuller <http://en.wikipedia.org/wiki/Buckminster_Fuller>
+
+		"Any sufficiently advanced technology is indistin- guishable from magic"
+		
+			Arthur C. Clarke <http://en.wikipedia.org/wiki/Arthur_C._Clarke>
+			
+*	Beyond Geeks Bearing Gifts
+*	The Manufacturing Delusion
+
+	-	use value 
+	-	sale value
+
+			In professional economist-speak, sale value is value as a final good, and use value is value as an intermediate good.
+			
+*	‘factory model’ premises
+	-	Most developer time is paid for by sale value.	-	The sale value of software is proportional to its development cost and to its use value.
+*	approximately 95% of code is still written in-house.
+*	most programmer-hours are spent (and most programmer salaries are paid for) writing or maintaining in-house code that has no sale value at all.	
+*	the price a consumer will pay is effectively capped by the expected future value of vendor service (where “service” is here construed broadly to include enhancements, upgrades, and follow-on projects).
+
+*	In other words, software is largely a service industry operating under the persistent but unfounded delusion that it is a manufac- turing industry.
+
+*	The "Information Wants to Be Free" Myth
+
+*	The Inverse Commons
+	
+	Garret Hardin’s "Tragedy of the Commons"
+	-	<http://en.wikipedia.org/wiki/Garrett_Hardin>
+	-	<http://en.wikipedia.org/wiki/Tragedy_of_the_commons>
+	
+*	Reasons for Closing Source
+
+*	Use-Value Funding Models
+
+	-	The Apache Case: Cost-Sharing
+		*	Buy a proprietary web server.
+		*	Roll your own.
+		*	Join the Apache group.
+		
+	_	The Cisco Case: Risk-Spreading
+			
+*	Why Sale Value Is Problematic
+
+*	Indirect Sale-Value Models
+	-	Loss-Leader/Market Positioner
+	-	Widget Frosting
+	-	Give Away the Recipe, Open a Restaurant
+	-	Accessorizing
+	-	Free the Future, Sell the Present
+	-	Free the Software, Sell the Brand
+	-	Free the Software, Sell the Content
+	
+*	When to Be Open, When to Be Closed
+	-	What Are the Payoffs?
+	-	How Do They Interact?
+	
+*	following discriminators push towards open source
+	1. Reliability/stability/scalabilityarecritical.	2. Correctness of design and implementation cannot readily be verified by means other than independent peer review.	3. The software is critical to the user’s control of his/her busi- ness.	4. The software establishes or enables a common computing and communications infrastructure.	5. Key methods (or functional equivalents of them) are part of common engineering knowledge.
+
+*	Doom: A Case Study
+
+*	Knowing When to Let Go
+
+*	Open Source as a Strategic Weapon
+	-	Cost-sharing as a Competitive Weapon
+	-	Resetting the Competition
+	-	Growing the Pond
+	-	Preventing a Chokehold
+	
+*	Open Source and Strategic Business Risk
+	
+*	The Business Ecology of Open Source
+
+*	Coping with Success
+
+*	Open R&D and the Reinvention of Patronage
+
+*	Getting There from Here
+
+*	Conclusion: Life After the Revolution
+
+*	Afterword: Why Closing a Drivers Loses Its Vendor Money
 
 ----
