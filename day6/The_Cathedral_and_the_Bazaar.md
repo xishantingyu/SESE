@@ -122,7 +122,9 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	Locke and Land Title
 
 	Lockean theory of property
-	
+	- <http://en.wikipedia.org/wiki/Labor_theory_of_property>
+	- <http://en.wikipedia.org/wiki/John_Locke>
+		
 *	The Hacker Milieu as Gift Culture
 	
 	Gift cultures are adaptations not to scarcity but to abundance.
@@ -133,5 +135,38 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	The Problem of Ego
 *	The Value of Humility
 *	Global Implications of the Reputation-Game Model
+*	How Fine a Gift?
+
+	1. If it doesn’t work as well as I have been led to expect it will, it’s no good—no matter how clever and original it is.
+	2. Work that extends the noosphere is better than work that duplicates an existing piece of func- tional territory.
+	3. Work that makes it into a major distribution is better than work that doesn’t. Work carried in all major distributions is most prestigious.
+	4. Utilization is the sincerest form of flattery— and category killers are better than also-rans.
+	5. Continued devotion to hard, boring work (like debugging, or writing documentation) is more praiseworthy than cherrypicking the fun and easy hacks.
+	6. Nontrivial extensions of function are better than low-level patches and debugging.
+	
+*	Noospheric Property and the Ethology of Territory
+*	Causes of Conflict
+	-	Who gets to make binding decisions about a project?	-	Who gets credit or blame for what?
+	-	How to reduce duplication of effort and prevent rogue ver- sions from complicating bug tracking?	-What is the Right Thing, technically speaking?	
+*	Project Structures and Ownership
+*	Conflict and Conflict Resolution
+	
+	two criteria
+	-	“authority follows responsibility” 
+	-	“seniority wins”
+	
+*	Acculturation Mechanisms and the Link to Academia
+
+	three levels:
+	-	Password-like specific mysteries.
+	-	The requirement of initiation into certain technical mysteries.
+	-	Social-context mysteries.
+
+*	Gift Outcompetes Exchange
+*	Conclusion: From Custom to Customary Law
+
+	Malvern Protocol <http://www.laetusinpraesens.org/docs00s/gated.php>
+	
+*	Questions for Further Research
 
 ----
