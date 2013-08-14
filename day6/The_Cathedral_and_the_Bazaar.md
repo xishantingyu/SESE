@@ -340,6 +340,30 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 # Notes, Bibliography, and Acknowledgments
 
-*	SNAFU principle 
+		
+*	A Brief History of Hackerdom
+	-	Notes
+
+*	The Cathedral and the Bazaar
+	-	Notes
+
+		SNAFU principle
+	
+		"True communication is possible only between equals, because inferiors are more consistently rewarded for telling their superiors pleasant lies than for telling the truth."
+
+	-	Bibliography
+	-	Acknowledgments
+	
+*	Homesteading the Noosphere
+	-	Notes
+	-	Bibliography
+	-	Acknowledgments
+	
+*	The Magic Cauldron
+	-	Notes
+	-	Bibliography
+	-	Acknowledgments
+*	For Further Reading
+
 
 ----
