@@ -29,3 +29,9 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 
 
 ----
+
+# Chapter 1 Why Nerds Are Unpopular
+
+*	reflection on teenagehood
+
+----
