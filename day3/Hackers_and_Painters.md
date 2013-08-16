@@ -110,3 +110,27 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 		The customer is always right, but different customers are right about different things; the least sophisticated users show you what you need to simplify and clarify, and the most sophisticated tell you what features you need to add.
 
 ----
+
+# Chapter 6 How to Make Wealth
+
+*	The Proposition
+
+		conservation law <http://en.wikipedia.org/wiki/Conservation_law>
+		
+*	Millions, not Billions
+*	Money Is Not Wealth
+*	The Pie Fallacy
+*	Craftsmen
+*	What a Job Is
+*	Working Harder
+*	Measurement and Leverage
+*	Smallness = Measurement
+*	Technology = Leverage
+*	The Catch(es)
+*	Get Users
+*	Wealth and Power
+
+		allowing those who made a lot of money to keep it.
+		system construction
+
+----
