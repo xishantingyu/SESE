@@ -81,7 +81,32 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Laffer curve <http://en.wikipedia.org/wiki/Laffer_curve>
 *	Cardinal Richelieu <http://en.wikipedia.org/wiki/Cardinal_Richelieu>
 *	Cardinal Mazarin <http://en.wikipedia.org/wiki/Cardinal_Mazarin>
-*	
 
+----
+
+# Chapter 5 The Other Road Ahead
+
+		Viaweb
+	
+*	The Next Thing?
+*	The Win for Users
+*	City of Code
+*	Releases
+*	Bugs
+*	Support
+*	Morale
+*	Brooks in Reverse
+*	Watching Users
+	-	RTML
+*	Money
+	-	Selling web- based software through ISPs is like selling sushi through vending machines.
+*	Customers
+*	Son of Server
+*	Microsoft
+*	Startups but More So
+*	Just Good Enough
+*	Why Not?
+
+		The customer is always right, but different customers are right about different things; the least sophisticated users show you what you need to simplify and clarify, and the most sophisticated tell you what features you need to add.
 
 ----
