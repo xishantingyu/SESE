@@ -51,3 +51,25 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Albrecht Du ̈rer <http://en.wikipedia.org/wiki/Albrecht_Dürer>
 
 ----
+
+# Chapter 3 What You Can’t Say
+
+*	The Conformist Test
+*	Trouble
+*	Heresy
+*	Time and Space
+*	Prigs
+*	Mechanism
+*	Why
+*	Pensieri Stretti
+*	Viso Sciolto?
+
+	Arthur Miller <http://en.wikipedia.org/wiki/Arthur_Miller>
+	
+	The Crucible <http://en.wikipedia.org/wiki/The_Crucible>
+	
+	Salem witch trials <http://en.wikipedia.org/wiki/Salem_witch_trials>
+
+*	Always Be Questioning
+
+----
