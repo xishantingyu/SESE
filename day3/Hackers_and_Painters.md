@@ -73,3 +73,15 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Always Be Questioning
 
 ----
+
+# Chapter 4 Good Bad Attitude
+
+*	Michael Rabin <http://en.wikipedia.org/wiki/Michael_O._Rabin>
+*	Authoritarian countries become corrupt; corrupt coun- tries become poor; and poor countries are weak.
+*	Laffer curve <http://en.wikipedia.org/wiki/Laffer_curve>
+*	Cardinal Richelieu <http://en.wikipedia.org/wiki/Cardinal_Richelieu>
+*	Cardinal Mazarin <http://en.wikipedia.org/wiki/Cardinal_Mazarin>
+*	
+
+
+----
