@@ -170,3 +170,14 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Good design is often strange.
 *	Good design happens in chunks.
 *	Good design is often daring.----
+# Chapter 10 Programming Languages Explained*	Machine Language
+	
+		assembly language
+		
+*	High-Level Languages
+*	Open Source
+*	Language Wars
+*	Abstractness
+*	Seat Belts or Handcuffs?
+*	OO
+*	Renaissance----
