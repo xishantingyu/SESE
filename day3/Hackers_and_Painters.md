@@ -154,3 +154,19 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 		
 		Bayes’s Rule <http://en.wikipedia.org/wiki/Bayes'_rule>
 		Norbert Wiener <http://en.wikipedia.org/wiki/Norbert_Wiener>----
+# Chapter 9 Taste for Makers
+*	how do you make good stuff?
+*	Good design is simple.
+*	Good design is timeless.
+*	Good design solves the right problem.
+*	Good design is suggestive.
+*	Good design is often slightly funny.
+*	Good design is hard.
+*	Good design looks easy.
+*	Good design uses symmetry.
+*	Good design resembles nature.
+*	Good design is redesign.
+*	Good design can copy.
+*	Good design is often strange.
+*	Good design happens in chunks.
+*	Good design is often daring.----
