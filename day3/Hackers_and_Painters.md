@@ -181,3 +181,5 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Seat Belts or Handcuffs?
 *	OO
 *	Renaissance----
+# Chapter 11 The Hundred-Year Language
+		Arc	<http://www.paulgraham.com/arc.html>----
