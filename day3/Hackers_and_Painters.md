@@ -183,3 +183,7 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Renaissance----
 # Chapter 11 The Hundred-Year Language
 		Arc	<http://www.paulgraham.com/arc.html>----
+# Chapter 12 Beating the Averages		In 1995 Robert Morris and I started a startup called Viaweb.
+*	The Secret Weapon
+*	The Blub Paradox
+*	Aikido for Startups----
