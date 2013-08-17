@@ -97,9 +97,9 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Morale
 *	Brooks in Reverse
 *	Watching Users
-	-	RTML
+	-	RTML <http://ycombinator.com/viaweb/rtml.html>
 *	Money
-	-	Selling web- based software through ISPs is like selling sushi through vending machines.
+	-	Selling web-based software through ISPs is like selling sushi through vending machines.
 *	Customers
 *	Son of Server
 *	Microsoft
@@ -132,5 +132,18 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 
 		allowing those who made a lot of money to keep it.
 		system construction
+
+----
+
+# Chapter 7 Mind the Gap
+
+		Ambrogio Bergognone <http://en.wikipedia.org/wiki/Ambrogio_Bergognone>
+		
+		Raymond Chandler <http://en.wikipedia.org/wiki/Raymond_Chandler>
+		
+*	The Daddy Model of Wealth
+*	Stealing It
+*	The Lever of Technology
+*	Alternative to an Axiom
 
 ----
