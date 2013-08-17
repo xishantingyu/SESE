@@ -147,3 +147,10 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	Alternative to an Axiom
 
 ----
+
+# Chapter 8 A Plan for Spam
+
+		Bayesian inference <http://en.wikipedia.org/wiki/Bayesian_inference>
+		
+		Bayes’s Rule <http://en.wikipedia.org/wiki/Bayes'_rule>
+		Norbert Wiener <http://en.wikipedia.org/wiki/Norbert_Wiener>----
