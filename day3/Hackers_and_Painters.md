@@ -187,3 +187,19 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 *	The Secret Weapon
 *	The Blub Paradox
 *	Aikido for Startups----
+# Chapter 13 Revenge of the Nerds*	Catching Up with Math
+*	What Made Lisp Different
+	1. Conditionals.
+	2. A function type.
+	3. Recursion.
+	4. Dynamic typing.
+	5. Garbage-collection.
+	6. Programs composed of expressions.
+	7. Asymbol type.
+	8. A notation for code using trees of symbols and constants.
+	9. The whole language there all the time.*	Where Languages Matter
+*	Centripetal Forces		Design your product to please the users.
+*	The Cost of Being Average*	A Recipe*	Appendix: Power
+
+		Greenspun’s Tenth Rule:
+		Any sufficiently complicated C or Fortran program contains an ad hoc informally-specified bug-ridden slow implemen- tation of half of Common Lisp.		----
