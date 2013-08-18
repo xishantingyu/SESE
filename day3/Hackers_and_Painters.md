@@ -216,3 +216,9 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 		
 *	Redesign
 *	The Dream Language		----
+# Chapter 15 Design and Research
+----
+# Notes
+----
+# Acknowledgments
+----
