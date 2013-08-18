@@ -25,6 +25,14 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 
 ----
 
+# My understanding
+
+*	on startups
+*	on programming languages
+*	chapter 5 is the best
+
+----
+
 # Preface
 
 
