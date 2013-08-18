@@ -203,3 +203,16 @@ From <http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>
 
 		Greenspun’s Tenth Rule:
 		Any sufficiently complicated C or Fortran program contains an ad hoc informally-specified bug-ridden slow implemen- tation of half of Common Lisp.		----
+# Chapter 14 The Dream Language*	The Mechanics of Popularity
+*	External Factors
+*	Succinctness
+*	Hackability
+*	Throwaway Programs
+*	Libraries
+*	Efficiency
+*	Time
+	
+		two ways new technology gets introduced: the or- ganic growth method, and the big bang method.
+		
+*	Redesign
+*	The Dream Language		----
