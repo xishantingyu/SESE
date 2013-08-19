@@ -63,3 +63,9 @@ From <http://en.wikipedia.org/wiki/Joel_Spolsky>
 # six THE ECON 101 MANAGEMENT METHOD----
 # seven THE IDENTITY MANAGEMENT METHOD
 ----
+# eight THE PERILS OF JAVASCHOOLS
+----
+# nine TALK AT YALE
+----
+# ten ADVICE FOR COMPUTER SCIENCE COLLEGE STUDENTS1. Learn how to write before graduating.2. Learn C before graduating.3. Learn microeconomics before graduating.4. Don’t blow off non-CS classes just because they’re boring. 5. Take programming-intensive courses.6. Stop worrying about all the jobs going to India.7. No matter what you do, get a good summer internship.
+8. Seek pro- fessional help for that self-esteem thing.----
