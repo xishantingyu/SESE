@@ -56,3 +56,10 @@ From <http://en.wikipedia.org/wiki/Joel_Spolsky>
 	
 *	Can I identify with the company?
 *	One thing that programmers don’t care about----
+# four THREE MANAGEMENT METHODS (INTRODUCTION)
+* The Command and Control Management Method 
+* The Econ 101 Management Method* The Identity Management Method----
+# five THE COMMAND AND CONTROL MANAGEMENT METHOD----
+# six THE ECON 101 MANAGEMENT METHOD----
+# seven THE IDENTITY MANAGEMENT METHOD
+----
