@@ -12,8 +12,6 @@ published in 2008
 
 ---
 
-
-
 # About the author
 
 ![](../pic/Joel_spolsky.jpg)
@@ -23,3 +21,38 @@ published in 2008
 
 
 From <http://en.wikipedia.org/wiki/Joel_Spolsky>
+
+----
+
+# JOEL, APRESS, BLOGS, AND BLOOKS
+
+
+
+----
+
+# one MY FIRST BILLG REVIEW
+*	BillG review----
+# two FINDING GREAT DEVELOPERS*	Where are all those great developers?
+*	Can I get them anyway?
+
+		George Dantzig <http://en.wikipedia.org/wiki/George_Dantzig>*	To the mountain, Jeeves!
+*	Internships
+*	Build the community (*hard)
+*	Employee referrals: may be slippery when wet
+*	A field guide to developers----
+# three A FIELD GUIDE TO DEVELOPERS
+*	Private offices
+*	The physical workspace
+*	Toys
+*	The social life of developers
+	-	How are programmers treated inside the organization?
+	-	Who are their colleagues?
+	-	Independence and autonomy
+	-	No politics
+	
+*	What am I working on?
+	-	Let the top recruits pick their own project
+	-	Use cool new technologies unnecessarily
+	
+*	Can I identify with the company?
+*	One thing that programmers don’t care about----
