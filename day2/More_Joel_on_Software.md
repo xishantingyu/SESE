@@ -24,8 +24,14 @@ From <http://en.wikipedia.org/wiki/Joel_Spolsky>
 
 ----
 
-# JOEL, APRESS, BLOGS, AND BLOOKS
+# my comment
 
+* practical experience from his own software business
+
+----
+
+
+# JOEL, APRESS, BLOGS, AND BLOOKS
 
 
 ----
