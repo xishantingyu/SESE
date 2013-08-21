@@ -28,3 +28,22 @@ From <http://en.wikipedia.org/wiki/Andy_Hunt_(author)>
 *Dave Thomas* is a computer programmer and author/editor. He has written about Ruby. Together with Andy Hunt, he co-authored The Pragmatic Programmer and runs The Pragmatic Bookshelf publishing company. Dave Thomas lives north of Dallas, Texas. He moved to the United States from England in 1994.
 
 From <http://en.wikipedia.org/wiki/Dave_Thomas_(programmer)>
+
+----
+
+# Preface
+
+a Pragmatic Programmer
+
+*	Early adopter/fast adapter
+*	Inquisitive
+*	Critical thinker
+*	Realistic
+*	Jack of all trades
+
+tips
+
+*	Care About Your Craft
+*	Think! About Your Work
+
+----
