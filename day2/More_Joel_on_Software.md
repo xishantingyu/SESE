@@ -84,3 +84,75 @@ From <http://en.wikipedia.org/wiki/Joel_Spolsky>
 *	A new field
 ----
 # sixteen BUILDING COMMUNITIES WITH SOFTWARE----
+# seventeen MARTIAN HEADSETS
+Web standards----
+# eighteen WHY ARE THE MICROSOFT OFFICE FILE FORMATS SO COMPLICATED? (AND SOME WORKAROUNDS)
+binary file specification----
+# nineteen WHERE THERE’S MUCK, THERE’S BRASS
+----
+# twenty EVIDENCE-BASED SCHEDULING
+1. Break ’er down2. Track elapsed time
+3. Simulate the future
+
+*	Obsessive-compulsive disorder not required
+
+4. Manage your projects actively*	Scope creep
+*	While we’re at it
+*	Summary
+
+		Evidence-Based Scheduling is built into FogBugz 6.0.
+----
+# twenty-one STRATEGY LETTER VI
+
+*	Limited-memory, limited-CPU environments
+*	A portable programming language
+*	High interactivity and UI standards----
+# twenty-two CAN YOUR PROGRAMMING LANGUAGE DO THIS?
+----
+#	twenty-three MAKING WRONG CODE LOOK WRONG
+*	An example
+	_	Possible solution #1
+	-	Possible solution #2
+	-	The real solution
+	
+*	A general rule
+
+		Look for coding conventions that make wrong code look wrong. Getting the right information collocated all together in the same place on screen in your code lets you see certain types of problems and fix them right away.
+
+*	I’m Hungary
+*	More reading----
+# twenty-four FOREWORD TO ERIC SINK ON THE BUSINESS OF SOFTWARE
+----
+# twenty-five FOREWORD TO MICRO-ISV: FROM VISION TO REALITY
+----
+# twenty-six HITTING THE HIGH NOTES*	But wait, there’s more!
+*	But wait, there’s even more!----# twenty-seven BIONIC OFFICE
+*	Bottom line it for me----
+# twenty-eight UP THE TATA WITHOUT A TUTU
+----
+# twenty-nine SIMPLICITY
+----
+# thirty RUB A DUB DUB
+----
+# thirty-one TOP TWELVE TIPS FOR RUNNING A BETA TEST
+----
+# thirty-two SEVEN STEPS TO REMARKABLE CUSTOMER SERVICE
+
+1. Fix everything two ways
+2. Suggest blowing out the dust
+3. Make customers into fans4. Take the blame5. Memorize awkward phrases6. Practice puppetry
+
+		“You will never win an argument with your customer” (Patrick McKenzie)
+		
+7. Greed will get you nowhere
+8. (Bonus!) Give customer service people a career path----# thirty-three PICKING A SHIP DATE----
+# thirty-four CAMELS AND RUBBER DUCKIES
+
+*	Some economic theory
+	-	Bad idea #1: Site licenses
+	-	Bad idea #2: “How much money do you have?” pricing		net present value (NPV) 
+				----
+# thirty-five FIVE WHYS
+		“A black swan is an outlier, an event that lies beyond the realm of normal expectations.” (Nassim Taleb)----
+# thirty-six SET YOUR PRIORITIES
+----
