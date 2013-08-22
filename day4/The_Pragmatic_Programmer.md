@@ -157,3 +157,21 @@ tips
 *	Finish What You Start
 
 ----
+
+# Chapter 5. Bend or Break
+
+tips
+
+*	Minimize Coupling Between Modules
+*	Configure, Don't Integrate
+*	Put Abstractions in Code Details in Metadata
+*	Analyze Workflow to Improve Concurrency
+*	Design Using Services
+*	Always Design for Concurrency
+
+		The CORBA Event Service
+		
+*	Separate Views from Models
+*	Use Blackboards to Coordinate Workflow
+
+----
