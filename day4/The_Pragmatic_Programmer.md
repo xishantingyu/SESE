@@ -47,3 +47,80 @@ tips
 *	Think! About Your Work
 
 ----
+
+# Chapter 1. A Pragmatic Philosophy
+
+tips
+
+*	Provide Options, Don't Make Lame Excuses
+*	Don't Live with Broken Windows
+*	Be a Catalyst for Change
+*	Remember the Big Picture
+*	Make Quality a Requirements Issue
+
+		Building Your Portfolio
+
+		*	Invest regularly
+		*	Diversify
+		*	Manage risk
+		*	Buy low, sell high
+		*	Review and rebalance
+
+*	Invest Regularly in Your Knowledge Portfolio
+*	Critically Analyze What You Read and Hear
+*	It's Both What You Say and the Way You Say It
+
+		E-Mail Communication
+		
+		*	Proofread before you hit SEND.
+		*	Check the spelling.
+		*	Keep the format simple.
+		*	Use rich-text or HTML formatted mail only if you know that all your recipients can read it. Plain text is universal.
+		*	Try to keep quoting to a minimum.
+		*	If you're quoting other people's e-mail, be sure to attribute it, and quote it inline (rather than as an attachment).
+		*	Don't flame unless you want it to come back and haunt you later.
+		*	Check your list of recipients before sending.
+		*	Archive and organize your e-mail–both the import stuff you receive and the mail you send.
+		
+----
+
+# Chapter 2. A Pragmatic Approach
+
+tips
+
+*	DRY—Don't Repeat Yourself
+
+		duplication categories:
+		
+		*	Imposed
+		*	Inadvertent
+		*	Impatient
+		*	Interdeveloper
+		
+		techniques:
+		
+		*	Multiple representations of information.
+		*	Documentation in code.
+		*	Documentation and code.
+		*	Language issues.
+
+*	Make It Easy to Reuse
+*	Eliminate Effects Between Unrelated Things
+
+		techniques to maintain orthogonality:
+		
+		*	Keep your code decoupled.
+		*	Avoid global data.
+		*	Avoid similar functions.
+		
+*	There Are No Final Decisions
+*	Use Tracer Bullets to Find the Target
+
+		Prototyping is a learning experience.
+		
+*	Prototype to Learn
+*	Program Close to the Problem domain
+*	Estimate to Avoid Surprises
+*	Iterate the Schedule with the Code
+
+----
