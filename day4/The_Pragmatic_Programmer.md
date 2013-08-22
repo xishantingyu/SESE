@@ -144,3 +144,16 @@ tips
 *	Write Code That Writes Code
 
 ----
+
+# Chapter 4. Pragmatic Paranoia
+
+tips
+
+*	You Can't Write Perfect Software
+*	Design with Contracts
+*	Crash Early
+*	If It Can't Happen, Use Assertions to Ensure That It Won't
+*	Use Exceptions for Exceptional Problems
+*	Finish What You Start
+
+----
