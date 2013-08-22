@@ -124,3 +124,23 @@ tips
 *	Iterate the Schedule with the Code
 
 ----
+
+# Chapter 3. The Basic Tools
+
+tips
+
+*	Keep Knowledge in Plain Text
+
+		The Unix Philosophy
+		
+*	Use the Power of Command Shells
+*	Use a Single Editor Well
+*	Always Use Source Code Control
+*	Fix the Problem, Not the Blame
+*	Don't Panic
+*	"select" Isn't Broken
+*	Don't Assume It—Prove It
+*	Learn a Text Manipulation Language
+*	Write Code That Writes Code
+
+----
