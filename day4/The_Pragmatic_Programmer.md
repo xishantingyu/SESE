@@ -210,3 +210,23 @@ tips
 *	Expensive Too Do Not Produce Better Designs
 
 ----
+
+# Chapter 8. Pragmatic Projects
+
+tips
+
+*	Organize Around Functionality, Not Job Functions
+*	Don't Use Manual Procedures
+*	Coding Ain't Done 'Til All the Tests Run
+*	Treat English as Just Another Programming Language
+*	Build Documentation In, Don't Bolt It On
+
+		The Linux documentation project uses DocBook to publish information in RTF, TeX, info, PostScript, and HTML formats.
+
+*	Use Saboteurs to Test Your Testing
+*	Test State Coverage, Not Code Coverage
+*	Find Bugs Once
+*	Gently Exceed Your Users' Expectations
+*	Sign Your Work
+
+----
