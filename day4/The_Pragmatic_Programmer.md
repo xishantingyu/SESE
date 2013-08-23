@@ -194,7 +194,7 @@ tips
 
 		Requirements rarely lie on the surface. Normally, they're buried deep beneath layers of assumptions, misconceptions, and politics.
 		
-tips
+tip
 
 *	Don't Gather Requirements—Dig for Them
 *	Work with a User to Think Like a User
@@ -228,5 +228,10 @@ tips
 *	Find Bugs Once
 *	Gently Exceed Your Users' Expectations
 *	Sign Your Work
+
+----
+
+# Appendix A. Resources
+
 
 ----
