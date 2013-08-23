@@ -175,3 +175,17 @@ tips
 *	Use Blackboards to Coordinate Workflow
 
 ----
+
+# Chapter 6. While You Are Coding
+
+tips
+
+*	Don't Program by Coincidence
+*	Estimate the Order of Your Algorithms
+*	Test Your Estimates
+*	Refactor Early, Refactor Often
+*	Design to Test
+*	Test Your Software, or Your Users Will
+*	Don't Use Wizard Code You Don't Understand
+
+----
