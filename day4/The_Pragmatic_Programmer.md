@@ -189,3 +189,24 @@ tips
 *	Don't Use Wizard Code You Don't Understand
 
 ----
+
+# Chapter 7. Before the Project
+
+		Requirements rarely lie on the surface. Normally, they're buried deep beneath layers of assumptions, misconceptions, and politics.
+		
+tips
+
+*	Don't Gather Requirements—Dig for Them
+*	Work with a User to Think Like a User
+*	Abstractions Live Longer than Details
+
+		The key to managing growth of requirements is to point out each new feature's impact on the schedule to the project sponsors.
+		
+*	Use a Project Glossary
+*	Don't Think Outside the Box—Find the Box
+*	Listen to Nagging Doubts—Start When You're Ready
+*	Some Things Are Better Done than Described
+*	Don't Be a Slave to Formal Methods
+*	Expensive Too Do Not Produce Better Designs
+
+----
