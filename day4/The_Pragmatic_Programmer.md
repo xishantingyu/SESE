@@ -31,6 +31,14 @@ From <http://en.wikipedia.org/wiki/Dave_Thomas_(programmer)>
 
 ----
 
+# my comments
+
+*	comprehensive
+*	detailed
+*	on all aspects of software engineering
+
+----
+
 # Preface
 
 a Pragmatic Programmer
