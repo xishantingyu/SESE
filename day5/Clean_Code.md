@@ -61,3 +61,28 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
 ----
 
+# 2 Meaningful Names
+
+*	Introduction
+*	Use Intention-Revealing Names
+*	Avoid Disinformation
+*	Make Meaningful Distinctions
+*	Use Pronounceable Names
+*	Use Searchable Names
+*	Avoid Encodings
+*	Hungarian Notation
+*	Member Prefixes
+*	Interfaces and Implementations
+*	Avoid Mental Mapping
+*	Class Names
+*	Method Names
+*	Don’t Be Cute
+*	Pick One Word per Concept
+*	Don’t Pun
+*	Use Solution Domain Names
+*	Use Problem Domain Names
+*	Add Meaningful Context
+*	Don’t Add Gratuitous Context
+*	Final Words
+
+----
