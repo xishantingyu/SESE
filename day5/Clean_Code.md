@@ -86,3 +86,44 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Final Words
 
 ----
+
+# 3 Functions
+
+*	Small!
+*	Blocks and Indenting
+*	Do One Thing
+*	Sections within Functions
+*	One Level of Abstraction per Function
+*	Reading Code from Top to Bottom: The Stepdown Rule
+*	Switch Statements
+
+		Single Responsibility Principle (SRP) 
+		
+		http://en.wikipedia.org/wiki/Single_responsibility_principle 
+		http://www.objectmentor.com/resources/articles/srp.pdf
+		
+		Open Closed Principle (OCP)
+				http://en.wikipedia.org/wiki/Open/closed_principle		http://www.objectmentor.com/resources/articles/ocp.pdf
+
+*	Use Descriptive Names
+*	Function Arguments
+*	Common Monadic Forms
+*	Flag Arguments
+*	Dyadic Functions
+*	Triads
+*	Argument Objects
+*	Argument Lists
+*	Verbs and Keywords
+*	Have No Side Effects
+*	Output Arguments
+*	Command Query Separation
+*	Prefer Exceptions to Returning Error Codes
+*	Extract Try/Catch Blocks
+*	Error Handling Is One Thing
+*	The Error.java Dependency Magnet
+*	Don’t Repeat Yourself
+*	Structured Programming
+*	How Do You Write Functions Like This?
+*	Conclusion
+
+----
