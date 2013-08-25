@@ -200,3 +200,25 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 ##		Uncle Bob’s Formatting Rules
 
 ----
+
+# 6	Objects and Data Structures
+
+*	Data Abstraction
+*	Data/Object Anti-Symmetry
+
+		Procedural code (code using data structures) makes it easy to add new functions without changing the existing data structures. OO code, on the other hand, makes it easy to add new classes without changing existing functions.
+		
+		Procedural code makes it hard to add new data structures because all the functions must change. OO code makes it hard to add new functions because all the classes must change.
+
+*	The Law of Demeter 
+
+	<http://en.wikipedia.org/wiki/Law_of_Demeter>
+
+*	Train Wrecks
+*	Hybrids
+*	Hiding Structure
+*	Data Transfer Objects
+*	Active Record
+*	Conclusion
+
+----
