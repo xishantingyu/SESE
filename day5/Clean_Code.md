@@ -222,3 +222,17 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Conclusion
 
 ----
+
+# 7 Error Handling
+
+*	Use Exceptions Rather Than Return Codes
+*	Write Your Try-Catch-Finally Statement First
+*	Use Unchecked Exceptions
+*	Provide Context with Exceptions
+*	Define Exception Classes in Terms of a Caller’s Needs
+*	Define the Normal Flow
+*	Don’t Return Null
+*	Don’t Pass Null
+*	Conclusion
+
+----
