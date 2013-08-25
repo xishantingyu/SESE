@@ -166,3 +166,37 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 	-	Example
 
 ----
+
+# 5 Formatting
+
+*	The Purpose of Formatting
+
+##		Vertical Formatting
+
+*	The Newspaper Metaphor
+*	Vertical Openness Between Concepts
+*	Vertical Density
+*	Vertical Distance
+
+	-	Variable Declarations
+	-	Instance variables
+	-	Dependent Functions
+	-	Conceptual Affinity
+	
+*	Vertical Ordering
+
+##		Horizontal Formatting
+
+*	Horizontal Openness and Density
+*	Horizontal Alignment
+*	Indentation
+
+	-	Breaking Indentation
+	-	Dummy Scopes
+
+
+##		Team Rules
+
+##		Uncle Bob’s Formatting Rules
+
+----
