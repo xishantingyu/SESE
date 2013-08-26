@@ -346,3 +346,10 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Conclusion
 
 ----
+
+# 14 Successive Refinement		Case Study of a Command-Line Argument Parser
+*	Args Implementation*	How Did I Do This?*	Args: The Rough Draft
+*	On Incrementalism
+*	String Arguments
+*	Conclusion
+----
