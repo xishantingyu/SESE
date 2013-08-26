@@ -305,3 +305,7 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Java Proxies
 *	Pure Java AOP Frameworks*	AspectJ Aspects*	Test Drive the System Architecture*	Optimize Decision Making*	Use Standards Wisely, When They Add Demonstrable Value*	Systems Need Domain-Specific Languages*	Conclusion
 ----
+#	12 Emergence
+		by Jeff Langr
+*	Getting Clean via Emergent Design		
+*	According to Kent, a design is “simple” if it follows these rules:	-	Runs all the tests	-	Contains no duplication	-	Expresses the intent of the programmer	-	Minimizes the number of classes and methods----
