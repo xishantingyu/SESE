@@ -251,3 +251,33 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Clean Boundaries
 
 ----
+
+# 9 Unit Tests
+
+*	The Three Laws of TDD
+
+	-	You may not write production code until you have written a failing unit test.
+	-	You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
+	-	You may not write more production code than is sufficient to pass the cur- rently failing test.
+	
+*	Keeping Tests Clean
+
+		Test code is just as important as production code.
+		
+*	Tests Enable the -ilities
+*	Clean Tests
+*	Domain-Specific Testing Language
+*	A Dual Standard
+*	One Assert per Test
+*	Single Concept per Test
+*	F.I.R.S.T.
+
+	-	Fast
+	-	Independent
+	-	Repeatable
+	-	Self-Validating
+	-	Timely
+	
+*	Conclusion
+
+----
