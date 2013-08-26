@@ -293,3 +293,15 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Organizing for Change
 *	Isolating from Change	
 ----
+
+# 11 Systems
+		by Dr. Kevin Dean Wampler
+*	How Would You Build a City?
+*	Separate Constructing a System from Using It
+*	Factories
+*	Dependency Injection
+*	Scaling Up
+*	Cross-Cutting Concerns
+*	Java Proxies
+*	Pure Java AOP Frameworks*	AspectJ Aspects*	Test Drive the System Architecture*	Optimize Decision Making*	Use Standards Wisely, When They Add Demonstrable Value*	Systems Need Domain-Specific Languages*	Conclusion
+----
