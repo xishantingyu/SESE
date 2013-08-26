@@ -353,3 +353,12 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	String Arguments
 *	Conclusion
 ----
+# 15 JUnit Internals
+*	The JUnit Framework*	Conclusion----
+# 16 Refactoring SerialDate
+*	First, Make It Work
+
+		Clover, Java and Groovy Code Coverage. <https://www.atlassian.com/software/clover/overview>
+		
+*	Then Make It Right
+*	Conclusion----
