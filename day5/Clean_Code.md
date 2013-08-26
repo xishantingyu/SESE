@@ -309,3 +309,40 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 		by Jeff Langr
 *	Getting Clean via Emergent Design		
 *	According to Kent, a design is “simple” if it follows these rules:	-	Runs all the tests	-	Contains no duplication	-	Expresses the intent of the programmer	-	Minimizes the number of classes and methods----
+# 13 Concurrency		by Brett L. Schuchert
+		“Objects are abstractions of processing. Threads are abstractions of schedule.”														—James O. Coplien
+
+*	Why Concurrency?
+*	Myths and Misconceptions
+*	Challenges
+*	Concurrency Defense Principles
+
+	-	Single Responsibility Principle
+	-	Corollary: Limit the Scope of Data
+	-	Corollary: Use Copies of Data
+	-	Corollary: Threads Should Be as Independent as Possible
+	
+*	Know Your Library
+
+	-	Thread-Safe Collections
+	
+*	Know Your Execution Models
+
+	-	Producer-Consumer <http://en.wikipedia.org/wiki/Producer-consumer>
+	-	Readers-Writers <http://en.wikipedia.org/wiki/Readers-writers_problem>
+	-	Dining Philosophers <http://en.wikipedia.org/wiki/Dining_philosophers_problem>
+
+*	Beware Dependencies Between Synchronized Methods
+*	Keep Synchronized Sections Small
+*	Writing Correct Shut-Down Code Is Hard
+*	Testing Threaded Code
+*	Treat Spurious Failures as Candidate Threading Issues
+*	Get Your Nonthreaded Code Working First
+*	Make Your Threaded Code Pluggable
+*	Make Your Threaded Code Tunable
+*	Run with More Threads Than Processors
+*	Run on Different Platforms
+*	Instrument Your Code to Try and Force Failures
+*	Conclusion
+
+----
