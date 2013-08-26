@@ -361,4 +361,10 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 		Clover, Java and Groovy Code Coverage. <https://www.atlassian.com/software/clover/overview>
 		
 *	Then Make It Right
-*	Conclusion----
+*	Conclusion----# 17 Smells and Heuristics
+
+*	Comments
+*	Environment
+*	Functions
+*	General*	Java*	Tests
+*	Conclusion----
