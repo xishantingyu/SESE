@@ -281,3 +281,15 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Conclusion
 
 ----
+
+#	10 Classes
+		with Jeff Langr
+*	Class Organization
+	-	Encapsulation
+*	Classes Should Be Small!
+*	The Single Responsibility Principle
+*	Cohesion
+*	Maintaining Cohesion Results in Many Small Classes
+*	Organizing for Change
+*	Isolating from Change	
+----
