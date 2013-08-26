@@ -236,3 +236,18 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Conclusion
 
 ----
+
+# 8 Boundaries
+
+		by James Grenning
+		
+*	Using Third-Party Code
+*	Exploring and Learning Boundaries
+
+	-	Learning log4j
+	-	Learning Tests Are Better Than Free
+	
+*	Using Code That Does Not Yet Exist
+*	Clean Boundaries
+
+----
