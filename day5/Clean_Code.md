@@ -366,5 +366,32 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Comments
 *	Environment
 *	Functions
-*	General*	Java*	Tests
-*	Conclusion----
+*	General*	Java*	Names*	Tests
+*	Conclusion----
+# Appendix A
+##	Concurrency II		by Brett L. Schuchert
+*	Client/Server Example*	Possible Paths of Execution
+*	Knowing Your Library
+*	Dependencies Between Methods Can Break Concurrent Code
+*	Increasing Throughput
+*	Testing Multithreaded Code
+*	Tool Support for Testing Thread-Based Code
+
+	-	ConTest <http://www.haifa.ibm.com/projects/verification/contest/index.html>
+
+*	Conclusion
+*	Tutorial: Full Code Examples	
+		
+----
+
+# Appendix B
+## org.jfree.date.SerialDate
+
+----		
+#	Appendix C
+## Cross References of Heuristics		
+----
+
+# Epilogue
+
+----
