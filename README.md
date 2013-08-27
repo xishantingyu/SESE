@@ -71,10 +71,10 @@ For each unit, there are 4 sections:
 *	assignment_6
 
 ### day 7
-*	introduction to **Peopleware**
-*	presentation skill
 *	read and discuss **Introduction to Embedded Linux**
+*	presentation skill
 *	how to write *resume*
+*	introduction to **Peopleware**
 *	assignment_7
 
 ### day 8
@@ -92,3 +92,8 @@ There will be __NO__ final exam for this course. Grading will base on:
 *	writting assignments, 64%, 8% each;
 *	reading report, 20%.
 
+## References
+
+*	List of freely available programming books <http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/>
+
+*	100 Most Influential Books According to Stack Overflow <http://cspray.github.io/my.so-archive/100-most-influential-programming-books.html>
