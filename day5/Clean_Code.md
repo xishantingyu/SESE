@@ -26,6 +26,17 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
 ----
 
+# My comments
+
+*	mostly on the coding level as suggested by the title
+*	Java is the programming language in the examples
+*	concurrent programming is too hard
+*	chapter 17 is the summary or check list
+*	better organized in terms of bibliography and links in the pdf file 
+*	verbose somehow
+
+----
+
 # Foreword
 
 ----
@@ -224,6 +235,8 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 ----
 
 # 7 Error Handling
+
+		by Michael Feathers
 
 *	Use Exceptions Rather Than Return Codes
 *	Write Your Try-Catch-Finally Statement First
