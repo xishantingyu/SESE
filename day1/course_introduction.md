@@ -26,6 +26,7 @@
 *	Email: tiansiyuan AT gmail DOT com
 *	Wechat: tiansiyuan_weixin
 *	Weibo: 胡试之
+*	douban: <http://www.douban.com/people/tiansiyuan/>
 
 ----
 
