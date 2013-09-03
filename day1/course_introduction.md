@@ -16,6 +16,11 @@
 *	sign up with the same email account as above
 *	watch <https://github.com/xishantingyu/SESE>
 
+# Dictionary
+
+*	<http://www.iciba.com>
+
+
 # Contacts
 
 *	Email: tiansiyuan AT gmail DOT com
