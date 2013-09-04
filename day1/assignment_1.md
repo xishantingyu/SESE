@@ -6,7 +6,7 @@ Write an email message to the lecturer at tiansiyuan AT gmail DOT com with the f
 	-	etc
 *	reason why you study software engineering;
 *	what you'd like to learn from this course;
-*	your question to the lecture if any;
+*	your question to the lecturer if any;
 *	etc.
 
 before the next class.
