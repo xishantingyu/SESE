@@ -1,4 +1,4 @@
-The follwing is a list of recommended books with descriptions from <http://www.amazon.com>.
+The following is a list of recommended books with descriptions from <http://www.amazon.com>.
 
 *	The Pragmatic Programmer
 *	Clean Code

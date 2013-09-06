@@ -29,7 +29,7 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 
 *	15 interviews
 *	a lot of oral
-*	really owewsome people
+*	really owesome people
 *	most like lisp
 *	most don't like C++
 *	Fran Allen, the only female
