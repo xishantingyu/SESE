@@ -8,5 +8,5 @@
 	
 *	Specify the Response You Want
 
-*	phases used in varies senarios
+*	phases used in varies scenarios
 
