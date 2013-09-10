@@ -8,5 +8,6 @@
 *	used lower case while upper case is expected
 *	Chinese punctuations in English
 *	no space after the punctuation 
+*	name in email account setting
 *	typos
 	- use a spell checker
