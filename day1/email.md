@@ -8,5 +8,4 @@
 	
 *	Specify the Response You Want
 
-*	phases used in varies scenarios
-
+*	phrases used in varies scenarios
