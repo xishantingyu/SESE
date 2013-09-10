@@ -6,6 +6,7 @@
 *	no blank line between paragraphs
 *	unnecessary attachments
 *	used lower case while upper case is expected
-*	Chinese punctuations in English 
+*	Chinese punctuations in English
+*	no space after the punctuation 
 *	typos
 	- use a spell checker
