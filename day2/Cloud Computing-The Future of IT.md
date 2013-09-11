@@ -4,7 +4,7 @@ A IT strategy report from <http://www.infoworld.com>
 
 # Questions & discussion
 
-*	What InfoWorld's “official” definition of cloud computing in 2008?
+*	What is the InfoWorld's “official” definition of cloud computing in 2008?
 *	Which seven categories of cloud services? And could be reduced to which three?
 *	What is "Computing in the sky"?
 *	What are the stories of Nasdaq and the New York Times with cloud computing?
@@ -13,5 +13,3 @@ A IT strategy report from <http://www.infoworld.com>
 *	Amazon web services
 *	Development trend
 *	IT facing cloud computing
-
-
