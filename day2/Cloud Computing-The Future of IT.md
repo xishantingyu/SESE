@@ -2,14 +2,16 @@
 
 A IT strategy report from <http://www.infoworld.com>
 
-# Questions
+# Questions & discussion
 
-*	What does "IT" mean?
-*	Which types of could computing and examples of each type are listed in the article?
+*	What InfoWorld's “official” definition of cloud computing in 2008?
+*	Which seven categories of cloud services? And could be reduced to which three?
 *	What is "Computing in the sky"?
 *	What are the stories of Nasdaq and the New York Times with cloud computing?
+*	What prevents customers from using cloud computing
+*	Dave Rosenberg's story
+*	Amazon web services
+*	Development trend
+*	IT facing cloud computing
 
-
-
-# Discussion
 
