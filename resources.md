@@ -6,3 +6,4 @@
 *	Dr. Dobb's <http://www.drdobbs.com/>
 *	Wired <http://www.wired.com/>
 *	Computerworld <http://www.computerworld.com/>
+*	Coursera <https://www.coursera.org/>
