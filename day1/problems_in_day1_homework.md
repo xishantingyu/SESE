@@ -9,5 +9,6 @@
 *	Chinese punctuations in English
 *	no space after the punctuation 
 *	name in email account setting
+*	auto reply
 *	typos
 	- use a spell checker
