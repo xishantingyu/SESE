@@ -73,7 +73,7 @@ From <http://en.wikipedia.org/wiki/Joel_Spolsky>
 ----
 # nine TALK AT YALE
 ----
-# ten ADVICE FOR COMPUTER SCIENCE COLLEGE STUDENTS1. Learn how to write before graduating.2. Learn C before graduating.3. Learn microeconomics before graduating.4. Don’t blow off non-CS classes just because they’re boring. 5. Take programming-intensive courses.6. Stop worrying about all the jobs going to India.7. No matter what you do, get a good summer internship.
+# ten ADVICE FOR COMPUTER SCIENCE COLLEGE STUDENTS1. Learn how to write before graduating.2. Learn C before graduating.3. Learn microeconomics before graduating.4. Don’t blow off non-CS classes just because they’re boring. 5. Take programming-intensive courses.6. Stop worrying about all the jobs going to India.7. No matter what you do, get a good summer internship.
 8. Seek pro- fessional help for that self-esteem thing.----
 # eleven FONT SMOOTHING, ANTI-ALIASING, AND SUBPIXEL RENDERING
 *	Apple generally believes that the goal of the algorithm should be to preserve the design of the typeface as much as possible, even at the cost of a little bit of blurriness.*	Microsoft generally believes that the shape of each letter should be hammered into pixel boundaries to prevent blur and improve readability, even at the cost of not being true to the typeface.----

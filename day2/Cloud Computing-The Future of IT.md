@@ -13,3 +13,5 @@ A IT strategy report from <http://www.infoworld.com>
 *	Amazon web services
 *	Development trend
 *	IT facing cloud computing
+
+
