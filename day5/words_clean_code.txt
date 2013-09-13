@@ -1,308 +1,308 @@
 1  verbose
 adj.冗长的，Up唆的，累赘的
 adv.冗长地，Up唆地，累赘地
-陌生
+
 
 2  sojourn
 n.逗留，旅居
-陌生
+
 
 3  grimace
 n.鬼脸，怪相  痛苦的表情
 vi.扮怪相，做鬼脸
-陌生
+
 
 4  spline
 n.方栓  齿条  止转楔  花键
 vt.用花键联接，开键槽
-陌生
+
 
 5  reticulate
 adj.网状的
 v.（使）成网状
-陌生
+
 
 6  gradient
 n.[物]梯度，陡度  （温度、气压等）变化率，梯度变化曲线  <英>（道路的）倾斜度，坡度
 adj.倾斜的  [动]步行的，能步行的
-陌生
+
 
 7  impenetrable
 adj.不能通过的  不能理解的  无动于衷的  顽固的，不接受的
-陌生
+
 
 8  nomenclature
 n.系统命名法  命名（过程）  （某一学科的）术语  专门名称
-陌生
+
 
 9  rudderless
 adj.无指导者的，无舵的
-陌生
+
 
 10  weasel
 n.鼬鼠，黄鼠狼  狡猾的人  卑劣的人
 vi.躲避，躲闪（承诺、责任等）  含糊其辞
-陌生
+
 
 11  glissade
 v.下滑
 n.制动滑降  滑步
-陌生
+
 
 12  succinct
 adj.简明的，简洁的，简练的  <古>束紧的，像是用腰带围绕的
-陌生
+
 
 13  roundly
 adv.严厉地  粗暴地  大概地  约略地
-陌生
+
 
 14  stellar
 adj.星的  星球的  主要的   主角的
-陌生
+
 
 15  impunity
 n.不受惩罚，无罪  不受损失
-陌生
+
 
 16  unadorned
 adj.朴素的，未经装饰的  不加装饰的
-陌生
+
 
 17  ad infinitum
 adv.无限  无休止地  反复地
-陌生
+
 
 18  admixture
 n.混合  掺和  混合物  附加剂
-陌生
+
 
 19  Demeter
 n.<希神> 得墨忒耳（掌农业，结婚，丰饶之女神）[人名] 德米特
-陌生
+
 
 20  diametrically
 adv.作为直径地，直接地
-陌生
+
 
 21  succumb to
 [医]死[于]
-陌生
+
 
 22  succumb
 vi.屈服  死亡
-陌生
+
 
 23  accentuate
 vt.强调，着重指出  重读  给…加上重音符号
-陌生
+
 
 24  Hollerith
 利用凿孔把字母信息在卡片上编码的一种方式（以美国发明人赫尔曼·霍尔瑞斯 Herman Hollerith 命名 1860-1929）[人名] 霍利里思
-陌生
+
 
 25  agglomeration
 n.成团，结块
-陌生
+
 
 26  bevy
 n.（尤指少女或妇女的）一群  （鸟类的）一群
-陌生
+
 
 27  anathema
 n.咒，诅咒  [宗]咒逐  令人极其讨厌的事或人  被诅咒的人或物
-陌生
+
 
 28  dreg
 n.渣滓，糟粕，沉淀物
-陌生
+
 
 29  byline
 n.报刊文章撰稿人签名处  署名  铁路支线  副业
 vt.（发表文章时）署名
-陌生
+
 
 30  balm
 n.香油，香脂  芳香，香味  镇痛软膏  [植]白壳杨
 v.安抚，安慰  止痛  在…上搽香油
-陌生
+
 
 31  vent
 n.通风孔  排气孔  （感情等的）发泄，吐露  （鸟，虫，鱼的）肛门
 vt.& vi.表达，发泄（感情，尤指愤怒）  给…开孔  放出  （通过排泄等）减轻压力
-陌生
+
 
 32  paragon
 n.模范  典型  十全十美的人  完美无缺的人
-陌生
+
 
 33  recourse
 n.求援  追索权  依赖  所依靠的物[人]
-陌生
+
 
 34  mumbling
 v.含糊地说某事，叽咕，咕哝( mumble的现在分词 )
-陌生
+
 
 35  poignant
 adj.尖锐的  辛酸的  深刻的  （记忆）活鲜鲜的
-陌生
+
 
 36  flippant
 adj.轻薄的，轻浮的  无礼的  油头滑脑  轻口薄舌
-陌生
+
 
 37  tome
 n.册  卷  大而重的书  一本巨著
-陌生
+
 
 38  chimera
 n.（由几种动物的各部分构成的）假想的怪兽  不可能实现的想法  幻想  妄想
-陌生
+
 
 39  bifurcate
 adj.分叉的
 vi.（指道路、河流、树枝等）分岔，分成两支
 vt.使分枝，使分叉
-陌生
+
 
 40  innocuous
 adj.无害的  平淡无味的
-陌生
+
 
 41  triadic
 三人组合的
-陌生
+
 
 42  dyadic
 adj.二价的，双值的
-陌生
+
 
 43  monadic
 adj.单孢体的，单细胞生物的
-陌生
+
 
 44  enigmatic
 adj.神秘的  似谜的  令人困惑的  高深莫测的
-陌生
+
 
 45  gratuitous
 adj.免费的，无偿的  无必要的  无故的，无理由的
-陌生
+
 
 46  contrivance
 n.发明  发明才能  想出的办法  发明物
-陌生
+
 
 47  behoove
 n.适宜
 vi.理应，理所当然
 vt.理应，对…有此必要
-陌生
+
 
 48  stridence
 n.刺耳
-陌生
+
 
 49  bigot
 n.抱偏见的人，执拗的人，心胸狭窄的人
-陌生
+
 
 50  juxtaposition
 n.并置  并列  毗邻
-陌生
+
 
 51  oxymoron
 n.矛盾形容法，逆喻
-陌生
+
 
 52  patho
 abbr.(Greek=suffering) （希腊语）苦楚  受难  pathological 病理的  病态的
-陌生
+
 
 53  admonition
 n.告诫  劝告  轻责  （温和的）责备
-陌生
+
 
 54  conundrum
 n.谜语  难解的问题
-陌生
+
 
 55  primal
 adj.第一的，最初的  原始的  首位的，主要的  根本的
-陌生
+
 
 56  complicit
 adj.有同谋关系的，串通一气的
-陌生
+
 
 57  sanitizer
 （食物加工设备所用的）消毒杀菌剂
-陌生
+
 
 58  blather
 n.蠢话
 vt.说蠢话，胡说
-陌生
+
 
 59  bemoan
 vt.为（某人或某事）抱怨  悲悼  为…恸哭  哀叹
 vi.悲悼，叹息
-陌生
+
 
 60  odious
 adj.可憎的，讨厌的，令人作呕的
 adv.令人作呕地
 n.可憎，讨厌
-陌生
+
 
 61  asymptotically
 [计] 渐近
-陌生
+
 
 62  bramble
 n.荆棘
-陌生
+
 
 63  bulge
 n.膨胀  凸出部分  暴涨，突增
 v.膨胀  凸出  急增
-陌生
+
 
 64  silhouette
 n.轮廓，剪影  （人的）体形  （事物的）形状
 vt.使呈现影子  使呈现轮廓
-陌生
+
 
 65  firstborn
 adj.头生的（子女），初生的，第一胎生的
 n.初生儿，长男，长女
-陌生
+
 
 66  mantra
 n.颂歌，圣歌  咒语
-陌生
+
 
 67  admonishment
 n.警告
-陌生
+
 
 68  quaintly
 adv.古雅别致，离奇有趣地，优雅地
-陌生
+
 
 69  saw
 n.锯  谚语，格言
 vt.& vi.往复移动  锯成  用锯  拉锯
 v.看见( see的过去式)  观看  领会  考虑
-陌生
+
 
 70  vapor
 n.水汽，水蒸气，无实质之物  自夸者  幻想 [药]吸入剂 [古]忧郁（症）
 v.自夸，（使）蒸发
-陌生
+
 
 71  licorice
 n.欧亚甘草，由欧亚甘草根熬成的精
-陌生
+
 
