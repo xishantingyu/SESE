@@ -1,4 +1,19 @@
-# Reports
+# Weekly Report
+
+A weekly report allows companies to track employee progress at all levels. Entry-level employees can submit weekly reports to their supervisors, and middle management can inform executives about weekly accomplishments. Weekly reports help projects remain on schedule and employees complete required tasks. In addition, weekly reports help supervisors when it is time for performance reviews because they document an employee’s accomplishments.
+
+1. Include the heading. Your heading should include the words “Weekly Report,” the employee’s name and the date of the report at a minimum. Other items to consider including in the heading are your supervisor’s name or your team (such as “Sales Team").
+
+2. Write a brief summary. Precede this section by the heading “Summary,” and include a few sentences that summarize your work for the week. This summary gives your supervisor a general overview of your tasks for the week.
+
+3. List accomplished tasks. Highlight the work you accomplished during the week under the “Accomplishments” heading. Here, you can include any important meetings that took place or decisions that you made. For example, if you’re a public relations professional, you would want to include the number of press releases you distributed for the week and the media attention that your clients received. Focus on accomplishments that contribute to company goals or move a project toward completion.
+
+4. Explain in-progress tasks. Let your supervisor know what tasks you’re still working on. Include how much of the task is complete, such as 50 percent, and list the anticipated finish date. If there is a deadline for the task, include that date, and indicate whether you will be able to complete the task in time.
+
+5. Identify next week’s goals. Your goals for the following week should include any items that you list in the “In Progress” section. Identify any meetings or events scheduled for the next week as well.
+
+
+----
 
 Whether you're writing a weekly report, a trip report, a progress report, or a simple memo, certain principles will give your writing more punch and get you noticed.
 
