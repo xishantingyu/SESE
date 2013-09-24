@@ -17,7 +17,7 @@
 *	Form of Passive
 
 
-	Subject + finite form of to be + Past Participle (3rd column of irregular verbs)
+	Subject + finite form of to be + Past Participle
 
 		Example: A letter was written.
 
