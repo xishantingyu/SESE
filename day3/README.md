@@ -5,7 +5,7 @@
 	-	[Intern hiring](http://www.unipassword.com/?page_id=2)
 	-	[How to write a reading report](https://github.com/xishantingyu/SESE/tree/master/appendix/A-how_to_write_book_report)
 	-	[Writing in the Sciences](https://www.coursera.org/course/sciwrite )
-	-	[Listening comprehension and etc](http://www.duobei.com/course/4180582164 )
+	-	[Family Album USA and etc](http://www.duobei.com/course/4180582164 )
 *	Review of Day 2
 	-	problems in agenda & meeting minutes
 	-	feedback
