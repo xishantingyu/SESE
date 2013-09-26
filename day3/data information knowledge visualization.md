@@ -8,6 +8,6 @@
 
 # d3
 
-*	https://github.com/mbostock/d3/wiki/Gallery
+*	[d3](https://github.com/mbostock/d3/wiki/Gallery)
 
 
