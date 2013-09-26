@@ -1,9 +1,15 @@
 # Resources
 
-*	Stack Overflow <http://stackoverflow.com/>
-*	Quora <http://www.quora.com/>
-*	TechCrunch <http://techcrunch.com/>
-*	Dr. Dobb's <http://www.drdobbs.com/>
-*	Wired <http://www.wired.com/>
-*	Computerworld <http://www.computerworld.com/>
-*	Coursera <https://www.coursera.org/>
+*	[Github](https://github.com/)
+*	[Stack Overflow](<http://stackoverflow.com/>)
+*	[Quora](<http://www.quora.com/>)
+*	[TechCrunch](<http://techcrunch.com/>)
+*	[Dr. Dobb's](<http://www.drdobbs.com/>)
+*	[Wired](<http://www.wired.com/>)
+*	[Computerworld](<http://www.computerworld.com/>)
+*	[Coursera](<https://www.coursera.org/>)
+	-	[Writing in the Sciences](https://www.coursera.org/course/sciwrite)
+*	[edX](https://www.edx.org/)
+*	[Duobei](http://www.duobei.com/)
+        -       [Family Album USA](http://www.duobei.com/course/4180582164)
+	-	[How to speak American English?](http://www.duobei.com/course/9266712723)
