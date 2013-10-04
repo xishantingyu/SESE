@@ -14,4 +14,7 @@ An IT strategy report from <http://www.infoworld.com>
 *	Development trend
 *	IT facing cloud computing
 
+# How to read this article
 
+*	the whole structure
+*	headline for each section
