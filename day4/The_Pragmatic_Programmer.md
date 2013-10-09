@@ -241,5 +241,8 @@ tips
 
 # Appendix A. Resources
 
+----
+
+# Appendix B. Answers to Exercises
 
 ----
