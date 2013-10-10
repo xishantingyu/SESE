@@ -1,6 +1,7 @@
 # Write a requirement document
 
 *	in plan text and send me as email attachment
+*	a complete skeleton with one section filled in real content
 
 *	backgroud
 
