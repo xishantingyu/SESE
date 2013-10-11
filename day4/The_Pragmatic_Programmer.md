@@ -31,11 +31,11 @@ From <http://en.wikipedia.org/wiki/Dave_Thomas_(programmer)>
 
 ----
 
-# my comments
+# my impression
 
 *	comprehensive
 *	detailed
-*	on all aspects of software engineering
+*	70 tips, on all aspects of software engineering
 
 ----
 
@@ -202,7 +202,7 @@ tips
 
 		Requirements rarely lie on the surface. Normally, they're buried deep beneath layers of assumptions, misconceptions, and politics.
 		
-tip
+tips
 
 *	Don't Gather Requirements—Dig for Them
 *	Work with a User to Think Like a User
@@ -216,6 +216,8 @@ tip
 *	Some Things Are Better Done than Described
 *	Don't Be a Slave to Formal Methods
 *	Expensive Too Do Not Produce Better Designs
+
+		should read: expensive, too do not produce better designs
 
 ----
 
