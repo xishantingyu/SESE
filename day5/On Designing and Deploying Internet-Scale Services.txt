@@ -1,0 +1,269 @@
+On Designing and Deploying Internet-Scale Services
+
+James Hamilton – Windows Live Services Platform 
+
+ABSTRACT
+
+Introduction
+
+1. deliver operations-friendly services quickly and
+2. avoid the early morning phone calls and meetings with unhappy customers that non-operations-friendly services tend to yield.
+
+
+1. Expect failures. 
+2. Keep things simple.
+3. Automate everything.
+
+
+Recommendations
+
+
+Overall Application Design
+
+
+• Design for failure. 
+
+• Redundancy and fault recovery.
+
+• Commodity hardware slice.
+
+1. large clusters of commodity servers are much less expensive than the small num-model was to buy one very large, very expensive ber of large servers they replace,
+2. server performance continues to increase much faster than I/O performance, making a small server a more balanced system for a given amount of disk,
+3. power consumption scales linearly with servers but cubically with clock frequency, making higher performance servers more expensive to operate, and
+4. a small server affects a smaller proportion of the overall service workload when failing over.
+
+
+• Single-version software.
+
+the software needs to only target a single internal deployment and
+
+previous versions don’t have to be supported for a decade as is the case for enterprise-targeted products.
+
+
+1. care in not producing substantial user experience changes release-to-release and 
+
+2. a willingness to allow customers that need this level of control to either host internally or switch to an application service provider willing to provide this people-intensive multi-version support.
+
+
+• Multi-tenancy.
+
+  • design for failure,
+  • implement redundancy and fault recovery, 
+  • depend upon a commodity hardware slice, 
+  • support single-version software, and 
+  • implement multi-tenancy.
+
+• Quick service health check. 
+• Develop in the full environment. 
+• Zero trust of underlying components. 
+• Do not build the same functionality in multiple components. 
+• One pod or cluster should not affect another pod or cluster. 
+• Allow (rare) emergency human intervention.
+• Keep things simple and robust. 
+• Enforce admission control at all levels. 
+• Partition the service. 
+• Understand the network design.
+• Analyze throughput and latency. 
+• Treat operations utilities as part of the service.
+• Understand access patterns. 
+• Version everything.
+• Keep the unit/functional tests from the last release.
+• Avoid single points of failure. 
+
+
+Automatic Management and Provisioning 
+
+Best practices in designing for automation include:
+
+• Be restartable and redundant. 
+
+• Support geo-distribution. 
+
+• Automatic provisioning and installation. 
+
+• Configuration and code as a unit. 
+
+• If a configuration change must be made in production, ensure that all changes produce an audit log record so it’s clear what was changed, 
+when and by whom, and which servers were effected (see section 2.7). 
+
+• Manage server roles or personalities rather than servers. 
+
+• Multi-system failures are common. 
+
+• Recover at the service level. 
+
+• Never rely on local storage for non-recoverable information. 
+
+• Keep deployment simple. 
+
+• Fail services regularly.
+
+
+Dependency Management
+
+
+1. the components being depended upon are substantial in size or complexity, or
+
+2. the service being depended upon gains its value in being a single, central instance.
+
+Best practices for managing dependencirs:
+
+• Expect latency. 
+
+• Isolate failures. 
+
+• Use shipping and proven components.
+
+• Implement inter-service monitoring and alerting.
+
+• Dependent services require the same design point. 
+
+• Decouple components. 
+
+Release Cycle and Testing
+
+The following rules must be followed:
+
+1. the production system has to have sufficient redundancy that, in the event of catastrophic new service failure, state can be quickly be recovered,
+
+2. data corruption or state-related failures have to be extremely unlikely (functional testing must first be passing),
+
+3. errors must be detected and the engineering team (rather than operations) must be monitoring system health of the code in test, and 
+
+4. it must be possible to quickly roll back all changes and this roll back must be tested before going into production.
+
+
+Some best practices for release cycle and testing include:
+
+• Ship often. 
+
+• Use production data to find problems. 
+
+A few strategies are: 
+
+Measureable release criteria.
+
+Tune goals in real time.
+
+Always collect the actual numbers.
+
+Minimize false positives.
+
+Make the system health highly visible.
+
+Monitor continuously.
+
+• Invest in engineering.
+
+• Support version roll-back.
+
+• Maintain forward and backward compatibility.
+
+• Single-server deployment.
+
+• Stress test for load.
+
+• Perform capacity and performance testing prior to new releases.
+
+• Build and deploy shallowly and iteratively.
+
+• Test with real data.
+
+• Run system-level acceptance tests.
+
+• Test and develop in full environments.
+
+
+Hardware Selection and Standardization
+
+If each service is purchasing their own private infrastructure, then each service has to
+
+1. determine which hardware currently is the best cost/performing option,
+2. order the hardware, and
+3. do hardware qualification and software deployment once the hardware is installed in the data center.
+
+Best practices for hardware selection include: 
+
+• Use only standard SKUs.
+
+• Purchase full racks.
+
+• Write to a hardware abstraction. 
+
+• Abstract the network and naming.
+
+Operations and Capacity Planning 
+
+• Make the development team responsible.
+
+• Soft delete only.
+
+• Track resource allocation. 
+
+• Make one change at a time.
+
+• Make Everything Configurable.
+
+
+Auditing, Monitoring and Alerting
+
+• Instrument everything.
+
+• Data is the most valuable asset.
+
+• Have a customer view of service.
+
+• Instrumentation required for production testing.
+
+• Latencies are the toughest problem.
+
+• Have sufficient production data.
+
+ Use performance counters for all operations.
+
+ Audit all operations.
+
+ Track all fault tolerance mechanisms.
+
+ Track operations against important entities.
+
+ Asserts.
+
+ Keep historical data.
+
+• Configurable logging.
+
+• Expose health information for monitoring.
+
+• Make all reported errors actionable. 
+
+• Enable quick diagnosis of production problems.
+
+ Give enough information to diagnose.
+
+ Debugging in production.
+
+ Record all significant actions.
+
+
+Graceful Degradation and Admission Control
+
+
+• Support a ‘‘big red switch.’’
+
+• Control admission.
+
+• Meter admission.
+
+
+Customer and Press Communication Plan
+
+
+Customer Self-Provisioning and Self-Help
+
+
+Conclusion
+
+Acknowledgements
+
+References
