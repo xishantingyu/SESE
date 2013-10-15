@@ -1,6 +1,6 @@
 # Write a weekly report
 
-*	in plan text and send me as email attachment
+*	in plain text and send me as email attachment
 
 *	backgroud
 
