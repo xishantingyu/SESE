@@ -1,6 +1,6 @@
 # Write a meeting agenda and corresponding meeting minutes 
 
-* in plan text files and send me as email attachments
+* in plain text files and send me as email attachments
 	-	agenda.txt
 	-	minutes.txt
 
