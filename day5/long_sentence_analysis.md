@@ -11,7 +11,8 @@
 	-	find out the subject, predicate and object of the sentence, understand the structure
 	-	find out all predicate structures, non predicate verbs, preposition phrases and clause markers
 	-	analyze function of clause and phrase
-		-	subject clause, object clause, predicative clause  		-	adverbial: time, reason, result, or conditions 
+		-	subject clause, object clause, predicative clause  		
+		-	adverbial: time, reason, result, or conditions 
 	-	analyze the relations between words, phrase and clause
 	-	Notice the components like parentheses 
 	-	set phrase and fixed phrase
@@ -24,7 +25,7 @@
 
 	-	the main structure: it is more ... to do sth than to do sth else. 
 	
-			a comparison structure， between 2 infinitives
+			a comparison structure, between 2 infinitives
 
 	-	3 predicate structures:
 			
