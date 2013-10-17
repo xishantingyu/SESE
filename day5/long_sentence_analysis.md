@@ -41,3 +41,10 @@
 *	Translation
 
 		譬如, 对于一个四口之家来说, 舒舒服服地在家中看电视, 就能看到几乎数不清的娱乐节目, 这比到外面别的地方去消遣又便宜又方便。
+
+*	More Examples
+	-	It therefore becomes more and more important that, if students are not to waste their opportunities, there will have to be much more detailed information about courses and more advice.
+	-	They (the poor) are the first to experience technological progress as a curse which destroys the old muscle-power jobs that previous generations used as a means to fight their way out of poverty.
+	-	Television, it is often said, keeps one informed about current events, allows one to follow the latest developments in science and politics, and offers an endless series of programs which are both instructive and entertaining.
+	-	What should doctor say, for example, to a 46-year-old man coming in for a routine physical check-up just before going on vacation with his family who though he feels in perfect health, is found to have a form of cancer that will cause him to die within six month?
+	-	Eager to trust but determined to verify, many single women in an age of risky romance are hiring private detectives to check the background of their suitors.
