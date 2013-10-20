@@ -18,7 +18,7 @@ For each unit, there are 4 sections:
 	
 *	Introduction to recommeded books
 
-	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. Each student is required to submit a reading report (no less than 500 words) for one book she chooses.
+	[Eight books](recommended_books.md) in software engineering, like The Mythical Man-Month, etc. Each student is required to submit a [reading report](appendix/A-how_to_write_book_report/) (no less than 500 words) for one book she chooses.
 	
 *	Writing skill
 
