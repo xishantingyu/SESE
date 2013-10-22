@@ -1,5 +1,9 @@
-# write a resume of yourself
+# prepare a resume of yourself
 
-* send me a PDF file as email attachment
+* open an account on <linkedin.com> if you don't have one
+
+* add/modify your resume there
+
+* add me <tiansiyuan@gmail.com>
 
 # Pre-read the article for day 8
