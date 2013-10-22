@@ -12,10 +12,7 @@ published in 2013
 
 ---
 
-
-
 # About the authors
-
 
 ![](../pic/Tom_DeMarco.jpg)
 
@@ -44,7 +41,6 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	The major problems of our work are not so much technological as sociological in nature.
 
 *	The High-Tech Illusion	
-
 
 ----
 
@@ -86,7 +82,8 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 #	Chapter 5 PARKINSON'S LAW REVISITED
 
 	Parkinson's Law:
-		work expands to fill the time allocated for it.
+
+	work expands to fill the time allocated for it.
 				-- British author C. Northcote Parkinson, 1954
 			
 *	Parkinson's Law and Newton's Law
@@ -102,7 +99,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Lose Fat While Sleeping
 *	The Seven Sirens
 	
-	SEVEN F ALSE HOPES OF SOFTW ARE MANAGEMENT
+	SEVEN FALSE HOPES OF SOFTW AREMANAGEMENT
 	
 	-	There is some new trick you've missed that could send pro- ductivity soaring.
 	-	Other managers are getting gains of one hundred percent or two hundred percent or more!
@@ -153,6 +150,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 # INTERMEZZO
 
 *	Gilb's Law
+
 	Anything you need to quantify can be measured In some way that Is superior to not measuring it at all.
 	
 *	But You Can't Afford Not to Know
@@ -223,7 +221,9 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Code Word: Professional
 *	Corporate Entropy
 
-	SECOND THERMODYNAMIC LAW OF MANAGEMENT: Entropy is always increasing in the organization.
+	SECOND THERMODYNAMIC LAW OF MANAGEMENT: 
+	
+		Entropy is always increasing in the organization.
 
 ----
 
@@ -251,7 +251,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	The Covert Meaning of Methodology
 *	Methodology Madness
 	
-	Voluminous documentation Is part of the problem, not part of the solution.
+		Voluminous documentation Is part of the problem, not part of the solution.
 	
 *	The Issue of Malicious Compliance
 *	The Baby and the Bathwater
@@ -263,7 +263,6 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 # PART IV GROWING PRODUCTIVE TEAMS
 
-
 ----
 
 # Chapter 18 THE WHOLE IS GREATER THAN THE SUM OF THE PARTS
@@ -272,7 +271,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Management by Hysterical Optimism
 *	The Guns of Navarone
 	
-	The purpose of a team is not goal attainment but goal alignment.
+		The purpose of a team is not goal attainment but goal alignment.
 	
 *	Signs of a Jelled Team
 *	Teams and Cliques
@@ -290,7 +289,11 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 *	teamicide techniques
 	-	defensive management
-	-	bureaucracy	-	physical separation fragmentation of people' s time 	-	quality reduction of the product	-	phony deadlines	-	clique control
+	-	bureaucracy
+	-	physical separation fragmentation of people's time 
+	-	quality reduction of the product
+	-	phony deadlines
+	-	clique control
 
 *	Defensive Management
 *	Bureaucracy
@@ -327,8 +330,14 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 list of the elements of a chemistry-building strategy for a healthy organization:
 
-	-	Make a cult of quality.	-	Provide lots of satisfying closure.	-	Build a sense of eliteness.	-	Allow and encourage heterogeneity.	-	Preserve and protect successful teams.	-	Provide strategic but not tactical direction.
-*	The Cult of Quality
+	-	Make a cult of quality.
+	-	Provide lots of satisfying closure.
+	-	Build a sense of eliteness.
+	-	Allow and encourage heterogeneity.	
+	-	Preserve and protect successful teams.
+	-	Provide strategic but not tactical direction.
+	
+*	The Cult of Quality
 *	I Told Her I Loved Her When I Married Her
 *	The Elite Team
 *	On Not Breaking Up the Yankees
@@ -340,7 +349,7 @@ list of the elements of a chemistry-building strategy for a healthy organization
 
 #	PART V ITS SUPPOSED TO BE FUN TO WORK HERE
 
-	If you enjoy doing some- thing, it isn't really work. If you enjoy it enough, it's probably sinful.
+	If you enjoy doing something, it isn't really work. If you enjoy it enough, it's probably sinful.
 	
 ----
 
@@ -348,7 +357,7 @@ list of the elements of a chemistry-building strategy for a healthy organization
 
 *	Progress Is Our Most Important Problem
 	
-	constructive reintroduction ofsmall amounts ofdisorder
+		constructive reintroduction ofsmall amounts ofdisorder
 	
 *	Pilot Projects
 *	War Games
@@ -444,8 +453,8 @@ list of the elements of a chemistry-building strategy for a healthy organization
 *	Danger in the White Space
 
 ----
-￼￼
-# ￼￼￼￼Chapter 33 The Ultimate Management Sin is …
+
+# Chapter 33 The Ultimate Management Sin is …
 
 	wasting people's time.
 	

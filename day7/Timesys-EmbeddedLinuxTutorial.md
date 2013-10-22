@@ -23,33 +23,33 @@ Chapter 1 is required, the rest is optional.
 
 	bootloaders are often specific to the computer architecture on a specific system.
 	
-- GRUB
+	- GRUB
 
-- Syslinux
+	- Syslinux
 
-- Das U-Boot
+	- Das U-Boot
 
 * Kernel configuration
 
-- Device Drivers
+	- Device Drivers
 
 * filesystem
 
-- RAM-based
+	- RAM-based
 
-- storage-based
+	- storage-based
 
--flash-based
+	- flash-based
 
 * Linux System Initialization and Startup Process
 
 * three basic types of libraries
 
-- static
+	- static
 
-- shared
+	- shared
 
-- dynamically loaded
+	- dynamically loaded
 
 * Starting Application(s) at Boot Time
 
