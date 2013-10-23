@@ -99,7 +99,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Lose Fat While Sleeping
 *	The Seven Sirens
 	
-	SEVEN FALSE HOPES OF SOFTW AREMANAGEMENT
+	SEVEN FALSE HOPES OF SOFTWARE MANAGEMENT
 	
 	-	There is some new trick you've missed that could send pro- ductivity soaring.
 	-	Other managers are getting gains of one hundred percent or two hundred percent or more!
