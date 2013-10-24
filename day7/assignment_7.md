@@ -1,4 +1,4 @@
-# prepare a resume of yourself
+# Preparee a resume of yourself
 
 * open an account on <linkedin.com> if you don't have one
 

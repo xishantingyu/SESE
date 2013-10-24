@@ -8,9 +8,9 @@ Chapter 1 is required, the rest is optional.
 
 * A Linux platform vs. A Linux distribution
 
-* “embedded Linux distribution” vs. desktop/server Linux distributions
+* "embedded Linux distribution" vs. desktop/server Linux distributions
 
-* “toolchain” and “cross-compilers”
+* "toolchain" and "cross-compilers"
 
 * GNU Compiler Collection (GCC)
 

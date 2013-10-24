@@ -28,6 +28,24 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 ----
 
+Few books in computing have had as profound an influence on software management as Peopleware . The unique insight of this longtime best seller is that the major issues of software development are human, not technical. They’re not easy issues; but solve them, and you’ll maximize your chances of success.
+ 
+“Peopleware has long been one of my two favorite books on software engineering. Its underlying strength is its base of immense real experience, much of it quantified. Many, many varied projects have been reflected on and distilled; but what we are given is not just lifeless distillate, but vivid examples from which we share the authors’ inductions. Their premise is right: most software project problems are sociological, not technological. The insights on team jelling and work environment have changed my thinking and teaching. The third edition adds strength to strength.”
+
+— Frederick P. Brooks, Jr., Kenan Professor of Computer Science, University of North Carolina at Chapel Hill, Author of The Mythical Man-Month and The Design of Design
+
+“Peopleware is the one book that everyone who runs a software team needs to read and reread once a year. In the quarter century since the first edition appeared, it has become more important, not less, to think about the social and human issues in software develop¿ment. This is the only way we’re going to make more humane, productive workplaces. Buy it, read it, and keep a stock on hand in the office supply closet.”
+
+—Joel Spolsky, Co-founder, Stack Overflow
+
+“When a book about a field as volatile as software design and use extends to a third edition, you can be sure that the authors write of deep principle, of the fundamental causes for what we readers experience, and not of the surface that everyone recognizes. And to bring people, actual human beings, into the mix! How excellent. How rare. The authors have made this third edition, with its additions, entirely terrific.”
+
+—Lee Devin and Rob Austin, Co-authors of The Soul of Design and Artful Making
+ 
+For this third edition, the authors have added six new chapters and updated the text throughout, bringing it in line with today’s development environments and challenges. For example, the book now discusses pathologies of leadership that hadn’t previously been judged to be pathological; an evolving culture of meetings; hybrid teams made up of people from seemingly incompatible generations; and a growing awareness that some of our most common tools are more like anchors than propellers. Anyone who needs to manage a software project or software organization will find invaluable advice throughout the book.
+
+----
+
 	Pay no attention to that man behind the curtain.
 	
 ----
@@ -101,7 +119,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 	
 	SEVEN FALSE HOPES OF SOFTWARE MANAGEMENT
 	
-	-	There is some new trick you've missed that could send pro- ductivity soaring.
+	-	There is some new trick you've missed that could send productivity soaring.
 	-	Other managers are getting gains of one hundred percent or two hundred percent or more!
 	-	Technology is moving so swiftly that you're being passed by.
 	-	Changing languages will give you huge gains.
@@ -163,6 +181,7 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 *	Flow
 	-	An Endless State of No-Flow
 	-	Time Accounting Based on Flow
+
 *	The E-Factor
 	Environmental Factor or E-Factor = Uninterrupted Hours / Body-Present Hours
 	
@@ -209,7 +228,9 @@ From <http://en.wikipedia.org/wiki/Tim_Lister>
 
 # PART III THE RIGHT PEOPLE
 
-*	get the right people*	make them happy so they don't want to leave *	turn them loose
+*	get the right people
+*	make them happy so they don't want to leave
+*	turn them loose
 
 ---
 
@@ -357,7 +378,7 @@ list of the elements of a chemistry-building strategy for a healthy organization
 
 *	Progress Is Our Most Important Problem
 	
-		constructive reintroduction ofsmall amounts ofdisorder
+		constructive reintroduction of small amounts of disorder
 	
 *	Pilot Projects
 *	War Games
@@ -446,7 +467,7 @@ list of the elements of a chemistry-building strategy for a healthy organization
 
 # Chapter 32 ORGANIZATIONAL LEARNING
 
-*	Experienceand Learning
+*	Experience and Learning
 *	Redesign Example
 *	The Key Question About Organizational Learning
 *	The Management Team
@@ -460,7 +481,7 @@ list of the elements of a chemistry-building strategy for a healthy organization
 	
 *	For Instance
 *	Status Meetings Are About Status
-*	Early Overstaffing
+*	Early Over staffing
 *	Fragmentation Again
 *	Respecting Your Investment
 
