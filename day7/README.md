@@ -12,8 +12,6 @@
 
 *	How to write resume
 
-*	Presentations
-
 *	Book recommendation
 
 	-	Peopleware
