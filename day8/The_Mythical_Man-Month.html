@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>The_Mythical_Man-Month.md</title>
+
+</head>
+
+<body>
+
+<h1>Introduction to</h1>
+
+<h1><center> <em>The Mythical Man-Month</em></center></h1>
+
+<hr />
+
+<h1>The Mythical Man-Month v1.0</h1>
+
+<p><img src="../pic/the-mythical-man-month-i.jpg" alt="" title="" /></p>
+
+<p>published in 1975</p>
+
+<hr />
+
+<h1>The Mythical Man-Month v2.0</h1>
+
+<p><img src="../pic/the-mythical-man-month-ii.jpg" alt="" title="" /></p>
+
+<p>published in 1995</p>
+
+<hr />
+
+<h1>About the author</h1>
+
+<p><img src="../pic/federick-p-brooks.jpg" alt="" title="" /></p>
+
+<p><em>Frederick P.Brooks, Jr.</em> won the Turing Award in 1999 for "landmark contributions to computer architecture, operating systems, and software engineering."</p>
+
+<p>He was the manager for the development of the System/360 family of computers and the OS/360 software package. He later wrote candidly about the process in his seminal book The Mythical Man-Month.</p>
+
+<p>From <a href="http://en.wikipedia.org/wiki/Fred_Brooks">http://en.wikipedia.org/wiki/Fred_Brooks</a></p>
+
+<hr />
+
+<h1>Review</h1>
+
+<pre><code>Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time.
+</code></pre>
+
+<hr />
+
+<h1>1 The Tar Pit</h1>
+
+<ul>
+<li><p>The Programming Systems Product</p></li>
+<li><p>The Joys of the Craft</p></li>
+<li><p>The Woes of the Craft</p></li>
+</ul>
+
+<hr />
+
+<h1>2 The Mythical Man-Month</h1>
+
+<ul>
+<li><p>Optimism</p></li>
+<li><p>The'Man-Month</p></li>
+<li><p>Systems Test</p></li>
+<li><p>Gutless Estimating</p></li>
+<li><p>Regenerative Schedule Disaster</p></li>
+<li><p>Brooks's Law:</p>
+
+<ul>
+<li>Adding manpower to a late software project makes it later.</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>3 The Surgical Team</h1>
+
+<ul>
+<li><p>The Problem</p></li>
+<li><p>How It Works</p></li>
+</ul>
+
+<hr />
+
+<h1>4 Aristocracy, Democracy, and System Design</h1>
+
+<ul>
+<li><p>Conceptual Integrity</p></li>
+<li><p>Achieving Conceptual Integrity</p>
+
+<ul>
+<li>Simplicity and straightforwardness</li>
+</ul></li>
+<li><p>Aristocracy and Democracy</p>
+
+<ul>
+<li>separation between architec- ture and implementation</li>
+<li>structuring programming implementation</li>
+<li>the cost-performance ratio of the product will depend most heavily on the implementer, just as ease of use depends most heavily on the architect</li>
+</ul></li>
+<li><p>What Does the Implementer Do While Waiting?</p></li>
+</ul>
+
+<hr />
+
+<h1>5 The Second-System Effect</h1>
+
+<ul>
+<li><p>Interactive Discipline for the Architect</p></li>
+<li><p>Self-Discipline -- The Second-System Effect</p>
+
+<ul>
+<li>over-design the second system</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>6 Passing the Word</h1>
+
+<pre><code>communication
+</code></pre>
+
+<ul>
+<li><p>Written Specifications -- The Manual</p></li>
+<li><p>Formal Definitions</p></li>
+<li><p>Direct Incorporation</p></li>
+<li><p>Conferences and Courts</p></li>
+<li><p>Multiple Implementations</p></li>
+<li><p>The Telephone Log</p></li>
+<li><p>Product Test</p></li>
+</ul>
+
+<hr />
+
+<h1>7 Why Did the Tower of Babel Fail?</h1>
+
+<ul>
+<li><p>A Management Audit of the Babel Project</p>
+
+<ul>
+<li>communication</li>
+<li>organization</li>
+</ul></li>
+<li><p>Communication in the Large Programming Project</p>
+
+<ul>
+<li>Informally</li>
+<li>Meetings</li>
+<li>Workbook</li>
+</ul></li>
+<li><p>The Project Workbook</p>
+
+<ul>
+<li>What</li>
+<li>Why</li>
+<li>Mechanics</li>
+<li>How would one do it today?</li>
+</ul></li>
+<li><p>Organization in the Large Programming Project</p>
+
+<ul>
+<li><p>any org must have in order to be effective</p>
+
+<ol>
+<li>a mission</li>
+<li>a producer</li>
+<li>a technical director or architect</li>
+<li>a schedule</li>
+<li>a division of labor</li>
+<li>interface definitions among the parts</li>
+</ol></li>
+<li><p>relationships between producer and director</p>
+
+<ul>
+<li>The producer and the technical director may be the same man.</li>
+<li>The producer may be boss, the director his right-hand man.</li>
+<li>The director may be boss, and the producer his right-hand man.</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>8 Calling the Shot</h1>
+
+<pre><code>programmer productivity
+</code></pre>
+
+<ul>
+<li><p>Portman's Data</p></li>
+<li><p>Aron's Data</p></li>
+<li><p>Harr's Data</p></li>
+<li><p>OS/360 Data</p></li>
+<li><p>Corbato's Data</p></li>
+</ul>
+
+<hr />
+
+<h1>9 Ten Pounds in a Five-Pound Sack</h1>
+
+<ul>
+<li>Program Space as Cost</li>
+<li>Size Control</li>
+<li>Space Techniques</li>
+<li>Representation Is the Essence of Programming</li>
+</ul>
+
+<hr />
+
+<h1>10 The Documentary Hypothesis</h1>
+
+<ul>
+<li><p>Documents for a Computer Product</p>
+
+<ul>
+<li>Objectives</li>
+<li>Specifications</li>
+<li>Schedule</li>
+<li>Budget</li>
+<li>Organization chart</li>
+<li>Space allocations</li>
+</ul></li>
+<li><p>Estimate, forecast, prices</p></li>
+<li><p>Documents for a University Department   </p>
+
+<ul>
+<li>Objectives</li>
+<li>Course descriptions</li>
+<li>Degree requirements</li>
+<li>Research proposals (hence plans, when funded) Class schedule and teaching assignments</li>
+<li>Budget</li>
+<li>Space allocation</li>
+<li>Assignment of staff and graduate students</li>
+</ul></li>
+<li><p>Documents for a Software Project</p>
+
+<ul>
+<li>What: objectives</li>
+<li>What: product specifications</li>
+<li>When: schedule</li>
+<li>How much: budget</li>
+<li>Where: space allocation</li>
+<li>Who: organization chart</li>
+</ul></li>
+<li><p>Why Have Formal Documents?</p></li>
+</ul>
+
+<hr />
+
+<h1>11 Plan to Throw One Away</h1>
+
+<ul>
+<li><p>Pilot Plants and Scaling Up</p></li>
+<li><p>The Only Constancy Is Change Itself</p></li>
+<li><p>Plan the System for Change</p></li>
+<li><p>Plan the Organization for Change</p></li>
+<li><p>Two Steps Forward and One step Back</p></li>
+<li><p>One Step Forward and One Step Back</p></li>
+</ul>
+
+<hr />
+
+<h1>12 Sharp Tools</h1>
+
+<ul>
+<li><p>Target Machines</p>
+
+<ul>
+<li>vehicle machines</li>
+<li>What kind of target facility?</li>
+<li>Scheduling</li>
+</ul></li>
+<li><p>Vehicle Machines and Data Services</p>
+
+<ul>
+<li>Compiler and assembler vehicles </li>
+<li>Program libraries and accounting</li>
+<li>Program tools</li>
+<li>Documentation system</li>
+<li>Performance simulator</li>
+</ul></li>
+<li><p>High-Level Language and Interactive Programming</p>
+
+<ul>
+<li>High-level language</li>
+<li>Interactive programming</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>13 The Whole and the Parts</h1>
+
+<ul>
+<li><p>Designing the Bugs Out</p>
+
+<ul>
+<li>Bug-proofing the definition</li>
+<li>Testing the specification</li>
+<li>Top-down design</li>
+<li>Structured programming</li>
+</ul></li>
+<li><p>Component Debugging</p>
+
+<ul>
+<li>On-machine debugging</li>
+<li>Memorydumps</li>
+<li>Snapshots</li>
+<li>Interactive debugging</li>
+</ul></li>
+<li><p>System Debugging</p>
+
+<ul>
+<li>Use debugged components</li>
+<li>Build plenty of scaffolding</li>
+<li>Control changes</li>
+<li>Add one component at a time</li>
+<li>Quantize updates</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>14 Hatching a Catastrophe</h1>
+
+<ul>
+<li>Milestones or Millstones</li>
+<li>"The Other Piece Is Late, Anyway"</li>
+<li><p>Under the Rug</p>
+
+<ul>
+<li>Reducing the role conflict</li>
+<li>Yanking the rug off</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>15 The Other Face</h1>
+
+<ul>
+<li><p>What Documentation Is Required?</p>
+
+<ol>
+<li>Purpose</li>
+<li>Environment</li>
+<li>Domain and range</li>
+<li>Functions realized and algorithms used</li>
+<li>Input-output formats</li>
+<li>Operating instructions</li>
+<li>Options</li>
+<li>Running time</li>
+<li>Accuracy and checking</li>
+</ol>
+
+<hr />
+
+<ul>
+<li>To believe a program</li>
+<li>To modify a program
+<ul>
+<li>components of such an overview</li>
+<li>A flow chart or subprogram structure graph. More on this later.</li>
+<li>Complete descriptions of the algorithms used, or else references to such descriptions in the literature.</li>
+<li>An explanation of the layout of all files used.</li>
+<li>An overview of the pass structure -- The sequence in which data or programs are brought from tape or disk -- and what is accomplished on each pass.</li>
+<li>A discussion of modifications contemplated in the original design, the nature and location of hooks and exits, and discursive discussion of the ideas of the original author about what modifications might be desirable and how one might proceed. His observations on hidden pitfalls are also useful.</li>
+</ul></li>
+</ul>
+
+<p><hr /></li>
+<li><p>The Flow-Chart Curse</p></li>
+<li>Self-Documenting Programs</li>
+</ul>
+<hr /></p>
+
+<h1>16 No Silver Bullet- Essence and Accident in Software Engineering</h1>
+
+<ul>
+<li><p>Abstract</p>
+
+<ul>
+<li><p>Suggestions:</p>
+
+<ul>
+<li>Exploiting the mass market to avoid constructing what can be bought.</li>
+<li>Using rapid prototyping as part of a planned iteration in es- tablishing software requirements.</li>
+<li>Growing software organically, adding more and more func- tion to systems as they are run, used, and tested.</li>
+<li>Identifying and developing the great conceptual designers of the rising generation.</li>
+</ul></li>
+</ul></li>
+<li><p>Introduction</p></li>
+<li><p>Does It Have to Be Hard? -- Essential Difficulties</p>
+
+<ul>
+<li>Complexity</li>
+<li>Conformity</li>
+<li>Changeability</li>
+<li>Invisibility</li>
+</ul></li>
+<li><p>Past Breakthroughs Solved Accidental Difficulties</p>
+
+<ul>
+<li>Time-sharing</li>
+<li>Unified programming environments</li>
+</ul></li>
+<li><p>Hopes for the Silver</p>
+
+<ul>
+<li>Object-orientedprogramming</li>
+<li>Artificial intelligence</li>
+<li>Expert systems</li>
+<li>"Automatic" programming</li>
+<li>Graphical programming</li>
+<li>Program verification</li>
+<li>Environments and tools</li>
+<li>Workstations</li>
+</ul></li>
+<li><p>Promising Attacks on the Conceptual Essence</p>
+
+<ul>
+<li>Requirements refinement and rapid prototyping</li>
+<li>Incremental development</li>
+<li>Great designers</li>
+</ul>
+
+<p><p>A little retrospection shows that although many fine, useful software systems have been designed by committees and built by multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers. Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast with Cobol, PL/I, Algol, MVS/370, and MS-DOS.</p></li>
+</ul>
+<hr /></p>
+
+<h1>17 "No Silver Bullet" Refired</h1>
+
+<ul>
+<li>On Werewolves and Other Legendary Terrors</li>
+<li>There is Too a Silver Bullet -- AND HERE IT IS!</li>
+<li>Obscure Writing Will Be Misunderstood</li>
+<li>Complexity is by levels</li>
+<li>Harel's Analysis
+<ul>
+<li>Pessimism vs. optimism vs. realism</li>
+<li>"Gloom" themes</li>
+<li>Harel's thought experiment</li>
+<li>AND HERE IT IS</li>
+<li>Invisibility</li>
+</ul></li>
+<li>Jones's Point -- Productivity Follows Quality</li>
+<li>So What Has Happened to Productivity?
+<ul>
+<li>Shrink-wrapped software -- Buy; don't build</li>
+<li>Power tools for the mind</li>
+</ul></li>
+<li>Object-Oriented Programming -- Will a Brass Bullet Do?
+<ul>
+<li>Building with bigger pieces</li>
+<li>Why has object-oriented technique grown slowly?</li>
+<li>Front-loaded costs, down-stream benefits</li>
+</ul></li>
+<li>What About Reuse?
+<ul>
+<li>How does corporate-level reuse fare today?</li>
+<li>Learning Large Vocabularies - A Predictable but Unpredicted Problem for Software Reuse</li>
+</ul></li>
+<li>Net on Bullets -- Position Unchanged</li>
+</ul>
+
+<hr />
+
+<h1>18 Propositions of The Mythical Man-Month: True or False?</h1>
+
+<pre><code>a summary and key points of the book
+</code></pre>
+
+<hr />
+
+<h1>19 The Mythical Man-Month after 20 Years</h1>
+
+<ul>
+<li><p>The Central Argument: Conceptual Integrity and the Architect</p>
+
+<ul>
+<li>Conceptual integrity</li>
+<li>The architect</li>
+<li>Separation of architecture from implementation and realization</li>
+<li>Recursion of architects</li>
+<li>Today I am more convinced than ever</li>
+</ul></li>
+<li><p>The Second-System Effect: Featuritis and Frequency-Guessing</p>
+
+<ul>
+<li>Featuritis</li>
+<li>Defining the user set</li>
+<li>Frequencies</li>
+<li>What about the "Second-System Effect"?</li>
+</ul></li>
+<li><p>The Triumph of the WIMP Interface</p>
+
+<ul>
+<li>Conceptual integrity via a metaphor</li>
+<li>Command utterances and the two-cursor problem</li>
+<li>A brilliant solution</li>
+<li>The fate of WIMP: Obsolescence</li>
+<li>Don't Build One to Throw Away - The Waterfall Model Is Wrong!</li>
+<li>There has to be upstream movement</li>
+</ul></li>
+<li><p>An Incremental-Build Model Is Better - Progressive Refinement</p></li>
+<li><p>Building an end-to-end skeleton system</p></li>
+<li><p>Parnas Families</p></li>
+<li><p>Microsoft's "Build Every Night" Approach</p></li>
+<li><p>Incremental Build and Rapid Prototyping</p></li>
+<li><p>Parnas Was Right, and I Was Wrong about Information Hiding</p></li>
+<li><p>How Mythical Is the Man-Month? Boehm's Model and Data</p>
+
+<ul>
+<li>How true is Brooks's Law?</li>
+</ul></li>
+<li><p>People Are Everything (Well, Almost Everything)</p>
+
+<ul>
+<li>Peopleware</li>
+<li>Moving projects</li>
+</ul></li>
+<li><p>The Power of Giving Up Power</p></li>
+<li><p>What's the Biggest New Surprise? Millions of Computers</p>
+
+<ul>
+<li>The microcomputer revolution has changed how everybody builds software.</li>
+</ul></li>
+<li><p>Whole New Software Industry -- Shrink-Wrapped Software</p>
+
+<ul>
+<li>Operating system worlds have coalesced.</li>
+<li>The shrink-wrapped industry</li>
+</ul></li>
+<li><p>Buy and Build -- Shrink-Wrapped Packages As Components</p>
+
+<ul>
+<li>Metaprogramming</li>
+<li>This really does attack essence</li>
+<li>So what is needed?</li>
+</ul></li>
+<li><p>The State and Future of Software Engineering</p></li>
+</ul>
+
+<hr />
+
+<h1>Fifty Years of Wonder, Excitement, and Joy</h1>
+
+<hr />
+
+</body>
+</html>

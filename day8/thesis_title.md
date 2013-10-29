@@ -4,7 +4,7 @@
 
 * 名词性词组
 
-名词性词组由名词及其修饰语构成。名词的修饰语可以是形容词、介词短语，有时也可以是另一个名词。名词修饰名词时，往往可以缩短标题的长度。以下各标题分别由两个名词词组构成。
+名词性词组由名词及其修饰语构成。名词的修饰语可以是形容词、介词短语，有时也可以是另一个名词。名词修饰名词时，往往可以缩短标题的长度。以下各标题分别由两个*名词词组*构成。
 
 Example:
 
@@ -13,24 +13,26 @@ Example:
 
 * 介词词组
 
-介词词组由介词 + 名词或名词词组构成。如果整个标题就是一个介词词组的话，一般这个介词是“ on”，意思是“对......的研究”。
+介词词组由*介词 + 名词或名词词组*构成。如果整个标题就是一个*介词词组*的话，一般这个介词是"on ..."，意思是“对......的研究”。
 
 Example:
 
 	-	From Knowledge Engineering to Knowledge Management ( 介词词组 + 介词词组 )
-	-	On the correlation between working memory capacity and performance on intelligence tests
+	-	On the correlation between working memory capacity and performance 
+	-	On intelligence tests
 
 * 名词 / 名词词组 + 介词词组
 
-		这是标题中用得最多的结构。
+		标题中用得最多的结构。
 
 Example:
 
 	-	Simulation of Controlled Financial Statements (名词 + 介词词组)
 	-	The impact of internal marketing activities on external marketing outcomes (名词 + 介词词组 + 介词词组)
-	-	Diversity in the Future Work Force (名词 + 介词词组) 	-	Models of Sustaining Human and Natural Development (名词 + 介词词组)
+	-	Diversity in the Future Work Force (名词 + 介词词组) 	
+	-	Models of Sustaining Human and Natural Development (名词 + 介词词组)
 
-		标题中的介词词组一般用来修饰名词或名词词组,从而限定某研究课题的范围。这种结构与中文的“的”字结构相似,区别是中文标题中修饰语在前, 中心词在后。英文正好相反,名词在前,而作为修饰语的介词短语在后。 
+		标题中的*介词词组*一般用来修饰名词或名词词组,限定某研究课题的范围。这种结构与中文的“的”字结构相似,区别是中文标题中修饰语在前,中心词在后。英文正好相反,名词在前,作为修饰语的介词短语在后。 
 
 Example:
 
@@ -38,7 +40,7 @@ Example:
 
 * 其他形式
 
-对于值得争议的问题,偶尔可用疑问句作为论文的标题,以点明整个论文讨论的焦点。
+对于值得争议的问题,偶尔可用*疑问句*作为论文的标题,以点明整个论文讨论的焦点。
 
 Example:
 
@@ -50,7 +52,7 @@ Example:
 - 模式 1 研究课题：具体内容。
 
 Example:
- 	-	Microelectronic Assembly and Packaging Technology : Barriers and Needs 
+ 	-	Microelectronic Assembly and Packaging Technology: Barriers and Needs 
 	-	The Computer Dictionary Project: an update 
 
 - 模式2 研究课题：方法/性质。
