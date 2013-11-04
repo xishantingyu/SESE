@@ -50,9 +50,13 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	The Mail Must Get Through
 
 	1. Every good work of software starts by scratching a developer’s personal itch.
+
 	2. Good programmers know what to write. Great ones know what to rewrite (and reuse).
-	3. ‘‘Plan to throw one away; you will, anyhow.’’ (Fred Brooks, The Mythical Man-Month, Chapter 11)
+
+	3. "Plan to throw one away; you will, anyhow." (Fred Brooks, The Mythical Man-Month, Chapter 11)
+
 	4. If you have the right attitude, interesting prob- lems will find you.
+
 	5. When you lose interest in a program, your last duty to it is to hand it off to a competent successor.
 	
 *	The Importance of Having Users
@@ -62,6 +66,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	Release Early, Release Often
 
 	7. Release early. Release often. And listen to your customers.
+
 	8. Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone.
 	
 	"Given enough eyeballs, all bugs are shallow." "Linus’s Law"
@@ -112,11 +117,13 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 *	The Social Context of Open-Source Software
 
 	18. To solve an interesting problem, start by finding a problem that is interesting to you.
+
 	19. Provided the development coordinator has a communications medium at least as good as the Internet, and knows how to lead without coercion, many heads are inevitably better than one.
 
 *	On Management and the Maginot Line
 
 	software project management has five functions:
+
 	-	To define goals and keep everybody pointed in the same direction
 	-	To monitor and make sure crucial details don’t get skipped
 	-	To motivate people to do boring but necessary drudgework
@@ -157,7 +164,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 	1. If it doesn’t work as well as I have been led to expect it will, it’s no good—no matter how clever and original it is.
 	2. Work that extends the noosphere is better than work that duplicates an existing piece of functional territory.
 	3. Work that makes it into a major distribution is better than work that doesn’t. Work carried in all major distributions is most prestigious.
-	4. Utilization is the sincerest form of flattery \— and category killers are better than also rans.
+	4. Utilization is the sincerest form of flattery — and category killers are better than also rans.
 	5. Continued devotion to hard, boring work (like debugging, or writing documentation) is more praiseworthy than cherrypicking the fun and easy hacks.
 	6. Nontrivial extensions of function are better than low-level patches and debugging.
 	
@@ -165,10 +172,10 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 *	Causes of Conflict
 
-	-	Who gets to make binding decisions about a project?
-	-	Who gets credit or blame for what?
-	-	How to reduce duplication of effort and prevent rogue versions from complicating bug tracking?
-	-   What is the Right Thing, technically speaking?
+	-      gets to make binding decisions about a project?
+	-      Who gets credit or blame for what?
+	-      How to reduce duplication of effort and prevent rogue versions from complicating bug tracking?
+	-      What is the Right Thing, technically speaking?
 
 *	Project Structures and Ownership
 
@@ -176,8 +183,8 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 	
 	two criteria
 
-	-	“authority follows responsibility” 
-	-	“seniority wins”
+	-	"authority follows responsibility"
+	-	"seniority wins"
 	
 *	Acculturation Mechanisms and the Link to Academia
 
@@ -220,7 +227,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 			In professional economist-speak, sale value is value as a final good, and use value is value as an intermediate good.
 			
-*	‘factory model’ premises
+*	'factory model' premises
 
 	-	Most developer time is paid for by sale value.
 	-	The sale value of software is proportional to its development cost and to its use value.
@@ -229,7 +236,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 *	most programmer-hours are spent (and most programmer salaries are paid for) writing or maintaining in-house code that has no sale value at all.	
 
-*	the price a consumer will pay is effectively capped by the expected future value of vendor service (where “service” is here construed broadly to include enhancements, upgrades, and follow-on projects).
+*	the price a consumer will pay is effectively capped by the expected future value of vendor service (where "service" is here construed broadly to include enhancements, upgrades, and follow-on projects).
 
 *	In other words, software is largely a service industry operating under the persistent but unfounded delusion that it is a manufacturing industry.
 
@@ -237,7 +244,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 *	The Inverse Commons
 	
-	Garret Hardin’s "Tragedy of the Commons"
+	Garret Hardin's "Tragedy of the Commons"
 
 	-	<http://en.wikipedia.org/wiki/Garrett_Hardin>
 	-	<http://en.wikipedia.org/wiki/Tragedy_of_the_commons>
@@ -273,7 +280,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 	
 *	following discriminators push towards open source
 
-	1. Reliability/stability/scalabilityarecritical.
+	1. Reliability/stability/scalability are critical.
 	2. Correctness of design and implementation cannot readily be verified by means other than independent peer review.
 	3. The software is critical to the user’s control of his/her business.
 	4. The software establishes or enables a common computing and communications infrastructure.
@@ -316,7 +323,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 		Thomas Paine <http://en.wikipedia.org/wiki/Thomas_Paine>
 		
-*	The Origins of ‘Open Source’
+*	The Origins of 'Open Source'
 
 *	Key themes
 
@@ -381,7 +388,7 @@ From <http://en.wikipedia.org/wiki/Eric_S._Raymond>
 
 ----
 
-# APPENDIX B Statistical Trends in the Fetchmail Project’s Growth
+# APPENDIX B Statistical Trends in the Fetchmail Project's Growth
 
 ----
 

@@ -84,7 +84,7 @@ ex:
 
 China is a large country with four-fifths of the population engaged in agriculture, but only one tenth of the land is farmland, the rest being mountains, forests and places for urban and other uses.(合译法) 
 
-3. Packet switching is a method of slicing digital messages into parcels called “packets,” sending the packets along different communication paths as they become available, and then reassembling the packets once they arrive at their destination. 
+3. Packet switching is a method of slicing digital messages into parcels called "packets," sending the packets along different communication paths as they become available, and then reassembling the packets once they arrive at their destination. 
 
 分组交换是传输数据的一种方法，它先将数据信息分割成许多称为“分组”的数据信息包；当路径可用时，经过不同的通信路径发送；当到达目的地后，再将它们组装起来。(将长定语从句拆成几个并列的分句)
 
@@ -95,12 +95,15 @@ China is a large country with four-fifths of the population engaged in agricultu
 1. 你可以从互联网上获得这一信息。 
 
 You can obtain this information on the Internet.(正译) 
+
 This information is accessible/available on the Internet.(反译) 
 
 2. 他突然想到了一个新主意。 
 
 Suddenly he had a new idea.(正译) 
+
 He suddenly thought out a new idea.(正译) 
+
 A new idea suddenly occurred to/struck him.(反译)
 
 * 倒置法
@@ -139,7 +142,7 @@ ex:
 
 如果说宣布收回香港就会像夫人说的“带来灾难性的影响”，那我们将勇敢地面对这个灾难，做出决策。 
 
-If the announcement of the recovery of Hong Kong would bring about, as Madam put it, “disastrous effects,” we will face that disaster squarely and make a new policy decision.
+If the announcement of the recovery of Hong Kong would bring about, as Madam put it, "disastrous effects," we will face that disaster squarely and make a new policy decision.
 
 * 重组法
 
