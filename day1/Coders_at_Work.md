@@ -25,6 +25,36 @@ From <http://www.amazon.com/Peter-Seibel/e/B001K8ECUU/>
 
 ----
 
+Peter Seibel interviews 15 of the most interesting computer programmers alive today in Coders at Work, offering a companion volume to Apress’s highly acclaimed best-seller Founders at Work by Jessica Livingston. As the words “at work” suggest, Peter Seibel focuses on how his interviewees tackle the day-to-day work of programming, while revealing much more, like how they became great programmers, how they recognize programming talent in others, and what kinds of problems they find most interesting.
+
+Hundreds of people have suggested names of programmers to interview on the Coders at Work web site: www.codersatwork.com. The complete list was 284 names. Having digested everyone’s feedback, we selected 15 folks who’ve been kind enough to agree to be interviewed:
+
+*       Frances Allen: Pioneer in optimizing compilers, first woman to win the Turing Award (2006) and first female IBM fellow
+*       Joe Armstrong: Inventor of Erlang
+*       Joshua Bloch: Author of the Java collections framework, now at Google
+*       Bernie Cosell: One of the main software guys behind the original ARPANET IMPs and a master debugger
+*       Douglas Crockford: JSON founder, JavaScript architect at Yahoo!
+L. Peter Deutsch: Author of Ghostscript, implementer of Smalltalk-80 at Xerox PARC and Lisp 1.5 on PDP-1
+*       Brendan Eich: Inventor of JavaScript, CTO of the Mozilla Corporation
+*       Brad Fitzpatrick: Writer of LiveJournal, OpenID, memcached, and Perlbal
+*       Dan Ingalls: Smalltalk implementor and designer
+*       Simon Peyton Jones: Coinventor of Haskell and lead designer of Glasgow Haskell Compiler
+*       Donald Knuth: Author of The Art of Computer Programming and creator of TeX
+*       Peter Norvig: Director of Research at Google and author of the standard text on AI
+*       Guy Steele: Coinventor of Scheme and part of the Common Lisp Gang of Five, currently working on Fortress
+*       Ken Thompson: Inventor of UNIX
+*       Jamie Zawinski: Author of XEmacs and early Netscape/Mozilla hacker
+
+What you’ll learn
+
+How the best programmers in the world do their jobs!
+
+Who this book is for
+
+Programmers interested in the point of view of leaders in the field. Programmers looking for approaches that work for some of these outstanding programmers.
+
+----
+
 # My Impression
 
 *	15 interviews
