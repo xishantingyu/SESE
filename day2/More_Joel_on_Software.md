@@ -24,6 +24,39 @@ From <http://en.wikipedia.org/wiki/Joel_Spolsky>
 
 ----
 
+Since the release of the bestselling title Joel on Software in 2004, requests for a sequel have been relentless. So, we went back to the famed 
+JoelonSoftware.com archives and pulled out a new batch of favorites, many of which have been downloaded over one million times. With Joel’s new
+est book, More Joel on Software, you’ll get an even better (not to mention updated) feast of Joel’s opinions and impressions on software develo
+pment, software design, running a software business, and so much more.
+
+This is a new selection of essays from the author’s web site, <http://www.joelonsoftware.com>.
+
+Joel Spolsky started his weblog in March 2000 in order to offer his insights, based on years of experience, on how to improve the world of prog
+ramming. This weblog has become infamous among the programming world, and is linked to more than 600 other web sites and translated into 30+ la
+nguages!
+
+Spolsky’s extraordinary writing skills, technical knowledge, and caustic wit have made him a programming guru. With the success of Joel on Soft
+ware, there has been a strong demand for additional gems and advice, and this book is the answer to those requests.
+
+Containing a collection of all–new articles from the original, More Joel on Software has even more of an edge than the original, and the tips f
+or running a business or managing people have far broader application than the software industry. We feel it is safe to say that this is the mo
+st useful book you will buy this year.
+
+What you’ll learn
+
+*       The best approaches to managing and hiring extraordinary people
+*       Advice for those interested in the software industry as a career and for managers who want to get them
+*       Joel’s unique impressions of how to create products and design—good and bad
+*       An “in the trenches” look at how to start and run an effective software business (or any business for that matter)
+*       A true sense of what it takes to create a differentiated, unique, motivated organization
+
+Who this book is for
+
+Anyone interested in the software business will truly enjoy this book, but in particular this should be required reading for managers of techni
+cal businesses.
+
+----
+
 # my comment
 
 * practical experience from his own software business
