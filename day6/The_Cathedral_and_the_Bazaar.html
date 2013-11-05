@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>The_Cathedral_and_the_Bazaar.md</title>
+
+</head>
+
+<body>
+
+<h1>Introduction to</h1>
+
+<h1><center> <em>The Cathedral &amp; the Bazaar</em></center></h1>
+
+<hr />
+
+<h1>The Cathedral &amp; the Bazaar</h1>
+
+<p><img src="../pic/The_Cathedral_and_the_Bazaar.jpg" alt="" title="" /></p>
+
+<p>published in 2001</p>
+
+<hr />
+
+<h1>About the author</h1>
+
+<p><img src="../pic/Eric_S_Raymond.jpg" alt="" title="" /></p>
+
+<p><em>Eric Steven Raymond</em> (born December 4, 1957), often referred to as ESR, is an American computer programmer, author and open source software advocate. After the 1997 publication of The Cathedral and the Bazaar, Raymond was for a number of years frequently quoted as an unofficial spokesman for the open source movement. He is also known for his 1990 edit and later updates of the Jargon File, currently in print as the The New Hacker's Dictionary.</p>
+
+<p>From <a href="http://en.wikipedia.org/wiki/Eric_S._Raymond">http://en.wikipedia.org/wiki/Eric_S._Raymond</a></p>
+
+<hr />
+
+<h1>A Brief History of Hackerdom</h1>
+
+<pre><code>http://www.tuxedo.org/jargon
+</code></pre>
+
+<ul>
+<li>Prologue: The Real Programmers</li>
+<li>The Early Hackers</li>
+<li>The Rise of Unix</li>
+<li>The End of Elder Days</li>
+<li>The Proprietary-Unix Era</li>
+<li>The Early Free Unixes</li>
+<li>The Great Web Explosion</li>
+</ul>
+
+<hr />
+
+<h1>My Understanding</h1>
+
+<ul>
+<li>open source is much better than closed source</li>
+<li>how to participant into open source</li>
+<li>how to make money from open source</li>
+<li>what the author did in open source</li>
+</ul>
+
+<hr />
+
+<h1>The Cathedral and the Bazaar</h1>
+
+<ul>
+<li><p>The Mail Must Get Through</p>
+
+<ol>
+<li><p>Every good work of software starts by scratching a developer’s personal itch.</p></li>
+<li><p>Good programmers know what to write. Great ones know what to rewrite (and reuse).</p></li>
+<li><p>"Plan to throw one away; you will, anyhow." (Fred Brooks, The Mythical Man-Month, Chapter 11)</p></li>
+<li><p>If you have the right attitude, interesting prob- lems will find you.</p></li>
+<li><p>When you lose interest in a program, your last duty to it is to hand it off to a competent successor.</p></li>
+</ol></li>
+<li><p>The Importance of Having Users</p>
+
+<ol>
+<li>Treating your users as co-developers is your least-hassle route to rapid code improvement and effective debugging.</li>
+</ol></li>
+<li><p>Release Early, Release Often</p>
+
+<ol>
+<li><p>Release early. Release often. And listen to your customers.</p></li>
+<li><p>Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone.</p></li>
+</ol>
+
+<p>"Given enough eyeballs, all bugs are shallow." "Linus’s Law"</p>
+
+<p>Delphi effect</p>
+
+<p>Linus’s Law can be rephrased as "Debugging is parallelizable".</p></li>
+<li><p>Many Eyeballs Tame Complexity</p></li>
+<li><p>When Is a Rose Not a Rose?</p>
+
+<ol>
+<li>Smart data structures and dumb code works a lot better than the other way around.</li>
+</ol>
+
+<p>Author's practice:</p>
+
+<ul>
+<li>I released early and often (almost never less often than every 10 days; during periods of intense development, once a day).</li>
+<li>I grew my beta list by adding to it everyone who contacted me about fetchmail.</li>
+<li>I sent chatty announcements to the beta list whenever I released, encouraging people to participate.</li>
+<li><p>I listened to my beta-testers, polling them about design decisions and stroking them whenever they sent in patches and feedback.</p></li>
+<li><p>If you treat your beta-testers as if they’re your most valuable resource, they will respond by becoming your most valuable resource.</p></li>
+</ul></li>
+<li><p>Popclient Becomes Fetchmail</p>
+
+<ol>
+<li><p>The next best thing to having good ideas is recognizing good ideas from your users. Sometimes the latter is better.</p></li>
+<li><p>Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.</p></li>
+<li><p>"Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away."</p></li>
+</ol></li>
+<li><p>Fetchmail Grows Up</p>
+
+<ol>
+<li><p>Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.</p></li>
+<li><p>When writing gateway software of any kind, take pains to disturb the data stream as little as possible — and never throw away information unless the recipient forces you to!</p></li>
+</ol></li>
+<li><p>A Few More Lessons from Fetchmail</p>
+
+<ol>
+<li><p>When your language is nowhere near Turing- complete, syntactic sugar can be your friend.</p></li>
+<li><p>A security system is only as secure as its secret. Beware of pseudo-secrets.</p></li>
+</ol></li>
+<li><p>Necessary Preconditions for the Bazaar Style</p>
+
+<p>recognize good design ideas from others</p></li>
+<li><p>The Social Context of Open-Source Software</p>
+
+<ol>
+<li><p>To solve an interesting problem, start by finding a problem that is interesting to you.</p></li>
+<li><p>Provided the development coordinator has a communications medium at least as good as the Internet, and knows how to lead without coercion, many heads are inevitably better than one.</p></li>
+</ol></li>
+<li><p>On Management and the Maginot Line</p>
+
+<p>software project management has five functions:</p>
+
+<ul>
+<li>To define goals and keep everybody pointed in the same direction</li>
+<li>To monitor and make sure crucial details don’t get skipped</li>
+<li>To motivate people to do boring but necessary drudgework</li>
+<li>To organize the deployment of people for best productivity</li>
+<li>To marshal resources needed to sustain the project</li>
+</ul>
+
+<p><p>Enjoyment predicts efficiency.</p></li>
+<li><p>Epilog: Netscape Embraces the Bazaar</p></li>
+</ul>
+<hr /></p>
+
+<h1>Homesteading the Noosphere</h1>
+
+<ul>
+<li>An Introductory Contradiction</li>
+<li>The Varieties of Hacker Ideology</li>
+<li>Promiscuous Theory, Puritan Practice</li>
+<li>Ownership and Open Source</li>
+<li><p>Locke and Land Title</p>
+
+<p>Lockean theory of property</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Labor_theory_of_property">http://en.wikipedia.org/wiki/Labor_theory_of_property</a></li>
+<li><a href="http://en.wikipedia.org/wiki/John_Locke">http://en.wikipedia.org/wiki/John_Locke</a></li>
+</ul></li>
+<li><p>The Hacker Milieu as Gift Culture</p>
+
+<p>Gift cultures are adaptations not to scarcity but to abundance.</p></li>
+<li><p>The Joy of Hacking</p></li>
+<li>The Many Faces of Reputation</li>
+<li>Ownership Rights and Reputation Incentives</li>
+<li>The Problem of Ego</li>
+<li>The Value of Humility</li>
+<li>Global Implications of the Reputation-Game Model</li>
+<li><p>How Fine a Gift?</p>
+
+<ol>
+<li>If it doesn’t work as well as I have been led to expect it will, it’s no good—no matter how clever and original it is.</li>
+<li>Work that extends the noosphere is better than work that duplicates an existing piece of functional territory.</li>
+<li>Work that makes it into a major distribution is better than work that doesn’t. Work carried in all major distributions is most prestigious.</li>
+<li>Utilization is the sincerest form of flattery — and category killers are better than also rans.</li>
+<li>Continued devotion to hard, boring work (like debugging, or writing documentation) is more praiseworthy than cherrypicking the fun and easy hacks.</li>
+<li>Nontrivial extensions of function are better than low-level patches and debugging.</li>
+</ol></li>
+<li><p>Noospheric Property and the Ethology of Territory</p></li>
+<li><p>Causes of Conflict</p>
+
+<ul>
+<li>gets to make binding decisions about a project?</li>
+<li>Who gets credit or blame for what?</li>
+<li>How to reduce duplication of effort and prevent rogue versions from complicating bug tracking?</li>
+<li>What is the Right Thing, technically speaking?</li>
+</ul></li>
+<li><p>Project Structures and Ownership</p></li>
+<li><p>Conflict and Conflict Resolution</p>
+
+<p>two criteria</p>
+
+<ul>
+<li>"authority follows responsibility"</li>
+<li>"seniority wins"</li>
+</ul></li>
+<li><p>Acculturation Mechanisms and the Link to Academia</p>
+
+<p>three levels:</p>
+
+<ul>
+<li>Password-like specific mysteries.</li>
+<li>The requirement of initiation into certain technical mysteries.</li>
+<li>Social-context mysteries.</li>
+</ul></li>
+<li><p>Gift Outcompetes Exchange</p></li>
+<li><p>Conclusion: From Custom to Customary Law</p>
+
+<p>Malvern Protocol <a href="http://www.laetusinpraesens.org/docs00s/gated.php">http://www.laetusinpraesens.org/docs00s/gated.php</a></p></li>
+<li><p>Questions for Further Research</p></li>
+</ul>
+
+<hr />
+
+<h1>The Magic Cauldron</h1>
+
+<ul>
+<li><p>Indistinguishable from Magic</p>
+
+<pre><code>Ceridwen’s cauldron &lt;http://en.wikipedia.org/wiki/Ceridwen&gt;
+
+
+ephemeralization, technology becoming both more effective and less expensive as the physical resources invested in early designs are replaced by more and more information content.
+
+
+<pre><code>Buckminster Fuller &amp;lt;http://en.wikipedia.org/wiki/Buckminster_Fuller&amp;gt;
+</code></pre>
+
+"Any sufficiently advanced technology is indistinguishable from magic"
+
+
+<pre><code>Arthur C. Clarke &amp;lt;http://en.wikipedia.org/wiki/Arthur_C._Clarke&amp;gt;
+</code></pre>
+
+</code></pre></li>
+<li><p>Beyond Geeks Bearing Gifts</p></li>
+<li><p>The Manufacturing Delusion</p>
+
+<ul>
+<li>use value </li>
+<li><p>sale value</p>
+
+<pre><code>In professional economist-speak, sale value is value as a final good, and use value is value as an intermediate good.
+</code></pre></li>
+</ul></li>
+<li><p>'factory model' premises</p>
+
+<ul>
+<li>Most developer time is paid for by sale value.</li>
+<li>The sale value of software is proportional to its development cost and to its use value.</li>
+</ul></li>
+<li><p>approximately 95% of code is still written in-house.</p></li>
+<li><p>most programmer-hours are spent (and most programmer salaries are paid for) writing or maintaining in-house code that has no sale value at all. </p></li>
+<li><p>the price a consumer will pay is effectively capped by the expected future value of vendor service (where "service" is here construed broadly to include enhancements, upgrades, and follow-on projects).</p></li>
+<li><p>In other words, software is largely a service industry operating under the persistent but unfounded delusion that it is a manufacturing industry.</p></li>
+<li><p>The "Information Wants to Be Free" Myth</p></li>
+<li><p>The Inverse Commons</p>
+
+<p>Garret Hardin's "Tragedy of the Commons"</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Garrett_Hardin">http://en.wikipedia.org/wiki/Garrett_Hardin</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tragedy_of_the_commons">http://en.wikipedia.org/wiki/Tragedy_of_the_commons</a></li>
+</ul></li>
+<li><p>Reasons for Closing Source</p></li>
+<li><p>Use-Value Funding Models</p>
+
+<ul>
+<li><p>The Apache Case: Cost-Sharing</p>
+
+<ul>
+<li>Buy a proprietary web server.</li>
+<li>Roll your own.</li>
+<li>Join the Apache group.</li>
+</ul></li>
+<li><p>The Cisco Case: Risk-Spreading</p></li>
+</ul></li>
+<li><p>Why Sale Value Is Problematic</p></li>
+<li><p>Indirect Sale-Value Models</p>
+
+<ul>
+<li>Loss-Leader/Market Positioner</li>
+<li>Widget Frosting</li>
+<li>Give Away the Recipe, Open a Restaurant</li>
+<li>Accessorizing</li>
+<li>Free the Future, Sell the Present</li>
+<li>Free the Software, Sell the Brand</li>
+<li>Free the Software, Sell the Content</li>
+</ul></li>
+<li><p>When to Be Open, When to Be Closed</p>
+
+<ul>
+<li>What Are the Payoffs?</li>
+<li>How Do They Interact?</li>
+</ul></li>
+<li><p>following discriminators push towards open source</p>
+
+<ol>
+<li>Reliability/stability/scalability are critical.</li>
+<li>Correctness of design and implementation cannot readily be verified by means other than independent peer review.</li>
+<li>The software is critical to the user’s control of his/her business.</li>
+<li>The software establishes or enables a common computing and communications infrastructure.</li>
+<li>Key methods (or functional equivalents of them) are part of common engineering knowledge.</li>
+</ol></li>
+<li><p>Doom: A Case Study</p></li>
+<li><p>Knowing When to Let Go</p></li>
+<li><p>Open Source as a Strategic Weapon</p>
+
+<ul>
+<li>Cost-sharing as a Competitive Weapon</li>
+<li>Resetting the Competition</li>
+<li>Growing the Pond</li>
+<li>Preventing a Chokehold</li>
+</ul></li>
+<li><p>Open Source and Strategic Business Risk</p></li>
+<li><p>The Business Ecology of Open Source</p></li>
+<li><p>Coping with Success</p></li>
+<li><p>Open R&amp;D and the Reinvention of Patronage</p></li>
+<li><p>Getting There from Here</p></li>
+<li><p>Conclusion: Life After the Revolution</p></li>
+<li><p>Afterword: Why Closing a Drivers Loses Its Vendor Money</p></li>
+</ul>
+
+<hr />
+
+<h1>Revenge of the Hackers</h1>
+
+<ul>
+<li><p>Beyond Brooks’s Law</p></li>
+<li><p>Memes and Mythmaking</p></li>
+<li><p>The Road to Mountain View</p>
+
+<pre><code>Thomas Paine &lt;http://en.wikipedia.org/wiki/Thomas_Paine&gt;
+</code></pre></li>
+<li><p>The Origins of 'Open Source'</p></li>
+<li><p>Key themes</p>
+
+<ol>
+<li>Forget Bottom-Up; Work on Top-Down</li>
+<li>Linux Is Our Best Demonstration Case</li>
+<li>Capture the Fortune 500</li>
+<li>Co-opt the Prestige Media that Serve the Fortune 500</li>
+<li>Educate Hackers in Guerrilla Marketing Tactics</li>
+<li>Use the Open Source Certification Mark to Keep Things Pure</li>
+</ol></li>
+<li><p>The Accidental Revolutionary</p></li>
+<li><p>Phases of the Campaign</p></li>
+<li><p>The Facts on the Ground</p></li>
+<li><p>Into the Future</p></li>
+</ul>
+
+<hr />
+
+<h1>AFTERWORD Beyond Software?</h1>
+
+<hr />
+
+<h1>APPENDIX A How to Become a Hacker</h1>
+
+<ul>
+<li><p>Why This Document?</p></li>
+<li><p>What Is a Hacker?</p></li>
+<li><p>The Hacker Attitude</p>
+
+<ol>
+<li>The world Is Full of Fascinating Problems Waiting to Be Solved.</li>
+<li>Nobody Should Ever Have to Solve a Problem Twice.</li>
+<li>Boredom and Drudgery Are Evil.</li>
+<li>Freedom Is Good.</li>
+<li>Attitude Is No Substitute for Competence.</li>
+</ol></li>
+<li><p>Basic Hacking Skills</p>
+
+<ol>
+<li>Learn How to Program.</li>
+<li>Get One of the Open-Source Unixes and Learn to Use and Run It.</li>
+<li>Learn How to Use the World Wide Web and Write HTML.</li>
+</ol></li>
+<li><p>Status in the Hacker Culture</p>
+
+<ol>
+<li>Write Open-Source Software</li>
+<li>Help Test and Debug Open-Source Software</li>
+<li>Publish Useful Information</li>
+<li>Help Keep the Infrastructure Working</li>
+<li>Serve the Hacker Culture Itself</li>
+</ol></li>
+<li><p>The Hacker/Nerd Connection</p></li>
+<li><p>Points for Style</p></li>
+<li><p>Other Resources</p></li>
+<li><p>Frequently Asked Questions</p>
+
+<ul>
+<li>HTML: The Definitive Guide <a href="http://www.oreilly.com/catalog/html3/">http://www.oreilly.com/catalog/html3/</a></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h1>APPENDIX B Statistical Trends in the Fetchmail Project's Growth</h1>
+
+<hr />
+
+<h1>Notes, Bibliography, and Acknowledgments</h1>
+
+<ul>
+<li><p>A Brief History of Hackerdom</p>
+
+<ul>
+<li>Notes</li>
+</ul></li>
+<li><p>The Cathedral and the Bazaar</p>
+
+<ul>
+<li><p>Notes</p>
+
+<p>SNAFU principle</p>
+
+<p>"True communication is possible only between equals, because inferiors are more consistently rewarded for telling their superiors pleasant lies than for telling the truth."</p></li>
+<li><p>Bibliography</p></li>
+<li>Acknowledgments</li>
+</ul></li>
+<li><p>Homesteading the Noosphere</p>
+
+<ul>
+<li>Notes</li>
+<li>Bibliography</li>
+<li>Acknowledgments</li>
+</ul></li>
+<li><p>The Magic Cauldron</p>
+
+<ul>
+<li>Notes</li>
+<li>Bibliography</li>
+<li>Acknowledgments</li>
+</ul></li>
+<li><p>For Further Reading</p></li>
+</ul>
+
+<hr />
+
+</body>
+</html>

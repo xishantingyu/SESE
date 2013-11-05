@@ -1,0 +1,2275 @@
+﻿七印部落 译制
+
+史蒂夫 乔布斯：遗失的访谈
+Steve Jobs: The lost interview
+
+[00:27]
+
+我是Bob Cringely
+I’m Bob Cringely,
+
+16年前（1995年）我制作《书呆子的胜利》时采访了乔布斯
+16 years ago when I was making my television series Triumph of the Nerds, I interviewed Steve Jobs.
+
+1985年乔布斯被他自己引荐的CEO John Sculley排挤出苹果
+That was in 1995, 10 years earlier Steve had left Apple, following a bruising struggle with John Sculley, the CEO he had brought into the company.
+
+接受釆访时，乔布斯正在经营他创办的NeXT公司
+At the time of our interview, Steve was running NeXT, the niche computer company he founded after leaving Apple.
+
+18个月后苹果收购NeXT，半年后乔布斯重新掌管苹果
+Little did we know was within 18 months he would sell NeXT to Apple, and 6 month later he'd be running the place.
+
+[00:59]
+
+当年的节目只用了一小段采访
+The way things work in television we use only a part of that interview in the series.
+
+九十年代末采访母带从伦敦运往美国途中遗失
+And for years we thought the interview was lost for forever
+
+多年来我们一直以为再也看不到完整的采访
+because the master tape were missing while being shipped from London to US in the 1990s.
+
+然而几天前导演Paul Sen在车库里发现了一份VHS拷贝
+Then just a few days ago, series director Paul Sen found a VHS copy of that interview in his garage.
+
+乔布斯生前很少接受电视采访，如此精彩的访谈更是罕见
+There are very few TV interviews with Steve Jobs and almost no good ones.
+
+它记录了乔布斯的坦率，非凡的魅力和独特的视野
+They rarely show the charisma, candor and vision that this interview does.
+
+为了向这位奇人致敬，我们几乎一刀未剪
+And so to honor an amazing man, here’s that interview in its entirety,
+
+大部分内容是首次公布于众
+Most of these has never been seen before.
+
+[01:40]
+
+Bob: 你是怎么与个人计算机结缘的？
+Bob: So, how did you get involved, uh, with personal computers?
+
+Steve: 我第一次见到计算机是10或11岁
+Steve: Well, I ran into my first computer when I was about 10 or 11. 
+
+很难回忆当年的情景，我快成老古董了 
+And it’s hard to remember back then but I’m, I’m an old fossil now, I’m an old fossil...
+
+大约30多年前，见过电脑的人不多
+So when I was 10 or 11, that was about 30 years ago and no one had ever seen a computer. 
+
+即使见到，也是在电影里
+To the extent they’d seen them, they’d seen them in the movies.
+
+那时电影里的计算机都是装有开盘机的大柜子，闪闪发光
+And they were really big boxes with whirring. For some reason they fixated it on the tape drives, as being the icon of what the computer was, or flashing light somehow. 
+
+真正了解计算机功能和原理的人不多
+And, so nobody had ever seen one. They were mysterious, very powerful things that did something in the background.
+
+有机会接触计算机的人更是寥寥无几
+And so to see one and actually get to use one was a real privilege back,
+
+我有幸在NASA Ames研究中心见到一台
+and I got into NASA Ames Research Center and I got to use a time sharing terminal. 
+
+那还不是一台完整的计算机，只是一台分时共享的终端机
+And so I didn’t actually see a computer but I saw a time sharing terminal.
+
+设备非常简陋，连显示器都没有
+And in those days it’s hard to remember how primitive it was. There were no such things as a computer with a graphics video display.
+
+只是一台带键盘的电传打印机
+It was literally a printer. It was a teletype printer with keyboard on it, 
+
+你在键盘上输入指令耐心等待，然后它会哒哒哒地输出结果
+so you would keyboard this commands in and you would wait for a while, and then things would go "tatatatatata", and it would tell you something else.
+
+[02:58]
+
+即便如此这玩意也太奇妙了，尤其是对十岁的男孩而言
+But even with that, it was still remarkable, especially for a 10-year-old, 
+
+你可以用Basic语言或Fortran语言编写程序
+that you could write a program in BASIC, let's say, or FORTRAN.
+
+机器接受并执行你的设想，然后把结果告诉你
+And actually this machine would sort of take your idea, and it would sort of execute your idea and give you back some results. 
+
+如果结果和设想的一样，说明程序见效了，这太让人激动了
+And if they were the results you predicted, your program really work, and it was incredibly thrilling experience.
+
+我完全给计算机迷住了
+So I became very err.... captivated by computer. 
+
+当然计算机对我而言仍然有些神秘
+And a computer to me was still a little mysterious
+
+因为真正的计算机藏在电缆的另一端，而我从未见过
+cause it's at the other end of wire, I had never really seen the actual computer itself. 
+
+打那以后我总想着计算机
+I think I got tours of computers after that, saw the insides, 
+
+后来我参加了惠普的兴趣小组
+and then I was part of this group at Hewlett-Packard
+
+12岁时我打电话给Bill Hewlett，他当时住在惠普
+when I was 12, I called up Bill Hewlett who lived in Hewlett-Packard at the time.
+
+当时所有电话号码都印在号码簿里，又暴露了我的年龄
+And again this dates me... But there was no such thing as unlisted telephone number then,
+
+只要翻电话号码簿，就能查到他的电话
+so I can just look into the book and look his name up.
+
+[04:01]
+
+他接了电话，我说我叫Steve Jobs，你不认识我
+And he answered the phone, and I said Hi, My name is Steve Jobs. You don't know me, 
+
+我12岁，打算做频率计数器，需要些零件
+but I'm 12 years old, and I'm building a frequency counter, and I'd like some spare parts.
+
+我们聊了大概20分钟
+and so he talked to me for about 20 minutes,
+
+我永远记得他不但给了零件，还邀请我夏天去惠普打工
+I will never forget as long as I live, he gave me the parts, but he also gave me a job working in Hewlett-Packard that summer.
+
+我才12岁，这件事对我产生了不可思议的影响
+and I was 12 years old. and that really made a remarkable influence on me,
+
+惠普是我见过的第一家公司
+Hewlett-Packard was really the only company I'd ever seen in my life at that age.
+
+它让我懂得了什么是公司，如何善待员工
+And it forms my view of what a company was and how well they treated their employees.
+
+[04:40]
+
+那时还没有胆固醇偏高一说
+You know, at that time, I mean they didn't know about cholesterol back then.
+
+每天上午十点公司拖来满满一卡车的甜面圈和咖啡
+And then at that time they used to bring a big car full of donuts and coffee out at 10 o'clock every morning, 
+
+大家停下工作喝杯咖啡，品尝甜面圈
+and everyone take a coffee and have a donut break, just little things like that .
+
+很明显惠普明白公司真正的价值在于员工
+It was clear that the company recognized its true values was its employees.
+
+之后我每周二晚都去惠普的Palo Alto实验室
+So anyway, things led to things with HP and I started going up to their Palo Alto Research Labs every Tuesday night, 
+
+与一些研究人员见面
+with a small group of people to meet some of the researchers and staffs.
+
+我见到了第一台台式计算机  HP 9100
+and I saw the first desktop computer ever made which was the HP 9100. 
+
+大概有行李箱那么大，装着小小的CRT显示器
+It was that as big as a suitcase but it actually had a small Cathode Ray Tube (CRT) display in it.
+
+它是一台可以独立工作的一体机，我很喜欢
+And it was completed self-contained. There was no wire going off behind the curtain somewhere, and I fell in love with it. 
+
+它使用Basic或APL编程，我常常数小时地守着它编程
+And you could program BASIC in APL. And I would just, for hours, you know, get right up to HP and just hang around that machine and write programs for it.
+
+差不多也是在那时我认识了Steve Wozniak
+so that was the early days. And I met Steve Wozniak around that time too. 
+
+我大约十四五岁，可能还要小些
+maybe a little earlier, when I was about 14, 15 years old.
+
+我俩很投缘，他是我遇到的第一个比我更懂电子知识的人
+and we immediately hit it off , and he was the first person I met who knew more electronics than I did.
+
+他大概比我大五岁，我很喜欢他
+So I like him a lot and he was, uh, maybe 5 years older than I.
+
+他因为制造恶作剧被大学开除
+He gone off to college and got kicked out for pulling pranks. 
+
+刚刚回到父母家，正在修De Anza大专的课程
+And he was living with his parents and going to De Anza,  the local junior college. 
+
+我们成了最要好的朋友，开始一起做项目
+so we became best friends and started doing projects together.
+
+我们在《Esquire》杂志上看到有个叫Captain Crunch的人
+We read about the story in Esquire magazine about this guy named Captain Crunch, 
+
+据说他有办法打免费电话，你肯定也听说过
+who could supposedly make free telephone calls, you heard about this I'm sure. 
+
+我们很好奇，怎么可能做到呢？
+And we again, we were captivated. How could anybody do this? 
+
+多半是吹牛
+And we thought it must be a hoax. 
+
+我们开始泡图书馆，寻找打免费电话的秘密
+And we started looking through libraries, looking for the secret tones that would allow you to do this.
+
+一天晚上我们去了斯坦福线性加速中心
+And it turned out that we were at Stanford Linear Accelerate Center one night, 
+
+在科技图书馆角落的最后一排书架上
+and way in the bowels of their technical library, way down at the last bookshelf in the corner bottom rack. 
+
+我们找到一份AT&T技术手册，揭开了所有的秘密
+We found an AT&T Technical Journal that laid out the whole thing. 
+
+(AT&T:http://zh.wikipedia.org/wiki/AT&T)
+
+我永远忘不了那一刻
+And that's another moment I'll never forget. 
+
+我们看着这份手册，心想老天这一切都是真的
+We saw this journal and we thought "My God! It's all real".
+
+于是我们着手制作能够发出这种音频的装置
+And so we set out to build a device to make these tones. 
+
+它的原理是这样的，我们打长途电话时会听到嘟嘟的声音
+And the way it work was, you know when you make long distance call you used to hear "dududududu" right in the background.
+
+听起来像拨电话的按键音，但是频率不同
+They were tones that sound like the touch tone you make on your phone, but they were a different frequency so you couldn’t make them.
+
+实际上那是从一台计算机传到另一台计算机的信号
+It turned out that was the signal from one telephone computer to another, 
+
+它可以控制交换机的工作
+controlling the computers in the network.
+
+AT&T公司设计的数字电话网络有严重漏洞
+And AT&T made a fatal flaw when they designed an original telephone network, digital telephone network, 
+
+他们使用与声音相同的频段来发送控制信号
+was they put the signal in from computer to computer in the same band as your voice, 
+
+也就是说只要你模拟出相同的音频信号，通过听筒发送出去
+which meant if you could make those same signals, you could put it right into the handset. 
+
+整个AT&T的国际电话网就会把你当成一台AT&T计算机
+And literally, the entire AT&T international phone network would think that you were an AT&T computer.
+
+三周后我们做出了这样的一个装置，真的管用
+So after three weeks we finally built a box like this, that worked.
+
+我记得第一个电话想打给Woz住在洛杉矶的亲戚
+And I remember the first call we made was down to, uh, LA, one of Woz‘s relativesdown in Pasadena. 
+
+我们拨错了号码，大半夜把某个家伙吵醒了
+We dialed the wrong number. But we woke some guy up in the middle of the night. 
+
+我们兴奋地冲他嚷嚷：打这个电话是免费的
+we were yelling at him like ‘Don’t you understand we made this call for free!’
+
+对方一点也不感激我们，但这已经是奇迹了
+and this person didn’t appreciate that. But it was miraculous. 
+
+我们做出了这个称为“蓝盒子”的装置
+And we build these little boxes to do “Blue Boxing” as it was called.
+
+盒子底部贴着我们的logo，写着“世界握在手中”
+And we put a little note in the bottom of them, and our logo was he’s got the whole world in his hands, hahaha
+
+这是世界上最好的“蓝盒子”，全数字化，简便易用
+And, they worked. We built the best blue box in the world, it was all digital, no adjustments. 
+
+[08:44]
+
+你可以拿着它去电话亭轻松拨打长途电话
+And, so you could go to the pay phone, you could, you know, take a trunk over the white plane,
+
+打卫星电话去欧洲去土耳其，然后接有线电话打回亚特兰大
+and take a satellite over the Europe, and then go to Turkey, take a cable back to Atlanta.
+
+你可以满世界跑，跑五六趟，因为我们知道所有的交换密码
+You could go around the world, you could go around the world 5 or 6 times cause we learned all the codes and how to get on the satellite and stuff.
+
+你可以给家门口的电话亭打电话，在家喊话
+And then you could call the pay phone next doors, so you could shout at the phone, 
+
+隔一会电话亭就能听到，真是奇妙
+after about a minute it would come to another phone, it was, it was miraculous.
+
+你也许会问这样做有意思吗？
+And you might ask what so interesting about that. 
+
+它的意义在于虽然我们年纪还小
+What so interesting is that we were young, and what we learned was that we could build something, ourselves, 
+
+但已经意识到我们有能力做出控制庞大系统的工具
+that could control billions of dollars worth of infrastructure in the world. 
+
+这就是我们得到的启发，我们两个人尽管懂得不多
+That was what we learned, was that, us, two, you know, we didn’t know much, 
+
+但我们制造的小玩意可以控制庞然大物
+we could build the little thing that could control a giant thing. 
+
+这是不可思议的经历，没有“蓝盒子”就不会有苹果电脑
+And that was an incredible lesson. I don’t think there would have ever been an Apple computer had there not been Blue Box. 
+
+[09:51]
+
+Bob: Woz说你们给教皇打了电话？
+Bob: Woz said you called the Pope?
+
+Steve: 没错，他冒充基辛格给教皇打电话
+Steve: Yeah, we did call the Pope. He, uh, he pretended to be Henry Kissinger. 
+
+我们弄到梵蒂冈的电话号码，打电话给教皇
+And we get the number of the Vatican and we called the pope. 
+
+教会的重要人物逐个被叫醒
+They started waking people up in the hierarchy, you know, I don’t know, Cardinals, and this and that. 
+
+最后终于派人把教皇叫起来
+And they actually sent someone to wake up the Pope. 
+
+要不是我们憋不住哈哈大笑起来，他们还真以为是基辛格
+When finally we burst out laughing they realized that we weren’t Henry Kissinger. 
+
+(Henry Kissinger：http://baike.baidu.com/view/21632.htm)
+
+虽然没跟教皇通上话，但实在是搞笑
+And, so we never got the talk to the Pope but it was very funny, so...
+
+Bob: 你们是怎么从“蓝盒子”想到做个人电脑的？
+Bob: So the jump from Blue Boxes to personal computers, what sparked that?
+
+Steve: 这很自然
+Steve: Well, necessity. 
+
+当时Mountain View有分时共享计算机，我们可以免费上机
+In a sense that there was time sharing computers available, and there was a time sharing company in Mountain View that we could get free time on.
+
+但我们需要一个终端，买不起就自己动手设计制作
+So, but we need a terminal. And we couldn’t afford one. So we designed and built one. 
+
+这个终端是我们的第一件作品
+And that was the first thing we ever did, we built this terminal. 
+
+Apple I是这台终端的扩展，它用微处理器代替了后台主机
+So what an Apple I was, was really an extension of this terminal, putting a micro process around the back end.
+
+就像是把两个独立的项目整合在一起
+That’s what it was. It’s really a kind of two separate projects put together. 
+
+一开始是做终端，然后才是Apple I
+So first we built the terminal and then we built the Apple I. 
+
+[11:03]
+
+自己动手做完全是因为我们买不起
+And we, we really built it for ourselves because we couldn’t afford to buy anything. 
+
+我们四处收集零件，全部手工制作
+And we scavenge parts here and there and stuff. And we built this all by hand 
+
+做一台大概要40~80小时，那些小零件太难安装了
+I mean it take, you know, 40 to 80 hours to build one, and it would always be breaking cause all these little tiny wires. 
+
+后来周围很多朋友也想要
+So it turned out that a lot of our friends want to build them, too. 
+
+虽然他们也能弄到零件，但他们不具备制作经验和技能
+And although they could scavenge most of the parts as well, they didn’t have the sort of skills to build them that we had acquired by training ourselves through building them.
+
+我们只好替他们做，这事占用了我们所有时间
+So we ended up helping them build most of their computers and it was really taking up all of our time. 
+
+于是我们想到制作印刷电路板
+And we thought, you know, if we could make, what’s called printed circuit board, 
+
+就是在镀铜的玻璃纤维板两面腐蚀出铜导线
+which is a piece of fiberglass with copper on both sides that’s etched to form the wire, 
+
+采用印刷电路板，只要几小时就能做出一台Apple I
+so that you can build a computer, you know, you can build an Apple I in a few hours instead of 40 hours. 
+
+我们打算把电路板以成本价卖给朋友，把钱赚回来
+if we only had one of those, we could sell them to all of our friends for, you know as much as it cost to make them, make our money back
+
+这样皆大欢喜，我们也可以休息休息
+and everybody would be happy, we say, we’d get a life again. 
+
+
+[12:18]
+说干就干，我把大众Microbus卖了，Woz卖了他的计算器
+So we did that. I sold my Volkswagen bus and Steve sold his calculator, 
+
+我们凑够了钱，请朋友设计印刷电路板
+we got enough money to pay a friend of us to make the art work to make a printed circuit board. 
+
+电路板做出来后，卖了一部分给朋友
+And we made some printed circuit boards, and we sold some to our friends, 
+
+我想把剩下的也卖了，把Microbus和计算器赎回来
+and I was trying to sell the rest of them so we can get micro bus and calculator back….
+
+我去了世界上第一家计算机商店，Mountain View的字节商店
+And I walked into the first computer store in the world, which was the Byte Shop of a Mountain View, I think, on El Camino. 
+
+那时它藏在一家成人书店里
+It metamorphosized within an adult bookstore a few years later, but at this point, it was the Byte Shop. 
+
+我见到了老板Paul Terrell
+And the person I ran into, I think his name was Paul Terrell.
+
+(Mountain View: http://baike.baidu.com/view/732047.htm
+Paul Terrell:http://en.wikipedia.org/wiki/Paul_Terrell
+(Byte Shop:http://www.techcn.com.cn/index.php?edition-view-133489-1)
+
+Paul说“我预订50套”，我说“太好了”
+He said ”You know, I’ll  take 50 of those”, I said “this is great”. 
+
+“但我要完全组装好的计算机”
+“ But I want them fully assembled” 
+
+[13:00]
+
+我们从没想过出售整机，不过还是答应了
+We never thought of this before, so we then kicked this around,
+
+何乐而不为呢？
+we thought “Why not? Why not try this?”
+
+我花了好几天打电话联系电子元件批发商
+And so I spent the next several days on the phone talking with electronic parts distributors, 
+
+告诉对方需要哪些零件，我们完全是摸着石头过河
+we didn’t know what we were doing, and we said, “look, here is the parts that we need”
+
+我们打算买100套零件
+We figured we’d buy a hundred sets of parts, build 50, 
+
+做好后以两倍的成本价卖给字节商店50台
+sell them to the Byte Shop for twice what they cost us to build them, 
+
+剩下50台就是我们的利润
+therefore paying for the whole hundred and then we have 50 left so we could make our profits by selling those. 
+
+我们说服批发商赊给我们零件，30天后还款
+so we convince these distributors to give us the parts on net 30 days credit. 
+
+我俩就这样懵懵懂懂地拿到了零件
+We have no idea what that meant... “Net 30? sure... sign in here”,  so we have 30 days to pay them.
+
+Apple I做好后，卖了50台给字节商店
+So we bought the parts, we built the products and we sold 50 of them to the Byte Shop in Palo Alto, 
+
+第29天才收到账款，第30天正好付清赊零件的钱
+and got paid in 29 days and went to pay off the parts people in 30 days. 
+
+我们就这样做起了生意，不过也碰到利润危机
+And so we were in business, but we have the classic Marxian profit realization crisis, 
+
+[14:00]
+
+我们的利润不是现金，而是堆在角落的50台电脑
+the profit wasn’t in liquid currency, our profit was in 50 computers sitting in the corner. 
+
+我们不得不考虑如何实现利润
+so then all of a sudden, we had to think, wow, how we gonna realize our profit? 
+
+我们想继续寻找批发商，是不是还有其他计算机商店？
+so we started thinking about distribution, are there any other computer stores? 
+
+我们打电话给全国的计算机商店，就这样做起了生意
+We started calling the other computer stores we had heard of across the country. We just kind of eased into business that way. 
+
+[14:19]
+
+[苹果的第三位关键创始人是英特尔前高管Mike Markkula]
+The third key figure in the creation of Apple was the former Intel executive Mike Markkula
+
+[我问Steve他是怎么入伙的]
+I ask Steve how he came aboard.
+
+（Mike Markkula:
+http://zh.wikipedia.org/zh/%E8%BF%88%E5%85%8B%C2%B7%E9%A9%AC%E5%BA%93%E6%8B%89）
+
+当时我们正在设计Apple II
+Steve: We were designing the Apple II. 
+
+我们对它充满了期待
+And we really had some, some much higher ambitions for the Apple II.
+
+Woz希望实现彩色图形界面
+Woz's ambitions were he wanted to add color graphics. 
+
+[14:45]
+
+我希望…
+My ambition was that, 
+
+当时有一大群硬件爱好者，他们自己组装电脑
+it was very clear to me that while there were a bunch of hardware hobbyists, they could assemble around the computers, 
+
+或者用我们的主板，自己安装电源、键盘等等
+or at least take our board, and add the transformers for the power apply, the case, the keyboard, and go get, and etc. You know, go get rest of the stuff.
+
+还有许多人是软件爱好者，他们只想写程序
+For everyone of those, there were a thousand of people, they couldn't do that but wanted to mess around with programming, 
+
+就像我10岁刚刚接触计算机那样
+software hobbyists, just like I had been, you know, when I was 10, discovering that computer.
+
+所以我希望Apple II成为第一款功能齐备的个人电脑
+And so my dream for the Apple II was to sell the first real packaged computer, packaged personal computer. 
+
+就算你不懂硬件也能轻松使用
+You didn't have to be a hardware hobbyist at all.
+
+这就是我们对Apple II的基本设想
+And so combining both of those dreams, we actually designed a product. 
+
+我找到设计师，设计了所有细节
+And I found the designer and we designed the packaging and everything. 
+
+我们还打算使用塑料机身，什么都想好了
+And we wanted to make it out of plastic and we had the whole thing ready to go. 
+
+可我们资金不足，还缺几万美元
+But we needed some money for tooling the cases and things like that. We needed a few thousand of dollars. And this was way beyond our means.
+
+于是我开始寻找风险投资
+So I went looking for some venture capital.
+
+我找到Don Valentine，他还来参观了我的车库
+And I ran across one venture capitalist name Don Valentine, who came over to the garage 
+
+他说我看起来像人类的叛逆者，这话成了他的名言
+and he later said I look like a renegade from the human race, that was his famous quote. 
+
+(Don Valentine: http://en.wikipedia.org/wiki/Don_Valentine)
+
+虽然他不打算投资，但推荐了几个人给我
+And he said he wasn't willing to invest us but he recommended a few people that might. 
+
+其中就有Mike Markkula
+One of those was Mike Markkula. 
+
+[16:02]
+
+我给Mike打电话，跟他见了面
+So I called Mike on the phone and he came over.
+
+Mike以前是英特尔的产品经理
+And Mike had retired at about 30 or 31 from the Intel,
+
+他大概30岁离开英特尔，手里有英特尔的股票
+he was a product manager there and got a little bit stock. 
+
+他靠股票期权赚了一百多万，当时非常富有
+And, you know, made like a million bucks on stock options, which at that time was quite a lot of money.
+
+他在家投资石油、天然气之类的生意
+And he’d been investing in oiling and gas deals and kind of staying at home, doing that sort of thing. 
+
+我感觉他很想干一番大事业，我俩聊得很投机
+And he, I think, was, was kind of antsy to  get back into something. And Mike and I hit it off very well. 
+
+最后Mike答应投资
+And so Mike said, "OK, I'll invest",
+
+几周后我说我们不光要钱，我们希望你入伙
+after a few weeks and I said "No, we don't want your money , we want you."
+
+于是Mike成了我们的合作伙伴
+So we convince Mike to actually throw in with us, as an equal partner.
+
+他不仅投资，还参与创业，我们就这样起步了
+And so Mike put in some money, and Mike put in himself, and three of us went off. 
+
+我们拿出Apple II的设计，召开新闻发布会
+We took this design, and it was virtually done as an Apple II, and tooled it up, and announced it,
+
+几个月后Apple II首次在西海岸计算机展览会上露面
+a few months later at the West Coast Computer Faire.
+
+(West Coast Computer Faire： http://en.wikipedia.org/wiki/West_Coast_Computer_Faire)
+
+Bob: 情况怎么样？
+Bob: What was that like?
+
+Steve: 妙不可言，Apple II最受欢迎
+Steve: It was great. We got the best,
+
+那时西海岸计算机展览会规模不大，但对我们而言已经很大了
+you know this West Coast Computer Faire was small at that time, but to us it was very large, 
+
+[17:12]  
+
+我们在展台上用投影展示Apple II和它的图形界面
+and, so we had this fantastic booth there, err, we had a projection television showing the Apple II and showing its graphics
+
+现在看有些简单，但当时是PC上最先进的图形界面
+which today look very crude but at that time were by far the most advanced graphics on the personal computer.
+
+我们出尽了风头
+and I think, you know, my recollection is that we stole the show,
+
+[17:30]
+
+批发商和经销商蜂拥而至，进展非常顺利
+and a lot of dealers and distributors started lining up and we were off and running.
+
+Bob:: 当时你多大？
+Bob: How old were you?
+
+Steve: 21岁
+Steve: 21
+
+Bob: 21岁就这么大成功
+Bob: 21? you were 21 and you were a big success, 
+
+可你从来没有这方面的经验，完全是凭直觉
+you have just sort of done it by the seat of your pants. You don’t have any particular training on this.
+
+你是怎么学会管理公司的？
+How do you learn to run a company?
+
+Steve: 在生意场多年，我发现一个现象
+Steve: err… you know, throughout the years in business, I found something,
+
+我做事前总问为什么
+which was I always ask why you do things, 
+
+可得到答案永远是“我们向来这样做”
+and the answers you invariably get are “oh that’s just the way it’s done”,
+
+没人反思为什么这么做，我给你举个例子
+nobody knows why they do what they do, nobody thinks about things very deeply in business, that’s what I found. I’d like to give you an example.
+
+我们在车库里组装Apple I时，成本算得清清楚楚
+When we were building our apple Is in the garage, we knew exactly what they cost.
+
+可工厂生产Apple II时，财务部使用的是标准成本
+when we got into factory in the Apple II days, the accounting had this notion of the standard cost,
+
+每个季度估算标准成本，然后根据实际情况调整
+where you kind of set a standard cost at the end of a quarter, and you adjust with a variance, 
+
+于是我不断追问，为什么要这样做？
+and I kept asking why do we do this?
+
+得到的答复是，这是一贯的做法
+and the answer is “that’s  just the way it’s done”, 
+
+6个月后我发现其实是因为我们无法精确计算成本
+and after about 6 months of digging into this, what I realized was the reason you do it is because you don’t really have good enough controls to know about how much cost,
+
+所以只能先估算，然后进行修正
+so you guess, and you fix your guess at the end of the quarter. 
+
+根本原因是信息管理系统不够完善
+And the reason why you don’t know how much it cost is because your information systems aren’t good enough. 
+
+但没有人承认这一点
+so ...but nobody said it that way.
+
+后来我们为Macintosh设计自动化工厂，抛开这些陋习
+So later on when we design this automated factory for Macintosh, we were able to get rid of a lot of these antiquated concepts, 
+
+做到了精确控制所有成本
+and know exactly what something costs to the second. 
+
+生意场上有很多约定俗成的规定，我称为陈规陋习
+So in business, a lot of things are … I call it “folklore”, 
+
+因为以前这样做，所以就一直这样做下去
+they are done because they were done yesterday, and the day before. 
+
+所以只要你多提问多思考，脚踏实地工作
+And ...so what that means is that if you are willing to sort of ask a lot of questions, think about things and work really hard, 
+
+你很快就能的学会经商，这不是什么难事
+you can learn business pretty fast, not the hardest thing in the world. 
+
+Bob: 不是什么深奥的技术？
+Bob : Not rocket science?
+
+Steve: 不是
+Steve: It’s not rocket science. No
+
+Bob: 最早接触HP 9100时，你谈到自己编程的事
+Bob: Now...when you were first coming in contact with these computers and inventing them and before that working on the HP 9100, you do talk about writing programs. 
+
+都是些什么样的程序？用途是什么？
+What sort of programs?  What do people actually do with these things? 
+
+Steve: 我举个简单的例子
+A: See what we did with them, well, I would give you a simple example … 
+
+我们设计“蓝盒子”时，写了很多程序
+when we were designing our blue-box we used… we wrote a lot of custom programs to help us design it. 
+
+用来处理繁琐的计算工作
+you know to do a lot of the dog work for us in terms of calculating,
+
+计算主频、分频之类的东西
+master frequencies with sub-devisors to get the other frequencies and things like that…
+
+还计算不同频率的差错率和容错性
+we use computer quite a bit to calculate how much error we would get in the frequencies, and how much can be tolerated. 
+
+编程可以帮助我们完成工作，它没有明确的实用性
+so we use them in the work, but much more importantly, it does nothing to do with using them for anything practical…
+
+重要的是我们把它看作思考的镜子，学习如何思考
+have to do with using them to be a mirror of your thought process, to actually learn how to think.  
+
+我认为学习思考最大的价值在于...
+I think the greatest value of learning how to think....
+
+我觉得所有美国人都应该学习编程，学习一门编程语言
+I think everybody in this country should learn how to program a computer, should learn a computer language,
+
+学习编程教你如何思考，就像学法律一样
+because it teaches you how to think, it’s like going to law school,
+
+学法律的人未必都成为律师，但法律教你一种思考方式
+I don’t think anybody should be a lawyer, but I think going to law school may actually be useful coz it teaches you how to think in a certain way.
+
+同样编程会教你另一种思考方式
+In the same way the computer programming teaches you in a slightly different way how to think...
+
+所以我把计算机科学看成基础教育
+And so  … I view computer science as a liberal art.
+
+是每个人都应该花一年时间学习的课程
+It should be something everybody takes in a year in their life, one of the courses they take is, you know learning how to program. 
+
+[21:33]
+
+Bob: 我学了APL，很明显它丰富了我的人生
+Bob: I learned APL, you know, obviously, is part of the reason why I'm going through life sideways.
+
+Steve: 你有没有觉得它教给你独特的思考方式?
+Steve: Was it you look back and consider it, enriching experience that taught you to think in a different way, or not?
+
+Bob: 其他语言也许更明显些，我最先学的APL
+Bob: Err... No, not that particularly. Other language perhaps more so, I started with APL.
+
+显然Apple II很成功，公司飞速发展，成功上市
+So I mean, obviously, the Apple II was a terrific success, just incredibly so. And the company grew like topsy and eventually went public
+
+你们都成了富翁，富有的感觉如何？
+and you guys got really rich. What's it like to get rich?
+
+Steve: 很有趣，我23岁拥有超过100万美元的财产
+Steve: It's very interesting. I was worth, err, about over a million dollars when I was 23,
+
+24岁超过了一千万，25岁超过了一亿
+and over 10 million dollars when I was 24, and over a hundred million dollars when I was 25. 
+
+但这不重要，我不是冲着钱去的
+And it wasn't that important, Because I never did it for the money.
+
+钱允许你做想做的事
+I think money is wonderful thing because it enables you to do things, 
+
+钱让你实现那些短期内看不到效益的创意
+it enables you to invest ideas that don't have a short term payback and things like that. 
+
+但钱不是最重要的
+But especially at that point in my life, it was not the most important thing.
+
+重要的是公司、人才、产品，是产品带给客户的价值
+The most important thing was the company, the people, the products we were making, what we were going to enable people do with these products.
+
+所以我不太看重金钱，我从不出售苹果的股票
+So I didn't think about it a great deal and I never sold any stock, 
+
+我相信公司会发展得越来越好
+and just really believe the company would do very well over the long term.
+
+[1979年乔布斯第一次拜访施乐Palo Alto研究中心]
+Central to the development of the personal computers was the pioneering work
+
+[在PC成形之初，Palo Alto研究中心起到了关键作用]
+being done at Xerox Palo Alto Research Center, which Steve first visited in 1979. 
+
+(Palo Alto Research Center  http://baike.baidu.com/view/3455290.htm)
+
+同事一直怂恿我去施乐公司，看看他们在做什么
+I had 3 or 4 people who kept bugging me that I get my rear over the Xerox Park and see what they are doing.
+
+于是我去了，对方非常友好地展示了他们的研究
+And so I finally did. I went over there, and they were very kind and they showed me what they were working on. 
+
+他们展示了三个项目
+And they showed me really three things,
+
+但我完全被第一个项目吸引了，另两个没怎么看
+but I was so blinded by the first one that I didn't ever really see the other two. 
+
+我记得有一个项目是面向对象编程，我没怎么看
+One of the things they show me was object oriented programming, they show me that. But I didn't even see that.
+
+还有一个是计算机网络系统
+The other one they show me was really a network computer system, 
+
+当时他们已经有上百台联网的计算机，可以互发email
+they had over hundred Alto computers all networked using email, etc, 
+
+也没有吸引我
+I didn’t even see that.
+
+吸引我的是图形用户界面
+I was so blinded by the first thing they showed me, which was graphically user interface.
+
+那是我见过的最漂亮的东西
+I thought it was the best thing I had ever seen in my life. 
+
+虽然现在看来它还很粗糙，有瑕疵
+Now, remember, it was very flawed, when we saw it, it was incomplete,
+
+但是当时我们还看不出来
+they had done bunch of things wrong, but we didn‘t know that at that time, 
+
+这个创意太棒了，他们做得很好
+it’s still though they have the germ of the idea was there, and they had done it very well… 
+
+[24:27]
+
+很快我就意识到所有计算机都应该变成这样
+and within, you know, 10 minutes, it was obvious to me that all computers would work like this someday, it was obvious, 
+
+我们可以争论要久后能现实，谁会是最后的赢家
+I mean you can argue about how many years it would take, and you can argue about who the winners and losers might be, 
+
+但是没人会质疑图形界面是必然的发展方向
+but you couldn’t argue about the inevitability it was so obvious, 
+
+如果你当时在场，你也会这样想的
+you would have felt the same way had you been there. 
+
+Bob: Paul Allen也说过同样的话, 真有趣
+Bob: You know, that’s … those were exactly words Paul Allen used. It’s really interesting.
+
+Steve: 是的，显而易见
+Steve: Yeah, it’s obvious.
+
+Bob: 听说你去参观了两次，第二次你带了些人去
+Bob: But there were two visits… you saw and you brought some people back with you, 
+
+对方是不是让你们坐了冷板凳？
+and what happened the next time, they made you cool your heels for a while.
+
+Steve: 没有
+Steve: No.
+
+Bob: 是吗？可是Adele Goldberg的说法正相反
+Bob: No? Well, Adele Goldberg says otherwise.
+
+Steve: 我不明白
+Steve: what do you mean?
+
+Bob: 她说是她负责向你们展示的图形界面
+Bob: Well, she did the demo when the group came back, 
+
+起先她拒绝展示，大约僵持了3个钟头
+she said that she argued against doing it for 3 hours, 
+
+这期间对方只好先带你们参观其他的项目
+and they took you to other places showing you other things while she was arguing.
+
+Steve: 你是说他们不太乐意让我们参观
+Steve: oh… you mean they were reluctant to show us the demo. 
+
+这个我一点不知道，没印象了
+oh, I have no idea. I don’t remember that, I thought you meant something else.
+
+Bob: 看来对方掩饰得很巧妙
+Bob: so they were very skillful, 
+
+Steve: 是的，不过他们还是让我们参观了
+Steve: yeah, but they did show us. 
+
+还好他们让我们参观了，因为施乐的研究项目都夭折了…
+and it’s good they showed us because the technology crashed and burned at Xerox, they used to call ...
+
+Bob: 为什么？
+Bob: Why? 
+
+Steve: 怎么啦？
+Steve: what’s that?
+
+Steve: 为什么？
+Steve: Why?
+
+Bob: 对，为什么？
+Bob: Yeah, why?
+
+Steve: 我一直在思考这个问题
+Steve: I actually thought a lot about that, 
+
+认识约翰·斯卡利以后，我现在有了清晰的答案
+and I learned more about that with John Sculley later on and I think I understand that now pretty well, 
+
+是这样，就像斯卡利一样
+What happens is, like with John Sculley, err… 
+
+他以前在百事可乐工作，他们的产品可以数十年不变
+John came from Pepsi co, and they almost would change their product once every 10 years, 
+
+顶多更换可乐瓶子的尺寸
+to them, new product is like a new size of bottle, 
+
+所以产品部门的人说话没什么份量
+so if you are a product person, you couldn’t change the course of that company very much, 
+
+在百事公司谁最有发言权？
+so who influences the success of Pepsi co? 
+
+是营销部门的人，他们很容易升职从而掌管公司
+The sales and marketing people, therefore they would once get promoted and therefore they would once run the company, 
+
+对百事来说，这不是件坏事
+well, for Pepsi co, that might have been okay. 
+
+问题是垄断科技公司也有这种情况，比如IBM和施乐
+But it turns out the same thing can happen in technology companies, that they get monopolies, like, oh, IBM and Xerox.
+
+即便IBM和施乐的产品经理能做出更棒的产品，那又怎么样？
+If you are a product person at IBM or Xerox, so you make a better copier or a better computer, so what? 
+
+这些已经垄断市场的公司很难靠新产品提高业绩
+When you have a monopolies market share, the company is not any more successful,
+
+要想提高业绩还得依靠营销部门
+so the people who can make the company more successful are sales and marketing people. 
+
+于是他们逐渐控制公司，而产品部门的人被边缘化
+And they end up running the companies, and the product people get driven out of this decision making forums.
+
+公司就丧失了打造优秀的产品热情和能力
+And the companies forget what it means to make great products. It... sort of the product sensibility, 
+
+产品部门的功臣慢慢被不懂产品的人排挤
+and... the product genius brought them to that monopolistic position gets rotted out by people running this companies who have no conception of a good product versus a bad product, 
+
+后者通常缺少研发产品的技术和能力
+they have no conception of craftsmanship that’s required, … that take a good idea and turn it into a good product, 
+
+而且也并非打心底愿意替客户解决问题
+and they really have no feeling in their hearts usually about wanting to really help the customers.
+
+施乐公司就是这样
+So that’s what happens in Xerox,
+
+施乐研究院的人私底下把管理层叫做墨粉脑袋
+the people in Xerox PARC used to call the people who runs the Xerox tonerheads,
+
+而这些管理人员完全不明白为什么被嘲笑
+and these tonerheads would come out to the Xerox and PARC says they have no clue of what they are saying.
+
+Bob: 观众可能不清楚墨粉是什么？
+Bob: For our audience, toner is what?
+
+Steve: 就是复印机里用的墨粉
+Steve: Toner is what you put in a copier, you know the toner you add to an industrial copier?
+
+Bob: 那个黑色的东西？
+Bob: The black stuff?
+
+Steve: 是的
+Steve: The black stuff, yeah.
+
+这些墨粉脑袋压根不知道计算机能做什么
+Basically they were copier heads, just have no clue about what a computer can do,
+
+他们不过是碰巧赶上了计算机产业的顺风车
+and so they just grabbed  defeat from greatest victory in the computer industry, 
+
+施乐本来有机会把规模扩大10倍，独占整个行业
+Xerox could have owned the entire computer industry today, could have been company 10 times its size,
+
+就像90年代的IBM或微软
+could have been IBM, Could have been IBM in the 1990’s, …. could have been the Microsoft in the 1990’s. So ...
+
+不过都已经过去了，不重要了
+but anyway that’s all ancient history, doesn’t really matter anymore.
+
+[28:22] David翻译开始
+
+Bob: 的确如此
+Bob: Sure.
+
+你提到IBM，IBM进入PC市场是不是对苹果构成了威胁？
+You mentioned IBM, when IBM entered the market, was that a daunting thing for you at apple?
+
+那当然，苹果当时的市值只有10亿
+Oh sure. I mean… here was apple, you know a 1 billion dollar company, 
+
+而IBM大约是300亿
+and here was IBM, at that time, probably about 30-some-odd-billion-dollar company entering the market, 
+
+确实让人胆寒
+sure. it was very scary. 
+
+尽管IBM的第一款产品十分糟糕，但我们太轻敌了
+Err... we made a very big mistake though, that IBM’s first product was terrible. It was really bad. 
+
+我们忽略了很多人的利益与IBM捆绑在一起
+We made a mistake of… not realizing that a lot of other people have strong vested interests to help IBM to make it better. 
+
+如果没有这些帮助，IBM早就输了
+So ...If it has just been IBM, it would have crashed and burned. 
+
+IBM的确很高明，它建立了强大的同盟阵营
+But IBM did have I think a genius in their approach, which was to have a lot of people have vested interests in their success. 
+
+终于救了它一命
+And that’s what saved them in the end. 
+
+Bob: 你从施乐研究中心找到了灵感，如何付诸行动呢？
+Bob: So you came back from visiting Xerox PARC with a vision, and how do you implement the vision?
+
+Steve: 马上召集身边的骨干来实现这个创意
+Steve: Well, I got our best people together and started to get them working on this, 
+
+问题是从惠普跳槽来的几个人不理解图形界面的本质
+the problem was we hired a bunch of people from HP, and they didn’t get this idea, they didn’t get it. 
+
+我跟他们大吵过几次
+I remember having dramatic arguments with some of these people, 
+
+他们觉得图形界面就是在屏幕下方加上几个按钮
+who thought the coolest thing in user interface was the soft keys at the bottoms of the screen, you know. 
+
+完全不明白比例字体和鼠标的重要性
+They have no concept of proportionally spaced fonts, no concept of the mouse. 
+
+我记得他们和我争执不下，冲我大嚷大叫
+As a matter of fact, I remember arguing with these folks, people screaming at me, 
+
+说什么研发鼠标至少要5年，成本不会低于300美元
+it could take us 5 years to engineer a mouse and it would cost 300 dollars to build. 
+
+把我搞烦了，我找到David Kelly设计公司
+I finally got fed up and just went outside and found David Kelly design, 
+
+对方90天后设计出了质量稳定的鼠标，成本只要15美元
+I asked him to design me a mouse in 90 days and we had a mouse that we can build for 15 bucks and that was phenomenally reliable. 
+
+我这才发现苹果没有足够人才来实现这个创意
+So I found that, in a way... Apple did not have the caliber of people that was necessary to seize this idea in many ways. 
+
+核心团队有这个能力，但是许多从惠普跳槽来的成员不行
+ There was a core team that did, but there was a larger team that mostly had come from HP that didn’t have a clue. 
+
+Bob: 这涉及到职业分工的问题，每个人特长不同，不是吗？
+Bob: It becomes this issue of professionalism, there’s dark side and light side? isn’t it?
+
+Steve: 不，这不是擅长与否的问题
+Steve: No, you know what it is... No, it’s not dark and light. 
+
+而是他们犯糊涂，公司也在犯糊涂
+People get confused, companies get confused, 
+
+公司规模扩大之后，就会变得因循守旧
+when they started getting bigger, they want to replicate their initial success, 
+
+他们觉得只要遵守流程，就能奇迹般地继续成功
+and a lot of them think well somehow there are some magic in the process, of how success is created... 
+
+于是开始推行严格的流程制度
+so they started to try to institutionalize process across the company.
+
+很快员工就把遵守流程和纪律当作工作本身
+And before very long, people get very confused that the process is the content… 
+
+IBM就是这样走下坡路的
+that’s ultimately the downfall of IBM. 
+
+IBM的员工是世界上最守纪律的，他们恰恰忽略了产品
+IBM has the best process people in the world, they just forgot about the content. 
+
+苹果也有这个问题，我们有很多擅长管理流程的人才
+And that’s so what happened a little bit at apple too, we had a lot of people who are great at management process, 
+
+但是他们忽略了产品本身
+they just didn’t have a clue as to  the content, 
+
+经验告诉我，优秀的人才是那些一心想着产品的人
+and in my career, I found that the best people you know are the ones who really understand the content, 
+
+虽然这些人很难管理，但是我宁愿和他们一起工作
+and they are pain in the butt to manage, you know but you put up with it because they are so great at the content, 
+
+光靠流程和制度做不出好产品
+and that’s what makes a great product, it’s not process, it’s content. 
+
+[31:50]
+
+苹果也有这方面的问题
+So we had a little bit of that problem at apple. 
+
+这些问题最终导致Lisa电脑失败
+And that problem eventually resulted in the Lisa, 
+
+Lisa是一款非常超前的产品
+which had its moment of brilliance, in a way it was very far ahead at its time… 
+
+但是它过于超前了，以致偏离了产品的宗旨
+but that was not enough fundamental content understanding. Apple drifted too far away from its roots. 
+
+在这些从惠普跳槽来的人眼里，1万美元的零售价不贵
+To these HP guys, 10,000 dollars was cheap, 
+
+但是市场和经销商觉得这个价格太离谱了
+to our market, to our distribution channels, 10,000 dollars was impossible. 
+
+Lisa的定位彻底背离了苹果的企业文化
+So, we produced the product which completely mismatch for the culture of our company, 
+
+背离了公司的形象，也背离了经销商与消费者的期待
+for the image of our company, for the distribution channels of our company, 
+
+苹果的老顾客根本买不起这么贵的产品
+for the current customers. None of them could afford a product like that. 
+
+所以它失败了
+And it failed. 
+
+Bob: 就如同你同John Couch对领导权的争夺一般？
+Bob: Like you and John Couch fought for leadership? 
+
+Steve: 是的，我输了
+Steve: Absolutely, and I lost. That’s correct.
+
+Bob: 为什么会起争执？
+Bob: How did they come about?
+
+Steve: 我认为Lisa当时面临困境
+Steve: Well... I thought Lisa was in serious trouble, 
+
+而且越陷越深
+and I thought Lisa was going off this very bad direction as I have just described,
+
+我没能争取到大多数高管的支持
+and err... I couldn’t convince enough people and the senior management of Apple, 
+
+所以我也无能为力，只能服从团队的决定
+but that was the case...we ran the places as team for most part.  
+
+我输了，那段时间我很忧虑
+So I lost, and at that point of time, you know I brooded for a few months… 
+
+但我很快意识到如果不振作起来，Apple II会重蹈覆辙
+but it was not very long after that it really occurred to me that if we didn’t do something here, the Apple II was running out of gas, 
+
+应该尽快利用这些新技术，否则苹果将止步不前
+and we needed to do something with this technology fast, or else Apple might cease to exist as the company that it was.
+
+所以我组织了一个小组研发Macintosh
+So I formed a small team to do the Macintosh, 
+
+就像是奉了上帝的旨意来拯救苹果
+and we were on a mission from God to save Apple. 
+
+其他人并不这样想，但事实证明我们做的没错
+No one else thought so, but it turned out we were right. 
+
+在研发Mac的过程中，我越发觉得我们是在重建苹果
+And as we evolved the Mac, it became very clear that, this was also a way of re-inventing Apple. 
+
+我们大刀阔斧地改革，重新设计了生产线
+We re-invented everything, we re-invented manufactures,  
+
+我去日本参观了大约80家自动化工厂
+I visited probably 80 automatic factories in Japan, 
+
+然后回加州建了世界上第一条生产计算机的自动生产线
+and we built the world’s first automatic computer factory in the world, in California here, 
+
+我们采购了6万8千颗最先进的微处理器
+so we adopted the 68,000 Micro Processors that Lisa had, 
+
+由于数采购量大，价格不到Lisa的1/5
+we negotiated the price that was 1/5 of what Lisa was going to pay for, because we were using much higher volume, 
+
+我们打算把Macintosh打造成一款平价产品
+and we really started to design this product that can be sold for a thousand dollars, called the Macintosh
+
+可惜没成功，原定价格是2000美元，最终价格是2500美元
+,and we didn’t make it. We could have sold it at 2000 dollars, but we came out 2,500, 
+
+这款产品花了我们4年时间
+and we spent 4 years in our lives doing that and we built the product, 
+
+搭建了自动化工厂和生产线
+we built the automatic factory, the machine to build the machine, 
+
+采用了全新的销售渠道和营销方法
+we built a completely new distribution system, and we built a completely different marketing approach,
+
+我觉得我们干得很出色
+and I think we worked pretty well.
+
+Bob: 是你在鞭策这个团队，引导他们…
+Bob: Now, you motivated this team, I mean you have to guide them...
+
+Steve: 团队是我们建立的
+Steve: We built the team.
+
+Bob: 你建立了团队，而且负责鞭策和引导它
+Bob: You built the team, motivated, guided them dealt with them. 
+
+我们采访过很多Macintosh团队成员
+We have interviewed just lots and lots of people from the Macintosh team, 
+
+他们都提到你的工作热情和独特的想法
+and you know what keeps coming down to is your passion, and your vision, 
+
+你是如何处理工作的轻重缓急的？你觉得什么对产品最重要？
+how do you order your priorities in there? What’s important to you in the development of a product?
+
+Steve: 我离开苹果以后，发生了一件几乎毁掉苹果的事
+Steve: You know... one of the things that really hurt Apple was after I left, 
+
+John Sculley有个严重的“毛病”，我在其他人身上也见到过
+John Sculley got a very serious “disease”, and that “disease”, I have seen other people get it too, 
+
+那就盲目乐观，以为光凭创意就能取得成功
+it’s the “disease” of thinking that a really great idea is 90% of the work, 
+
+他觉得只要想到绝妙的主意，公司就一定可以实现
+and if you just tell all these other people, “here is this great idea!”, then of course they can go off and make it happen. 
+
+问题在于优秀的创意与产品之间隔着巨大的鸿沟
+And the problem with that is that there is just tremendous amount of craftsmanship in between a great idea and a great product. 
+
+实现创意的过程中，想法会发生变化甚至变得面目全非
+And as you evolve the great idea, it changes and grows, it never comes out like it starts. 
+
+因为你会发现新东西，思考也更深入
+Because you learn a lot more, you get into the subtleties, 
+
+你不得不一次次权衡利弊，做出让步和调整
+you also find ... There’s tremendous trade-offs that you have to make, 
+
+总有些问题是电子设备解决不了的
+I mean you know there are just certain things you can’t make electrons do, 
+
+是塑料、玻璃材料无法实现的
+there are certain things you can’t make plastic do, or glass do, 
+
+或者是工厂和机器人做不到的
+and... or factories do, robots do, 
+
+设计一款产品，你得把五千多个问题装进脑子里
+and you get into all these things, designing a product is keeping 5000 things in your brain. 
+
+必须仔细梳理，尝试各种组合，才能获得想要的结果
+These concepts, and fitting them all together in... and kind of continuing to push and fit them together and in new and in different ways to get what you want. 
+
+每天都会发现新问题，也会产生新灵感
+And everyday you discover something new that is new problem or new opportunity to fit these things together a little differently. 
+
+这个过程很重要
+It’s that process that is the magic. 
+
+无论开始时有多少绝妙的主意
+So we had a lot of great ideas when we started, 
+
+我一直觉得团队的合作就像是…
+but what I always felt that a team of people doing something that’s really believe in is like ... 
+
+我小时候，街上住着一位独居老人
+When I was a young kid, there was a widowed man lived up the street. 
+
+他大概80岁，看上去凶巴巴的
+And he was in his eighties, he was a little scary looking, 
+
+我认识他，我想让他雇我帮他修剪草坪
+and I got to know him a little bit... I think he might pay me for cutting mow his lawn or something … 
+
+有一天他说“到我车库来，我给你看点东西”
+One day he said “come along to my garage, I want to show you something.” 
+
+他拖出一台布满灰尘的磨石机
+And he pulled out his dusty old rock tumbler, 
+
+一边是马达，一边是研磨罐，用皮带连着
+that was a motor and a coffee can and a little band between them, 
+
+他说“跟我来”，我们到屋后捡了些很普通的石头
+and he said “come out with me”, we went out to the back, and we got some just rocks, some regular old ugly rocks, 
+
+我们把石头倒进研磨罐，加上溶剂和沙砾
+and we put them in the can with a little bit of liquid and a little bit of grits powder, 
+
+他盖好盖子，开动电机，对我说“明天再来”
+and we closed the can up and he turned this motor on, and he said, “come back tomorrow”. 
+
+磨石机开始研磨石头，第二天我又去了
+And this can was making racket as the stones went around, and I came back the next day, 
+
+我们打开罐子，看到了打磨得异常圆润美丽的石头
+and we opened the can, and we took out these amazingly beautiful polished rocks, err... 
+
+看上去普普通通的石头就像这样互相磨擦着
+the same common stones had  gone in through rubbing against each other like this, 
+
+互相碰撞，发出噪音，最终变成了光滑美丽的石头
+creating a little bit of friction, creating a little bit of noise, had come out these beautiful polished rocks. 
+
+我一直用这件事比喻竭尽全力工作的团队
+And that’s always been in my mind that, my metaphor for a team working really hard on something they're passionate about. 
+
+正是通过团队合作，通过这些精英的相互碰撞
+It's that through the team, through that group of incredibly talented people bumping up against each other, 
+
+通过辩论、对抗、争吵、合作，相互打磨
+having arguments, having fights sometimes, making some noise, and working together they polish each other 
+
+磨砺彼此的想法，才能创造出美丽的“石头”
+and they polish the ideas, and what comes out are these really beautiful stones. 
+
+[39:07]
+
+这很难解释，但显然这并不是某个人的成就
+So it’s hard to explain, and it’s certainly not the result of one person,
+
+人们喜欢偶像，大家只关注我
+I mean people like symbols, so I am the symbol of certain things 
+
+但为Mac奋斗的是整个团队
+but it’s really the team effort on the Mac. 
+
+我以前在苹果就发现一种现象
+Now, in my life I observed something fairly early on at Apple, 
+
+很难表达出来，更像是一种感觉
+which … I didn’t know how to explain it then, I felt a lot about since. 
+
+生活中多数东西，最好与普通之间的差距不超过两倍
+Most things in life, the dynamic range between average and the best, is at most 2 to 1, 
+
+好比说纽约的出租车司机
+Like you are in New York city, you get an average Taxi cab driver versus the best Taxi cab driver, 
+
+最棒的司机与普通司机之间的差距大概是30%
+you know you would probably get to your destination with the best cab maybe 30% faster, you know in automobile. 
+
+最好与普通之间的差距有多大呢？20%？
+What’s the difference between an average and the best? Maybe, I don’t know 20%?
+
+最棒的CD机与普通CD机的差距有多大？20%？
+the best CD player and an average CD player, I don’t know, 20%? 
+
+这种差距很少超过两倍
+ 2 to 1 is a big ..big dynamic range in most life. 
+
+但是在软件行业，还有硬件行业
+In software, and it used to be the case with hardware too, 
+
+这种差距有可能超过50倍，甚至100倍
+the difference between average and the best is 50 to 1, maybe a 100 to 1, Okay?
+
+这种现象很罕见
+ very few things in life are like this. 
+
+能进入这个行业，我感到很幸运
+But what I was lucky enough to spend my life in, is like this,
+
+我的成功得益于我发现了许多才华横溢、不甘平庸的人才
+and so I built lots of my success of finding these truly gifted people, and not settling for B and C players, really going for A players. 
+
+而且我发现只要召集到五个这样的人
+And I found something, I found when you get enough A players together, when you go through the incredible work to find you know 5 of these A players, 
+
+他们就会喜欢上彼此合作的感觉，前所未有的感觉
+they really like working with each other, because they never had a chance to do that before, 
+
+他们会不愿再与平庸者合作，只招聘一样优秀的人
+and they don’t want to work with B and C players, so they become self-policing, they only want to hire more A players. 
+
+所以你只要找到几个精英，他们就会自己扩大团队
+So you built up these pockets of A players and it propagates, 
+
+Mac团队就是这样，大家才华横溢，都很优秀
+and that’s what the Mac team was like, they were all A players, and these were extraordinarily talented people. 
+
+Bob：但是有人说他们再也不愿意为你工作了
+Bob: But there were also people who now say that they don’t have the energy any more to work for you. 
+
+Steve: 呃，的确
+Steve: Huh, sure. 
+
+大多数Mac团队成员认为那是他们这辈子最辛苦的日子
+I think if you talk to a lot of people on the Mac team, they would tell you it was the hardest they have ever worked in their lives,
+
+有些人觉得那是一生中最幸福的日子
+some of them would tell you it was their happiest they ever had in their lives, 
+
+但是没人否认那是这辈子最难忘、最珍贵的经历
+but all of them would tell you that it certainly is one of the most intense and cherished experiences they would ever have in their lives. 
+
+Bob: 没错
+Bob: Yeah, they did. 
+
+Steve: 只是有些人无法长时间忍受这样的工作
+Steve: So...err... you know, it’s a … some of those things are not sustainable for some people.
+
+Bob: 你说别人“工作很烂”时，想表达什么？
+Bob: What does it mean when you tell someone their work is a shit?
+
+Steve: 嗯… 就是他们干得很烂
+Steve: I … it usually means their work is a shit, 
+
+有时是我认为你干得很烂，也许我错了
+sometimes it means I think your work is a shit, and I am wrong. 
+
+一般是说他们的工作很不合格
+hehe, but .. it usually means that their work is not anywhere near good enough. 
+
+
+[42:25]
+Bob: Bill Atkinson说这话的真正含义是“我听不懂，请再解释一遍”
+Bob: I have this great quote from Bill Atkinson, who says “when you say someone’s work is a shit, you really mean.... I don’t quite understand it, would you please explain it to me?”
+
+Steve: 哈哈，不是的，我不是这个意思
+Steve: Haha, no, that’s not usually what I meant. 
+
+要知道与优秀、自信的人合作，不用太在乎他们的自尊
+I... you know, when you get really good people, they know they are really good, and you don’t have to baby people’s ego so much, 
+
+大家的心思都放在工作上
+and what really matters is the work, that everybody knows that and that all that matters is the work, 
+
+每个人负责完成一块很具体的任务
+so people are being counted on to do specific pieces of little puzzle, 
+
+如果他们的工作不合格，你要做的无非是提醒他们
+and the most important thing I think you can do for somebody who’s really good, and who’s really being counted on is to point out to them when their work isn’t good enough, 
+
+清晰明了地提醒他们恢复工作状态
+and to do it very clearly and to articulate why, and to get them back on track.
+
+同时不能让对方怀疑你的权威性
+And you need to do it in a way that doesn’t call into question your confidence in their abilities,
+
+要用无可置疑的方式告诉他们工作不合格
+but... leaves not too much room for interpretation that the work they have done for the particular thing is not good enough… to support the goal of the team.
+
+这很不容易，所以我总是采取最直截了当的方式
+And that’s a hard thing to do. Err... I always take a very direct approach, 
+
+有些同事觉得这种方式很好，但有些人接受不了
+so I think if you talk to people who worked with me, err... the  really good people have found it beneficial, some people hated it you know, 
+
+我是那种只想成功，不在乎是非的人
+but … I am also one of these people, I don’t really care about being right, I just care about success. 
+
+所以无论我原来的想法多么顽固
+So you will find a lot of people that would tell you that I had a very strong opinion, 
+
+只要反驳的人拿出可信的事实，五分钟内我就会改变观点
+and they present evidence in contrary and 5 minutes later I can change my mind,
+
+我就是这样，不怕犯错
+because I’m like that, I don’t mind being wrong, 
+
+我经常承认错误，没什么大不了的
+and I admit that I am wrong a lot, doesn’t really matter to me too much. 
+
+我只在乎结果
+What matters to me is that we do the right thing. 
+
+[苹果为什么研发桌面排版？它是Mac最受欢迎的应用]
+So how and why did Apple get into desktop publishing, which will become Mac’s killer-app? 
+
+Steve: 我们是全美第一个使用佳能激光打印引擎的公司
+Steve: I don’t know if you know this, but we got the first Canon laser printer engine shipped in US at Apple, 
+
+早在惠普和Adobe之前，我们就已经把它用在Lisa电脑上了
+and we had it hooked up to a Lisa actually imaging pages before anybody, long before HP, long before Adobe.
+
+后来我听说有人在施乐的车库里捣腾类似的玩意
+But I heard few times people tell me “hey there’s these guys over the garage in Xerox PARC... let’s go and see them” …  
+
+我去参观，发现他们比我们做得更好
+and I finally went and saw them, I saw what they were doing, and it was better than what we were doing, 
+
+他们打算成立一家硬件公司，生产打印机
+They were gonna be a hardware company they wanted to make printer and the whole thing, 
+
+我劝他们成立一家软件公司，就是Adobe
+so I talked them into being a software company, 
+
+两三周后我撤消了苹果内部的桌面出版项目
+and within 2 or 3 weeks, we had cancelled our internal project, 
+
+有些人恨死我了，但还是撤消了
+a bunch of people wanted to kill me over this. But, we did it.
+
+苹果和Adobe达成协议，买下他们19.9%的股份和软件使用权
+And I had cut a deal with Adobe to use their Software, and we bought 19.9% of Adobe at Apple, they needed financing and we want a little bit control, 
+
+然后买下佳能的激光打印引擎，自己开发驱动软件
+we were off to the races so we got the engine from Canon, and we designed the first laser printer controller at Apple, 
+
+接着从Adobe购买排版软件，激光打印机就这样面市了
+we got the software from Adobe, we introduced the laser writer. 
+
+除了Mac团队，公司其他人都不看好激光打印机
+No one at the company wanted to do it, but a few of us in the Mac group, 
+
+他们觉得一台打印机定价7000美元太贵
+everybody thought a 7000-dollar printer was crazy, 
+
+可他们忘了客户可以通过Apple Talk共享打印机
+what they didn’t understand was that you can share it with Apple Talk, 
+
+虽然他们知道这项功能，但看不到它的潜力
+I mean they understood intellectually, but they don’t understand viscerally .
+
+毕竟他们对Lisa电脑糟糕的市场表现记忆犹新
+because the last really expensive thing we tried to sell was Lisa. 
+
+我们坚持上马打印机项目，得罪了不少人
+so we pushed this thing through, and I had to basically do it through over a few “dead bodies”, 
+
+第一台激光打印机就这样面市了
+and we pushed this thing through and it was the first laser printer on the market as you know, and the rest is history. 
+
+我离开时，苹果是世界上最大的激光打印机公司
+When I left Apple, Apple was the largest printer company, measure by revenue in the world. 
+
+只过了三四年惠普就追上来了，真可惜
+It lost that distinction to HP about 3 or 4 years after I left, unfortunately, but when I left it was the largest printer company in the world. 
+
+[46:35]
+Bob: 你预见到桌面出版的前景吗，还是显而易见的？
+Bob: Did you envision desktop publishing, was that a no-brainer?
+
+Steve: 是的，我预见到了
+Steve: You know… yes, 
+
+但是我们同时还想推广网络办公
+but we also envisioned really the networked office, 
+
+所以1995年发布新产品时，我犯了这辈子最大的营销错误
+and so in January, 1995 when we had our annual meeting and introduced our new products, I made probably the largest marketing blunder of my career, 
+
+Bob: 是1985年
+Bob: 1985
+
+Steve: 1985年，对不起
+Steve: 1985, sorry. 
+
+我们发布了Macintosh Office办公系统，其中包括桌面出版
+Made probably the largest marketing blunder in my career by announcing the Macintosh Office instead of just desktop publishing, 
+
+当时应该集中力量推桌面出版，而不是所有功能一拥而上
+and we had desktop publishing as a major component of that, but we announced a bunch of other stuff as well, and I think we should just focus on desktop publishing at that time. 
+
+[1985年乔布斯被CEO John Sculley排挤，离开了苹果]
+After series of disagreements with Apple’s CEO, John Sculley, Steve left the company in 1985. 
+
+Bob: 说说你离开苹果的情况
+Bob: Tell us your departure from Apple. 
+
+Steve: 很痛苦，我都不太愿意聊这事
+Steve: Oh it was very painful and I am not even sure if I want to talk about it. 
+
+怎么说呢？我招错了人
+What can I say? I hired the wrong guy.
+
+Bob: 是指Sculley？
+Bob: That was Sculley?
+
+Steve: 是的，他毁了我十年的心血
+Steve: Yeah, and he destroyed everything I spent 10 years working for. 
+
+他逼我离职，但这还不是最糟糕的
+Starting with me, but that wasn’t the saddest part, 
+
+如果苹果能按我的设想发展，我会很开心
+I would have gladly left Apple if Apple had turned out like I wanted it to. 
+
+他侥幸登上了一艘正要发射的火箭
+He basically got on a rocket ship that is about to leave the pad, and the rocket ship left the pad, 
+
+他还以为自己建造了火箭
+and he kind of went into his head, and he got confused and thought he built the rocket ship, 
+
+轻率改变火箭的飞行轨道，结果是箭毁人亡
+and he kind of changed the trajectory, so that it’s inevitably gonna crash to the ground, 
+
+[48:36]
+
+Bob: 可是在Macintosh时期，你俩总是一起出现在媒体上
+Bob: But there was always … in Pre-Macintosh days and early Macintosh days, there was always Steven and John show,
+
+几乎形影不离
+you two were kinda joined at the hip for a while there.
+
+Steve: 没错
+Steve: That’s right.
+
+Bob: 后来怎么会产生矛盾呢？
+Bob: And then something happened to split you, what was that, what was that catalyst? 
+
+Steve: 1984年底IT行业进入萧条期，销售业绩大幅下降
+Steve: Well, what happened was … that the industry went into a recession in late 1984, sales started seriously contracted, 
+
+John开始惊慌失措
+and John didn’t know what to do, and he had not a clue. 
+
+这时苹果公司正好群龙无首
+And there was a leadership vacuum at the top of Apple. 
+
+各个部门的负责人都很强势，互不相让
+There were fairly strong general managers running the divisions, 
+
+我管理Macintosh部门，有人管理Apple II 部门
+and I was running the Macintosh division, somebody else was running the Apple II division etc, 
+
+还有些部门已经濒临关闭，比如存储部门
+there were some problems with some of the divisions, and there was a person running the storage division that was completely out of lunch, 
+
+公司百废待兴
+a bunch of things needed to be changed.
+
+市场疲软又进一步激化了公司的内部矛盾
+But all those problems got put into a pressure cooker, because of this contraction in the market place, 
+
+大家各自为阵
+and there was no leadership, 
+
+董事会对公司的业绩很不满意，John的职位岌岌可危
+and John was in a situation where the board was not happy, and where he was probably not long for the company. 
+
+那时我才发现John有一种很强烈的自救本能
+And one thing I did not ever see about John, until that time was, he had incredible survival instinct, 
+
+有人曾提醒我百事前总裁绝非善茬儿，他说得没错
+someone once told me “this guy didn’t get to be the this you know president of Pepsi co without these kind of instincts”, and it was true. 
+
+John把一切问题都归咎到我头上，我们因此反目
+And John decided that a really good person to be the root of all the problems would be me. And so we came to loggerheads,
+
+董事会一向很信任John，所以我被扫地出门了
+and John had cultivated a very close relationship with the board, and they believed him, so that’s what happened.
+
+Bob: 你们对公司的发展有不同的看法？
+Bob: So there were competing visions for the company?
+
+Steve: 是，也不是，因为John根本没有自己的看法
+Steve: Oh clearly … well... not so much competing visions for the company. Because I don’t think John had a vision for the company. 
+
+Bob: 我是想问的是，你当时的愿景是什么？
+Bob: Well, I guess I’m asking was what was your vision at that time, lost out in instance?
+
+Steve: 这不是愿景的问题，而是执行的问题
+Steve: It wasn’t an issue of vision, it was an issue of execution. 
+
+我认为苹果应该有一位强势的领袖，团结各个部门
+In a sense that my belief was that Apple needed much stronger leadership to sort of unite these various factions that we created with divisions 
+
+Macintosh才是苹果的未来，应该削减Apple II的项目开支
+that Macintosh was the future of Apple, that we needed to reinback expenses dramatically in the Apple II area… 
+
+加大对Macintosh投资的力度
+that we needed to be spending very heavily in the Macintosh area, err... things like that. 
+
+John的愿景是不惜一切代价保住他的CEO位置
+John’s vision was that he should remain the CEO of the company, and anything that would help him do that would be acceptable. 
+
+1985年苹果处在一种瘫痪的状态
+So you know I think that… you know Apple is in a state of paralysis in the early part of 1985, 
+
+我那时才30岁，觉得自己没有能力打理苹果
+and I wasn’t at that time capable... of running the company as a whole. You know I was 30 years old 
+
+我担心自己无法管理20亿资产的公司
+and I don’t think I had enough experiences to run a 2 billion dollar company, 
+
+可惜John也没这个能力
+unfortunately John didn’t either. 
+
+总之他们说没有适合我的职位了，太悲剧了
+And so anyway… I … I was told in no uncertain terms that there’s no job for me, it’s really tragic. 
+
+Bob: 像是流放西伯利亚
+Bob: Siberia. 
+
+[52:24]
+Steve: 是的，他们完全可以让我留下继续工作
+Steve: Yeah, It would have been far more smarter for Apple to sort of let me work on the next… 
+
+我申请过成立研发部门
+I volunteered why not I start research division, 
+
+每年给我几百万预算，网罗优秀人才干一番大事业
+you know give me a few millions bucks a year and I would go hire some really great people and we would do the next great thing. 
+
+他们拒绝了我的申请
+And I was told there is no opportunity to do that.
+
+Bob: 真可惜
+Bob: Oh well.
+
+[53:42]
+
+Steve: 我被赶出自己的办公室，再聊下去我会发狂的
+Steve: So my office was taken away, it was it was… I mean I will get really emotional if I keep talking about this, 
+
+但这还不是最糟的，毕竟公司是大家的，不是我的
+so anyway … but that’s irrelevant, I am just one person and the company is a lot more people than me, that’s not the most important part, 
+
+最糟糕的是苹果的企业文化在随后几年里被毁了
+the important part was the values of Apple over the next several years were systematically destroyed. 
+
+[接着我问Steve怎么看苹果的现状]
+I then asked Steve for his thoughts on the state of Apple. 
+
+[请注意当时是1995年，是他重返苹果的前一年]
+Remember this was 1995, a year before he would go back to Apple. 
+
+[苹果收购NeXT之后，他马上卖掉了到手的苹果股票]
+Remember too when Apple bought NeXT a year after this interview, Steve immediately sold the Apple stock he received as part of the sale. 
+
+Steve: 苹果正在衰落，非常痛苦地衰落
+Steve: Apple is dying today, Apple is dying a very painful death, it’s on a glide slope too, to die! 
+
+原因在于…
+And the reason is because … 
+
+我离开时，苹果领先业界整整10年
+you know when I walked out the door of Apple, we had 10 years lead on everybody else in the industry, Macintosh was 10 years ahead. 
+
+微软10年后才赶上我们
+We watched Microsoft take 10 years to catch up with it. 
+
+他们能赶上来是因为苹果止步不前
+Well, the reason that they could catch up with it was because Apple stood still, 
+
+今天的Macintosh与10年前的几乎没有区别
+I mean the Macintosh shipping today is like 25% different than the day I left! 
+
+苹果每年的研发费用数千万，累计已经超过50亿
+They spent hundreds of millions of dollars a year on R&D, you know total of probably 5 billion dollars on R&D, 
+
+有什么效果？我没看到
+what did they get for? I don’t know! 
+
+他们不懂如何利用新技术，不懂如何创造新产品
+But it was... what happened was the ...understanding of how to move these things forward, and how to create these new products, somehow evaporated, 
+
+优秀的员工被困在公司里，束手无策
+and I think a lot of good people stuck around for a while, but there wasn’t an opportunity to get together and do this, 
+
+因为缺少有眼光的管理者
+because there wasn’t any leadership to do that, 
+
+所以苹果在各个方面都落后了，包括市场份额
+so what happens with Apple now is that they had fallen behind in many aspects certainly in market share, 
+
+产品的优势已经被微软赶超
+and most importantly their differentiation has been eroded by Microsoft, 
+
+现在只剩下一群老用户，而且数量在缓慢递减
+and so what they have now is that they have their installed base, which is not growing, which is shrinking slowly, 
+
+老用户带来的收益还能再撑几年，但是逐年减少
+but would provide a good revenue stream for several years, but it’s a glide slope, it’s just gonna go like this. 
+
+很糟糕，而且我现在看不到挽回的希望
+So it’s unfortunate and I don’t really think it’s reversible at this point of time. 
+
+Bob: 你觉得微软怎么样？它的处境有点像福特
+Bob: Neither do I. What about Microsoft? I mean that’s the juggernaut now, and it’s kind of Ford-LTD going into the future, 
+
+肯定不是凯迪拉克，也不是宝马，他们干得怎么样？
+it’s definitely not Cadillac, it’s not BMW it’s just … you know … what’s going on there, how did these guys do that?
+
+Steve: 微软起家全靠了IBM
+Steve: Microsoft's orbit was made possible by a Saturn 5 booster called IBM. 
+
+比尔听我这么说会很生气，但这是事实
+And I know Bill would get upset with me for saying this, but of course it was true. 
+
+比尔和微软抓住了机会，创造成了更多机会
+And much to Bill and Microsoft's credit they used that fantastic opportunity to create more opportunities for themselves. 
+
+人们忘了微软在1984年之前根本不做应用软件
+Most people don't remember but until 1984 with the Mac, Microsoft was not in the application business, 
+
+那时是Lotus的天下
+which dominated by Lotus. 
+
+微软确实很有胆量，冒险为Mac编写应用程序
+And Microsoft took a big gamble, to write for the Mac. 
+
+刚开始他们的应用程序非常糟
+And they came out with applications that were terrible. 
+
+但他们不断改进，最终占领了Mac的应用市场
+But they kept at it and make them better. And eventually, they dominated the Macintosh application market,
+
+然后借助Windows这块跳板，打开了PC市场的大门
+and then used the spring board of Windows to get into the PC market with the same applications. 
+
+现在他们已经占领了PC市场
+And now they dominated the application business in the PC space too. 
+
+我觉得他们有两大优势：首先，擅长扑捉机会
+So they have 2 characteristics. I think they are very strong opportunists. And I don't mean that in a bad way. 
+
+其次，像日本人一样锲而不舍
+And two, they are like the Japanese. They just keep on coming. 
+
+他们起家全靠跟IBM合作
+And now, they were able to do that because of the revenue stream from the IBM deal. 
+
+但是他们很擅长利用机会，这一点我很佩服
+But nonetheless they made the most of it and I gave them a lot of credit for that.
+
+微软唯一的问题是没品位
+The only problem with Microsoft is they just have no taste. 
+
+完全没有品位可言
+They have absolutely no taste, and what that means is... I don't mean that in a small way, I meant that in a big way in the sense 
+
+只会一味模仿，产品缺少文化和内涵
+that they don't think of original ideas, and they don't bring much culture into their products. 
+
+为什么这很重要？
+And you say why is that important, 
+
+比例字体的灵感来自字体设计和精美书籍
+well, proportionally spaced fonts come from typesetting and beautiful books. That's where one gets the idea.
+
+如果没有Mac，微软永远不会想到这些
+If it weren’t for the Mac, they would have never had that in their products.
+
+让我难过的并非微软的成功，我一点不嫉妒他们
+And, so I guess, I'm saddened not by Microsoft's success. I have no problem with their success. 
+
+他们的成功基本上是靠勤奋工作换来的
+They've earned their success, for the most part. 
+
+我难过的是他们做的是三流产品
+I have the problem with the fact that they just make really third-rate products. 
+
+他们的产品没有灵魂和魅力，太过平庸
+Their products have no spirit to them. Their products have no... sort of spirit of enlightenment about them. They are very pedestrian. 
+
+更让人难过的是用户居然毫无察觉
+And the sad part is that most customers don't have a lot of that spirit either. 
+
+但人活着是要追求极致，并分享给同类的
+But the way we are going to ratchet it up... our species, is to take the best, and to spread it around to everybody
+
+这样人类才能共同进步，学会欣赏更美的东西
+so that everyone grows up with better things, and start to understand the subtleties of these better things. 
+
+微软不过是另一个麦当劳，这才是我难过的原因
+And Microsoft is just... McDonalds. And that's what saddens me. 
+
+不是因为微软赢了，而是因为微软的产品缺少创意
+Not that Microsoft has won, but that Microsoft products don't displayed more insight and more creativity.
+
+Bob: 你打算改变这种局面吗？NeXT有什么计划？
+Bob: So what are you doing about it? Tell us about NeXT.
+
+Steve: 暂时没有
+Steve: Well, I am not doing anything about it. 
+
+Bob: Ok
+Bob: Ok. 
+
+Steve: NeXT太小了，我只能眼睁睁看着，无能为力
+Steve: Because NeXT is too small a company to do anything about that, I am just watching it, and there’s really nothing I can do about it.
+
+[接着我们聊到Jobs正在经营的NeXT公司]
+Next we talked about NeXT, the company Steve was running in 1995, which Apple was soon to buy. 
+
+[NeXT被苹果收购后，很快成为Mac OS10的研发主力]
+NeXT software would become the heart of Mac in the form of OS10. 
+
+Steve: 你大概没兴趣听我聊NeXT吧？
+Steve: You don’t really want to hear about NeXT, do you?
+
+Bob: 我想听
+Bob: Yes, I do.
+
+Steve: 好吧
+Steve: You do? Okay, 
+
+我直接说NeXT目前在做什么吧
+well... maybe the best things since we don’t have  much time, is I just tell you what NeXT is today in the industry. 
+
+很显然，计算机产业创新要靠软件
+There hasn’t been … clearly the innovation of computer industry is happening in software right now, 
+
+但是长久以来，软件开发方式没有本质变化
+and there hasn’t been a revolution in how we create software in a long... (sneeze)
+
+对不起。软件开发方式20年来一直没有变化
+Sorry. The innovation in the industry is in software, and there hasn’t ever been a real revolution how we created software, certainly not in the last 20 years .
+
+[60:06]
+
+不但没有变化，反而越来越糟
+As a matter of fact, it’s gotten worse. 
+
+Macintosh降低了用户的使用难度，这是一项创举
+While the Macintosh was a revolution for the end users to make it easier to use, it was the opposite for the developer, 
+
+但增加了程序员的工作难度，软件开发越来越复杂
+the developer pays the price, and the software got more complicated to write, as it became easier to use for the end user, 
+
+软件正在向各行各业渗透，成为重要的商业竞争武器
+so software is infiltratingeverything we do these days, in businesses software is one of the most important potent competitive weapons, 
+
+MCI与AT&T十年来的竞争是就是最好的例证
+I mean the most successful business war was MCI friends and family in the last 10 years,
+
+MCI做了什么？不过是率先采用客户账单软件
+and what was that? It was a brilliant idea it was custom-billing software, 
+
+18个月内就抢走了AT&T数百万美元的市场份额
+AT&T didn’t respond for 18 months yielding millions of dollars for the market share to MCI, 
+
+AT&T并非毫不知情，可就是搞不定客户账单软件
+not because they are stupid, but because they couldn’t get the billing software done. 
+
+软件正在释放不可思议的力量
+So in ways like that, in smaller ways, software is becoming an incredible force in this world, 
+
+新的软件产品和软件服务将改变我们的社会
+to provide new goods and services to people whether it’s over the Internet or what have you, software is going to be a major enabler in our society. 
+
+我们借鉴了施乐PARC的另一项研究成果
+We have taken another...one of those brilliant original ideas from Xerox PARC
+
+也是1979年看到的，当时只了解一点皮毛
+that I saw in 1979, but didn’t see really clearly then, 
+
+这项研究叫面向对象编程
+called object oriented technology, 
+
+NeXT已经将其商业化，成为最大的供应商
+and we have perfected it and commercialized it, here and become the biggest supplier of it to the market, 
+
+它可以将软件开发速度提高十倍，而且质量更好
+and this object technology let you build software 10 times faster, and it’s better. 
+
+这就是NeXT目前做的事
+So that’s what we do, and we got a small to medium sized business, and we’re the largest supplier of objects, 
+
+公司有300人，资产是5000~7500万美元
+you know we were 50 to 75 million dollar company, got about 300 people, and that’s what we do. 
+
+Bob: 第四频道要求三期节目结束前请嘉宾展望一下未来
+Bob: And the end of the 3rd show, actually is one moment that we do look into the future, because channel 4 has asked us to do that, 
+
+你怎么看未来10年的技术发展趋势？
+so what’s your vision of 10 years from now, with this technology that you are developing? 
+
+Steve: 我看好互联网和web
+Steve: You know I think the internet and the web… 
+
+软件行业正在发生两件激动人心的事
+there are two exciting things happening in software and in computing, 
+
+一个是面向对象编程，另一个就是web
+one is objects, and the other is the web, 
+
+web将实现我们盼望已久的梦想
+the web is incredibly exciting because it is the fulfillment a lot of our dreams, 
+
+计算机不再仅仅充当计算工具，开始承担通信功能
+that the computer would ultimately not be primarily a device for computation but metamorphosis into a device for communication, and with the web that’s finally happening, 
+
+可喜的是微软还没发现这一点，创新的机会很多
+Secondly it’s exciting because the Microsoft doesn’t know it, and therefore it’s tremendous amount of innovation happening, 
+
+web将深刻改变我们的社会
+so I think the web is going to be profound in what it does to our society, 
+
+你知道美国有15%的商品是通过电视购物销售的
+as you know 15% of the goods and services in the US were sold by catalog over TV, 
+
+电视购物很快会被web取代
+all that would go on the web and more, billions and billions … 
+
+网络销售的潜力巨大
+soon tens of billions of dollars of goods and services are going to be sold on the web. 
+
+网络将成为最直接的销售渠道
+A way to think about it is ultimately  direct-to-customer distribution channel, 
+
+而且在网络上小公司与大公司看起来没有区别
+and another way to think about it is the smallest company in the world can look as large as the largest company in the world on the web, 
+
+如果将来回顾计算机发展历史
+so I guess... I think the web, as we look back 10 years back now, 
+
+web技术必然成为重要的里程碑
+the web is going to be the defining technology the defining social moment for computing, 
+
+它的潜力很大，会吸引更多年轻人进入计算机行业
+I think it’s going to be huge and I think it’s breathed a whole new generation of life into personal computing, I think it’s going to be huge. 
+
+Bob: 你们正在开发…
+Bob: And you are making software that … 
+
+Steve: 不仅是我们，Web为IT行业开启了新的大门
+Steve: Of course, so is everybody, I mean forget about what we are doing, as an industry, the web is going to open a whole new door to this industry. 
+
+Bob: 放在5年之前，谁能想象得到呢？
+Bob: It’s another one of those things that it’s obvious once it happens, but 5 years ago, who would have guessed?
+
+Steve: 没错，多么奇妙的行业呀！
+Steve: That’s right. Isn’t this a wonderful place we live in. 
+
+[我很想知道Steve的工作热情来自哪里？]
+I was keen to know about Steve’s passion,
+
+[是什么在激励他？]
+what drove him?
+
+Steve: 我小时候读过《科学美国人》杂志的一篇文章
+Steve: I read an article when I was very young,  in the Scientific American, 
+
+杂志比较了地球上不同物种的移动效率
+and it measures the efficiency of locomotion for various species on the planet, 
+
+比如熊、猩猩、浣熊、鸟类、鱼类等
+so for you know for bear, Chimpanzee, raccoons and birds, and fish,
+
+计算它们每移动一公里消耗的热量，还有人类
+how many kilocalories per kilometer did they spend to move, and humans was measured too, 
+
+最后秃鹫赢了，它的移动效率最高
+the condor won, it was the most efficient,  
+
+作为万物之灵的人类，排在倒数第几位
+and the mankind, the crown of creation, came in with rather unimpressive showing about a 3rd of the way down the list, 
+
+但是杂志特地测量了人类骑自行车的效率
+but somebody there had the brilliance to test a human riding a bicycle, 
+
+结果把秃鹫远远甩在了身后，在排名上遥遥领先
+blew away the condor, all the way off the charts, 
+
+这篇文章给我留下了深刻的印象
+and I remember this really had an impact on me, 
+
+人类擅长发明工具，工具够赋予我们奇妙的能力
+I really remember this - humans were tool builders, and we build tools that can dramatically amplify our innate human abilities.
+
+[65:17]
+
+苹果以前有一条广告：计算机是思想的自行车
+to me, we actually ran an ad line like this very early at Apple, that the personal computer was the bicycle of mind, 
+
+我坚信如果将来回顾人类历史
+and I believe that with every bone in my body, that of all the inventions of humans, 
+
+计算机将是人类最伟大的发明之一
+the computer is going to rank near, if not at the top, as history unfolds if we look back, and it is the most awesome tool that we ever invented, 
+
+我觉得自己非常幸运，在硅谷参与这项发明
+and I feel incredibly lucky to be at exactly the right place in silicon valley, at exactly the right time, historically where this invention has taken form. 
+
+这就好比画几何向量
+As you know when you set vector off in space, 
+
+开始时失之毫厘，结果会谬以千里
+if you can change direction a little bit at the beginning, it’s dramatic when it gets few miles on space, 
+
+我们刚刚起步，只要找对方向，以后就会非常顺利
+and I feel we are still really at the beginning of that vector, and if we can nudge it into right directions, it would be a much better thing as it progresses on.
+
+我们已经尝试了几次，结果让人非常满意
+And I look, you know we had the chance to do that a few times, and it brings all of us associated with tremendous satisfaction. 
+
+Bob: 你怎么知道哪个方向是正确的？
+Bob: And how do you know what’s the right direction?
+
+Steve: 最终得由你的品味来决定
+Steve: You know ultimately it comes down to taste, it comes down to taste, 
+
+你要熟悉人类在各种领域的优秀成果
+it comes down to trying to expose yourself to the best things that humans have done, 
+
+尝试把它们运用到你的工作里
+and try to bring these things in to what you are doing. 
+
+毕加索说过：拙工抄，巧匠盗
+Picasso had a saying “good artists copy, great artists steal“, 
+
+我从来不觉得借鉴别人的创意可耻
+we have always been shameless about stealing great ideas, 
+
+Macintosh团队里有音乐家
+and I think part of what made the Macintosh great was that people working on it were musicians 
+
+有诗人、艺术家、动物学家、历史学家
+and poets and artists, and zoologists and historians, 
+
+这些人也懂计算机，所以Macintosh才这么出色
+who also happened to be the best computer scientists in the world. 
+
+如果没有计算机，他们也会在其他领域造创奇迹
+But if it hadn’t been for computer science, these people would have all been doing amazing things in other fields, 
+
+大家各自贡献自己的专业知识
+and they all brought with them, we all brought to this effort a very liberal arts sort of air, 
+
+Macintosh因此吸收了各个领域的优秀成果
+a very liberal arts attitude that we want to pull in the best that we saw in other fields into this field, 
+
+否则的话，它很可能是一款非常狭隘的产品
+and I don’t think you’ll get that if you are very narrow. 
+
+[最后我问了一个规定问题：你是嬉皮士，还是书呆子？]
+One of the questions I asked everyone in the series was are you a hippie or a nerd?
+
+Steve: 如果必须二选一的话，我肯定是嬉皮士
+Steve: Oh if I had to pick one out of these two, I am clearly the hippie, 
+
+我所有的同事都属于嬉皮士
+all the people I work with were clearly in that category too, 
+
+Bob: 真的吗？
+Bob: Really?
+
+Steve: 是的
+Steve: Yeah. 
+
+Bob: 为什么？你有意招聘嬉皮士吗？他们吸引你？
+Bob: Why? You seek out hippies? They are attracted to you?
+
+Steve: 你觉得什么是嬉皮士？
+Steve: Well, ask yourself what’s hippie? 
+
+不同的人有不同的理解，但是对我来说…
+I mean this word has a lot of connotations, but to me, 
+
+60~70年代的嬉皮士运动给我留下了深刻印象
+remember the 60’s happens in the early 70’s, we have to remember that, that’s sort when I came of age, so I saw a lot of these,
+
+有些活动就是在我家后院举行的
+and a lot of things happened in our backyard here.
+
+嬉皮士运动启发了我
+So to me the spark of that was that 
+
+有些东西是超越日常忙碌琐碎的生活的
+there was something beyond, sort of what you see everyday, 
+
+生活不仅仅是工作、家庭、财产、职业
+there are something going on here in life beyond just a job, a family, 2 cars in the garage and a career, 
+
+它更丰富，就像硬币还有另一面
+there’s something more going on, there’s another side of the coin, 
+
+虽然大家嘴上不说
+that we don’t talk about much 
+
+但在生活的间隙，尤其是在不如意的时候
+and we experience when there are gaps, when we kind of aren’t... 
+
+我们都能感受到某种冲动
+when everything is not ordered or perfect and when there’s a kind of gap, you experience this inrush of something, 
+
+许多人想找回生活的真相
+and a lot of people have set off throughout history to find out what that was, 
+
+有人像梭罗那样隐居，有人在印度神秘仪式里寻找答案
+you know whether it’s Thoreau or the Indian mystics, whatever it might be,  
+
+嬉皮士运动大概就是这样，他们想寻找生活的真相
+and the hippie movement got a little bit like that, they want to find out what that was about, 
+
+生活不应该是父母过的那样
+and life wasn’t about what they saw their parents doing, 
+
+当然，后来运动变得太极端了
+and of course the pendulum swung too far the other way, that was too crazy. 
+
+但是他们的出发点是可贵的
+but there was a germ of something there, 
+
+正是因为这种精神，有人宁愿当诗人也不愿做银行家
+and it’s the same thing that causes people to want to be poets instead of bankers, 
+
+我很欣赏这种精神
+and I think that’s a wonderful thing. 
+
+我想把这种精神溶入产品里
+And I think that same spirit can be put into products
+
+只要用户使用产品，就能感受到这种精神
+, and these products can be manufactured and given to people, they can sense that spirit, 
+
+Macintosh的用户真心喜欢我们的产品
+if you talk to the people who use the Macintosh, they love it, 
+
+在此之前，你很少听人说真心喜欢商业产品
+you don’t hear people loving products very often, you know, really, 
+
+但你可以从Macintosh感受到某种奇妙的东西
+but you can feel it in there, there were something really wonderful there, 
+
+我觉得优秀的同事都不是为了计算机而工作
+So I don’t think that most of those really best people that I had worked with, had worked with computers for the sake of working with computers, 
+
+而是因为计算机是传达某种情感的最佳媒介
+they work with computers because they are the medium that is best capable of transmitting some feelings that you have, 
+
+他们渴望分享，你理解吗？
+you want to share with other people, does that make any sense to you?
+
+Bob: 当然
+Bob: Oh yeah. 
+
+Steve: 如果没有计算机，我们可能会从事其他行业
+Steve: And before they invented these things all of these people would have done other things, 
+
+是计算机让我们这些从小接触它的人走到了一起
+but computers were invented and they did come along, all these people did get interested in school or before school, 
+
+计算机就是我传达情感的媒介
+and say “hey this is the medium that I think I can really say something in”
+
+
+[片尾屏幕上出现的英文]
+
+采访结束一年后（1996年），Steve将NeXT出售给苹果
+In 1996, a year after this interview, Steve Jobs sold NeXT to Apple. 
+
+在苹果即将破产之际，乔布斯重新掌管了公司
+He then took control of his old company at a time when it was 90 days from bankruptcy, 
+
+随后展开了美国商业史上绝无仅有的拯救行动
+What followed was a corporate renaissance unparalleled in American business history, 
+
+随着iMac、iPod、iTunes、iPhone、iPad、Apple Store等创新产品的陆续推出，乔布斯将一家濒临破产的企业改造成全美最有价值的公司
+with innovative products like iMac, iPod, iTunes, iPhone, iPad and Apple Stores, Jobs turned an almost bankrupt Apple into the most valuable company in America.
+
+正如他在采访中所言，他追求极致，分享给同类，这样人类才能共同进步
+As he said in this interview, he took the best and spread it around “so that everybody grows up with better things”.
+
+Steve Jobs 1955-2011

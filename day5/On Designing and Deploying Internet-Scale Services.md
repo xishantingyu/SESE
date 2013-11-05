@@ -5,12 +5,16 @@ This paper summarizes the best practices accumulated over many years in scaling 
 # TOC
 
 # DevOps
+
 *	<http://en.wikipedia.org/wiki/DevOps>
 
 # administration tools
+
 *	puppet <http://puppetlabs.com>
 *	chef <http://www.opscode.com/chef/>
 
 # Industry Experience
+
 *	Facebook
 *	Google
+*	Twitter
