@@ -5,7 +5,7 @@ The following is a list of recommended books with descriptions from <http://www.
 *	More Joel on Software
 *	Hackers and Painters
 *	The Cathedral and the Bazaar
-*	Peopleware
+*	Peopleware/Dreaming in Code
 *	Coders at Work
 *	The Mythical Man-Month
 
@@ -155,6 +155,20 @@ Few books in computing have had as profound an influence on software management 
 —Lee Devin and Rob Austin, Co-authors of The Soul of Design and Artful Making
  
 For this third edition, the authors have added six new chapters and updated the text throughout, bringing it in line with today’s development environments and challenges. For example, the book now discusses pathologies of leadership that hadn’t previously been judged to be pathological; an evolving culture of meetings; hybrid teams made up of people from seemingly incompatible generations; and a growing awareness that some of our most common tools are more like anchors than propellers. Anyone who needs to manage a software project or software organization will find invaluable advice throughout the book.
+
+# [Dreaming in Code](http://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471)
+
+Amazon.com Review
+
+In the 80s, Tracy Kidder's The Soul of a New Machine attempted to define the story of the development of a minicomputer: from the new science to the business and nascent culture of electronic hardware and software that was characteristic of that time. Scott Rosenberg's Dreaming in Code draws on Kidder's model as it attempts to document the state of software, the Internet, and everything circa 2006 through the lens of Chandler, an as-yet-unfinished software application for the management of personal information.
+The Chandler project--driven by Mitch Kapor, the founder of Lotus Development and main author of its 1-2-3 spreadsheet, and later co-founder of the Electronic Frontier Foundation--isn't the primary point of Dreaming in Code, though reading about software people and their social behavior is at least as interesting as reading about that of meerkats or monkeys. Rather, Chandler is a rhetorical device with which Rosenberg takes on the big questions: How do software development teams work (or not)? Why does the reuse of software modules rarely work altogether correctly? Does open-source development by volunteers on the Internet lead to innovation or just insanely bifurcated chaos? Chandler helps his readers think more clearly about all of these issues; however, "answers" to these questions are, of course, not to be had, which is one of his points.
+
+The problem with books about technical subjects that aspire to appeal to a general audience, particularly computers and software, is that such subjects are so far outside the realm of familiarity of most people that the prose bogs down in analogy and metaphor. Rosenberg manages to avoid too much of that and deliver a readable account of software development and culture. --David Wall --This text refers to an out of print or unavailable edition of this title.
+
+From Publishers Weekly
+
+Software is easy to make, except when you want it to do something new," Rosenberg observes—but the catch is that "the only software worth making is software that does something new." This two-tiered insight comes from years of observing a team led by Mitch Kapor (the creator of the Lotus 1-2-3 spreadsheet) in its efforts to create a "personal information manager" that can handle to-do lists as easily as events scheduling and address books. Rosenberg's fly-on-the-wall reporting deftly charts the course taken by Kapor's Open Source Applications Foundation, while acknowledging that every software programmer finds his or her own unique path to a brick wall in the development process. (The software is still in development even now.) With equal enthusiasm, Rosenberg digs into the history of the computer industry's efforts to make programming a more efficient process. Though there's a lot of technical information, it's presented in very accessible terms, primarily through the context of project management. Even readers whose computer expertise ends at retrieving their e-mail will be able to enjoy digressions into arcane subjects like object-oriented programming. (Jan.) 
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. --This text refers to an out of print or unavailable edition of this title.
 
 
 # [Coders at Work](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/)
